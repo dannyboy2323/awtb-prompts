@@ -1,0 +1,3010 @@
+{
+ "project": "d205mlci",
+ "generated_from": "Sanity published stories",
+ "stories": [
+  {
+   "story": 1,
+   "slug": "riding-with-teddy-roosevelt-and-the-rough-riders",
+   "title": "Riding with Teddy Roosevelt and the Rough Riders",
+   "total_words": 7834,
+   "url": "https://www.adventureswiththebull.com/stories/riding-with-teddy-roosevelt-and-the-rough-riders",
+   "panels": [
+    {
+     "id": "S1-p01",
+     "n": 1,
+     "alignment": "right",
+     "alt": "waiting for count",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/d92adea00a8f62794d87aa2858d8240b516314d5-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 7,
+     "context": "To the boy who waited without waiting.",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "prison bunk, tank top, full tattoos"
+      }
+     },
+     "places_objects": {
+      "prison": {
+       "role": "ok",
+       "note": "bunk, waiting for count"
+      }
+     }
+    },
+    {
+     "id": "S1-p02",
+     "n": 2,
+     "alignment": "left",
+     "alt": "co does count",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/eda22418a25e9357203a445caf8560eed44eef3b-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 23,
+     "context": "The last count of my federal sentence happened at five in the morning, the same as every other count, which was the point.",
+     "characters": {},
+     "places_objects": {
+      "prison": {
+       "role": "ok",
+       "note": "CO with flashlight"
+      }
+     }
+    },
+    {
+     "id": "S1-p03",
+     "n": 3,
+     "alignment": "right",
+     "alt": "waking up after count",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/848b12d4053ff9a5c8ee1afe757964e967887f29-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 54,
+     "context": "The CO walked the tier. You could hear him coming \u2014 the specific drag-and-click of his boots on concrete, the same sound it had been for five years, the sound t",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "prison, shirtless seated"
+      }
+     },
+     "places_objects": {
+      "prison": {
+       "role": "ok",
+       "note": "waking after count"
+      }
+     }
+    },
+    {
+     "id": "S1-p04",
+     "n": 4,
+     "alignment": "left",
+     "alt": "journals in cell",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/d24e1b4f4b9bf483c1f0bbe1c01b477a2b3994b3-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 73,
+     "context": "I had woken to that count approximately eighteen hundred times. I had been marking them off in the back of my mind for about six months, the way you do when the",
+     "characters": {},
+     "places_objects": {
+      "journals": {
+       "role": "hero",
+       "note": "journal shelf in the cell"
+      }
+     }
+    },
+    {
+     "id": "S1-p05",
+     "n": 5,
+     "alignment": "right",
+     "alt": "processing for release",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/80f9a9cd01078e134ab40cdca793018418edc55e-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 86,
+     "context": "The journal was on the shelf. I'd started it eight months into Year 3, in the library, on a Tuesday, with no plan. Just started writing the way you start doing ",
+     "characters": {
+      "danny": {
+       "role": "hero",
+       "note": "release processing, standing, tee + jeans"
+      }
+     },
+     "places_objects": {
+      "prison": {
+       "role": "ok",
+       "note": "processing"
+      }
+     }
+    },
+    {
+     "id": "S1-p06",
+     "n": 6,
+     "alignment": "left",
+     "alt": "processing",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/557c18f8e7d32bc23979bcaf48118c0c9f911068-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 53,
+     "context": "Processing took less than an hour. Federal release is a bureaucratic event, not an emotional one, which suited me fine. There are forms. There are property retu",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "doorway, black tee, carrying box"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p07",
+     "n": 7,
+     "alignment": "right",
+     "alt": "leaving federal prison",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/2a8dfeb4e160279a622be3aafe8da57135127534-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 73,
+     "context": "They gave me back what I came in with. Jeans. Black t-shirt. Boots. Everything fit differently than it had. Five years of endless burpees and push-ups and pull-",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "outside prison fence holding box"
+      }
+     },
+     "places_objects": {
+      "prison": {
+       "role": "ok",
+       "note": "leaving"
+      }
+     }
+    },
+    {
+     "id": "S1-p08",
+     "n": 8,
+     "alignment": "left",
+     "alt": "47 dollars and a greyhound bus ticket",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/50f635721040b50a17e6c7e9b27b7e9295395229-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 71,
+     "context": "The CO who processed my discharge was named something I didn't catch. He had the face of someone for whom this job had long ago become simply a job. He told me ",
+     "characters": {
+      "danny": {
+       "role": "detail",
+       "note": "tattooed hand holding cash + bus ticket"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p09",
+     "n": 9,
+     "alignment": "right",
+     "alt": "watching moana",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/05736fa59c0ffc4bb8195f1f3f089933adeed596-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 76,
+     "context": "The envelope had forty-seven dollars in it. Gate money. I put it in my pocket.\nI want to tell you about the day I left for prison. Not the day I was sentenced \u2014",
+     "characters": {
+      "daniel": {
+       "role": "offmodel",
+       "note": "much younger Daniel asleep before a TV (Moana), flashback"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p10",
+     "n": 10,
+     "alignment": "left",
+     "alt": "talking before reporting to prison",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b495e9ed73724ad658ebf757bf90d30ede531063-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 78,
+     "context": "You were six. We said our real goodbye at your grandpa's house the week before I had to report. I sat on the floor with you for two hours, and then we huddled o",
+     "characters": {
+      "danny": {
+       "role": "hero",
+       "note": "seated on couch, forearms/hands clasped"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p11",
+     "n": 11,
+     "alignment": "right",
+     "alt": "I drove by your house",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/66d5110e9e75e555a9a38b762cfa483f22c47151-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 98,
+     "context": "I said the thing. You looked at me and said _okay_ the way you say okay when you're trying to understand something that doesn't have a shape. Then you asked if ",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "driving at dusk, profile"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p12",
+     "n": 12,
+     "alignment": "left",
+     "alt": "view of house from the street",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/2f005477c029f3f8366d19465fe796648ca72484-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 74,
+     "context": "I drove past your house on the way. Didn't plan to. Just did. The lights were on. It was six in the evening, and the lights were on, and I could see your shadow",
+     "characters": {},
+     "places_objects": {
+      "grandpas_house_exterior": {
+       "role": "ok",
+       "note": "Jen's house at night (Danny's drive-by)"
+      }
+     }
+    },
+    {
+     "id": "S1-p13",
+     "n": 13,
+     "alignment": "right",
+     "alt": "driving away",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/498aa8efe16e3378f02ac2ad2e05ad9581e3e653-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 49,
+     "context": "I've replayed those twenty minutes a lot. The honest version is that I couldn't do a second goodbye. One goodbye I could survive. Two would have broken me into ",
+     "characters": {
+      "danny": {
+       "role": "detail",
+       "note": "rear view driving away, neck tattoos"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p14",
+     "n": 14,
+     "alignment": "left",
+     "alt": "getting off the bus",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/c993e191027cd0c4c68a0f04de281cd746c9e887-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 38,
+     "context": "Life is made of a few critical moments and a long seasonality between them. That one felt like fall surrendering to a winter with no edge to it, no far side, no",
+     "characters": {
+      "danny": {
+       "role": "hero",
+       "note": "walking off bus, full figure"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p15",
+     "n": 15,
+     "alignment": "right",
+     "alt": "grandpa picking me up",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/c46a3e226aa49652246772791283001ced7d4a85-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 70,
+     "context": "Grandpa picked me up. He was waiting in the lot in his truck, standing outside it the way he stands, hands in his jacket pockets, watching the entrance. When he",
+     "characters": {
+      "grandpa": {
+       "role": "hero",
+       "note": "driving the truck at the prison lot, glasses, graying beard"
+      }
+     },
+     "places_objects": {
+      "vehicles": {
+       "role": "ok",
+       "note": "Grandpa's truck cab"
+      }
+     }
+    },
+    {
+     "id": "S1-p16",
+     "n": 16,
+     "alignment": "left",
+     "alt": "home detention",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/2ee2eb5c178a3c4e06af1463a32287875e5c25b9-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 82,
+     "context": "I said, \"I feel like someone who slept on a federal mat for five years.\"\nHe nodded as if this were a complete exchange. It was.\nHe lives in the same house he's ",
+     "characters": {
+      "danny": {
+       "role": "detail",
+       "note": "ankle monitor and boot"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p17",
+     "n": 17,
+     "alignment": "right",
+     "alt": "daniel pulling up",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/83a444bf91afd0ef6eeb3b1248db87b2071c3ba5-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 60,
+     "context": "What I hadn't filed paperwork about was the rule that mattered most to me, which was this: you could visit on weekends.",
+     "characters": {
+      "jen": {
+       "role": "detail",
+       "note": "silhouettes in the green Jeep"
+      }
+     },
+     "places_objects": {
+      "vehicles": {
+       "role": "hero",
+       "note": "green Jeep"
+      }
+     }
+    },
+    {
+     "id": "S1-p18",
+     "n": 18,
+     "alignment": "left",
+     "alt": "watching for daniel",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/c290bdc688445326d1e90427b53c4766ce7491e1-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 71,
+     "context": "The first Saturday, your mom's army-green Jeep pulled up in front of the house at ten in the morning.\nI saw it from the kitchen window. I had been up since five",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "at window watching, profile"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "front window"
+      },
+      "grandpas_house_exterior": {
+       "role": "ok",
+       "note": "autumn tree through window"
+      }
+     }
+    },
+    {
+     "id": "S1-p19",
+     "n": 19,
+     "alignment": "right",
+     "alt": "daniel gets out of the jeep",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/9230c49d43834d57c95e75d7268f406dc9bfa1c1-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 46,
+     "context": "Five years. I had seen you in visits, through glass and across tables, and I had watched the numbers change \u2014 six, seven, eight, nine, ten, eleven \u2014 but seeing ",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "getting out of the Jeep, backpack"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p20",
+     "n": 20,
+     "alignment": "left",
+     "alt": "daniel standing on the driveway",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/6e6d6bfb791e2f7bcc777dfd78e16f0c61fc0b17-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 91,
+     "context": "You were enormous. Not heavy \u2014 tall, lean, athletic, with the easy movement of someone who has been training his body to listen and it has been listening. You w",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "driveway, smiling, hoodie, hands in pockets"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_exterior": {
+       "role": "ok",
+       "note": "driveway (Jen/Daniel street)"
+      },
+      "vehicles": {
+       "role": "ok",
+       "note": "Jeep behind Daniel"
+      }
+     }
+    },
+    {
+     "id": "S1-p21",
+     "n": 21,
+     "alignment": "right",
+     "alt": "daniel's mom driving away",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/c466a797678e3492081453de7bdca7a30f4e6d09-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 128,
+     "context": "Your mom was next to you. She had her arms crossed in the way she does when she's holding something in \u2014 not defensively, just contained, the specific posture o",
+     "characters": {},
+     "places_objects": {
+      "vehicles": {
+       "role": "ok",
+       "note": "Jeep rear"
+      }
+     }
+    },
+    {
+     "id": "S1-p22",
+     "n": 22,
+     "alignment": "left",
+     "alt": "danny eating",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b58a6c0dcedb68c9289ecc8c9f583ec1e0745435-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 117,
+     "context": "You were on the porch. You looked up at me. \"So what are we doing?\"\n\"I don't know yet,\" I said.\nYou nodded like this was reasonable. Then you walked inside.",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "eating at table, framed portrait behind"
+      },
+      "grandpa": {
+       "role": "detail",
+       "note": "framed portrait on dining-room wall behind Danny (unconfirmed who it depicts)"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "hero",
+       "note": "dining room"
+      }
+     }
+    },
+    {
+     "id": "S1-p23",
+     "n": 23,
+     "alignment": "right",
+     "alt": "daniel eating",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/dc980f7cdf977909b109348ee2bfade80ca0c817-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 48,
+     "context": "Grandpa left to run errands around eleven. He said he'd be back and patted you on the shoulder twice on the way out, which was his version of a speech.\nYou had ",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "eating, hoodie"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "table"
+      }
+     }
+    },
+    {
+     "id": "S1-p24",
+     "n": 24,
+     "alignment": "left",
+     "alt": "daniel eating",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/a9e61f0ab04ec213422c6a922a31914c68f144fe-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 133,
+     "context": "You ate the way I'd been told you ate \u2014 with complete and sustained focus, the kind of attention most people reserve for things they love. You told me about you",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "eating, grinning"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "table/kitchen"
+      }
+     }
+    },
+    {
+     "id": "S1-p25",
+     "n": 25,
+     "alignment": "right",
+     "alt": "Donuts",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/c6c5bfbeb48e1644777f52d071bd070a68475a7e-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 74,
+     "context": "You were telling me about one of your jobs \u2014 something about an argument you'd had with a riding mower about the concept of reverse \u2014 when you stopped mid-sente",
+     "characters": {},
+     "places_objects": {
+      "entenmanns_donuts": {
+       "role": "hero",
+       "note": "box on counter"
+      }
+     }
+    },
+    {
+     "id": "S1-p26",
+     "n": 26,
+     "alignment": "left",
+     "alt": "daniel eating donut",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/5fc950cacf9b576bbc121c94a44c392cd5e7cfe2-1024x1024.webp",
+     "render_mode": "white-cutout",
+     "words_since_prev_panel": 95,
+     "context": "You found the donuts around noon.\nGrandpa had left a grocery bag on the counter. He puts groceries away in a specific order, which does not include leaving a ba",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "donut mid-bite on white"
+      }
+     },
+     "places_objects": {
+      "entenmanns_donuts": {
+       "role": "ok",
+       "note": "mid-bite"
+      }
+     }
+    },
+    {
+     "id": "S1-p27",
+     "n": 27,
+     "alignment": "right",
+     "alt": "daniel sick from donut",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/14c2b4795700d9e1ffa6ee3d7eb6c918abe367f6-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 134,
+     "context": "You had the backpack still on. You had your phone in your left hand, held up at chest height, and you appeared to be recording something \u2014 your own face, and th",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "sick-green after donut"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p28",
+     "n": 28,
+     "alignment": "left",
+     "alt": "nuclear fart",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/0856464f91f1310eda612e26219dfc512a19241c-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 58,
+     "context": "You were on the third donut. You finished it mid-sentence of the phone call. You lowered the phone. You looked at the plant. You said, \"That's what I thought.\"\n",
+     "characters": {},
+     "places_objects": {
+      "fart_and_shockwaves": {
+       "role": "hero",
+       "note": "S1 mushroom cloud over a house"
+      }
+     }
+    },
+    {
+     "id": "S1-p29",
+     "n": 29,
+     "alignment": "right",
+     "alt": "shift in space time continuum",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/33467db9a8c68308e16647c8047e8915450d3037-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 105,
+     "context": "There are sounds you have a category for and sounds you don't. The sound that came out of you was in the second group. It was low and sustained in a way that I ",
+     "characters": {},
+     "places_objects": {
+      "space_time_continuum": {
+       "role": "hero",
+       "note": "fiery fissure with tiny figure"
+      }
+     }
+    },
+    {
+     "id": "S1-p30",
+     "n": 30,
+     "alignment": "left",
+     "alt": "daniel in space time continuum",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/3f7d0a6e81b19ef2473a879a9c59ee77d5633bd2-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 77,
+     "context": "I want to be precise about this. Not metaphorically. The light coming through the window made a visible seam at approximately the height of your belt, and the a",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "standing in the rift, silhouette"
+      }
+     },
+     "places_objects": {
+      "space_time_continuum": {
+       "role": "hero",
+       "note": "Daniel in the rift"
+      }
+     }
+    },
+    {
+     "id": "S1-p31",
+     "n": 31,
+     "alignment": "right",
+     "alt": "singed donuts",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/319f6b73ea8435128a21c773c3fbd792a39a9f7b-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 81,
+     "context": "The smell was not a smell. It was a wrongness that preceded a smell \u2014 the specific ozone-before-lightning quality of something that had no prior category, the a",
+     "characters": {},
+     "places_objects": {
+      "entenmanns_donuts": {
+       "role": "hero",
+       "note": "singed donuts after the return"
+      }
+     }
+    },
+    {
+     "id": "S1-p32",
+     "n": 32,
+     "alignment": "left",
+     "alt": "cuba",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/5356f3f7fee3acce9156c889410dab71d640063b-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 54,
+     "context": "The kitchen light flickered.\nI gripped the counter.\nYou looked up. You started to say something. Then the world came apart at a seam I hadn't known was there, a",
+     "characters": {},
+     "places_objects": {
+      "cuba_1898": {
+       "role": "hero",
+       "note": "wide trench/hill"
+      }
+     }
+    },
+    {
+     "id": "S1-p33",
+     "n": 33,
+     "alignment": "right",
+     "alt": "danny landing in cuba",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/6808c68d17603c746607628e80b896ddc906f03c-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 70,
+     "context": "The heat arrived first.\nNot arrived. Landed. The heat of Cuba on the first day of July in the year 1898 is not weather. It is a position. It pressed against me ",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "landing in Cuba, crawling, uniform"
+      }
+     },
+     "places_objects": {
+      "cuba_1898": {
+       "role": "ok",
+       "note": "landing"
+      }
+     }
+    },
+    {
+     "id": "S1-p34",
+     "n": 34,
+     "alignment": "left",
+     "alt": "daniel in cuba",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/3e30d41358997728589ff69af770524af4dba219-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 152,
+     "context": "The land itself was the green of something that grows too fast and dies the same way. It rolled away from us in long humid waves toward a range of low blue hill",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "lying in Cuba"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p35",
+     "n": 35,
+     "alignment": "right",
+     "alt": "danny and daniel in cuba",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/a03929a3f68d5b2631a49cbcbfa9693144caabe0-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 109,
+     "context": "Diaz could have written that hillside for a year and not finished it.\nI was standing in tall dry grass on the side of a slope. The grass was shoulder height on ",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "with Daniel in Cuba, uniform"
+      },
+      "daniel": {
+       "role": "ok",
+       "note": "with Danny in Cuba"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p36",
+     "n": 36,
+     "alignment": "left",
+     "alt": "daniel in cuba",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/c8adf3d670f150761e5995d8519eac04479e2ed4-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 115,
+     "context": "Then I looked down at myself, and I understood that we were no longer dressed for a Saturday.\nI was in the rough wool and canvas of a man who had volunteered fo",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "Cuba, period uniform, serious portrait"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p37",
+     "n": 37,
+     "alignment": "right",
+     "alt": "johnny cash",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/f217ac5e433be08eabd0ded049ccaa5896c746e4-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 77,
+     "context": "This is something I have since learned is simply how it works. We arrive wearing the place. The fire dresses us for where we land, down to the laces, and it doe",
+     "characters": {
+      "johnny_cash": {
+       "role": "hero",
+       "note": "full-figure hologram with cyan edge-glow over the battlefield"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p38",
+     "n": 38,
+     "alignment": "left",
+     "alt": "johnny cash",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/564697e88517de6e52de5fa931f8e16476f43b97-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 166,
+     "context": "Before I could say anything \u2014 before I could say where are we or what happened or what was in those donuts \u2014 a man appeared.\nHe didn't walk up. He resolved, the",
+     "characters": {
+      "johnny_cash": {
+       "role": "ok",
+       "note": "mid-air, pointing the way"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p39",
+     "n": 39,
+     "alignment": "right",
+     "alt": "donuts",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/5c7385fba882cd0c48d646bca0be520fb5873ece-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 146,
+     "context": "He was dressed in black. Not a uniform. Just black, the way someone wears a color when they have decided it is the only correct choice. He had the face of a man",
+     "characters": {},
+     "places_objects": {
+      "entenmanns_donuts": {
+       "role": "ok",
+       "note": "donuts in a 1st U.S. Cav haversack"
+      }
+     }
+    },
+    {
+     "id": "S1-p40",
+     "n": 40,
+     "alignment": "left",
+     "alt": "danny on horse",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/ac6b9e8d5066d79903b51ced657f91187ddbc6fb-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 77,
+     "context": "\"Cool,\" you said, and turned to look at the hill.",
+     "characters": {
+      "danny": {
+       "role": "offmodel",
+       "note": "on horse in Rough Rider uniform; beard reads grey/pale - drift"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p41",
+     "n": 41,
+     "alignment": "right",
+     "alt": "daniel riding a horse",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/73c5ea31a93a19acb6ccfac9208f73d426e036af-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 95,
+     "context": "The Rough Riders were real. I'd read about them in the prison library \u2014 Roosevelt's volunteer cavalry regiment, a specific combination of Ivy League athletes an",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "riding horse, period uniform"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p42",
+     "n": 42,
+     "alignment": "left",
+     "alt": "rough riders assembling for battle",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/003076fb422cfaf91c07820b48767af3d24aa7fa-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 106,
+     "context": "I noticed that. I filed it. I didn't say anything about it yet, but I filed it. There's a lesson in there that I'll get to one day.",
+     "characters": {
+      "teddy_roosevelt": {
+       "role": "ok",
+       "note": "leading Rough Riders under the flag"
+      }
+     },
+     "places_objects": {
+      "cuba_1898": {
+       "role": "hero",
+       "note": "Rough Riders assemble"
+      }
+     }
+    },
+    {
+     "id": "S1-p43",
+     "n": 43,
+     "alignment": "right",
+     "alt": "teddy roosevelt",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/d32bad97066eb2ba0a387e930cec15bc0704849e-1024x1024.webp",
+     "render_mode": "white-cutout",
+     "words_since_prev_panel": 101,
+     "context": "You moved slightly ahead. You always do this \u2014 get a half step in front of wherever I am, like your body is calibrated to be slightly ahead of whatever is comin",
+     "characters": {
+      "teddy_roosevelt": {
+       "role": "ok",
+       "note": "mounted charge, saber on shoulder"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p44",
+     "n": 44,
+     "alignment": "left",
+     "alt": "teddy roosevelt talking to danny",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/dcf91138f40c301df6ea4a3e661fd935d0620893-1024x1024.jpg",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 89,
+     "context": "\"Lost it,\" I said. It was the truest thing I could say.",
+     "characters": {
+      "danny": {
+       "role": "detail",
+       "note": "back of head with Teddy"
+      },
+      "teddy_roosevelt": {
+       "role": "hero",
+       "note": "grinning beside Danny's shoulder, yellow neckerchief"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p45",
+     "n": 45,
+     "alignment": "right",
+     "alt": "danny in battle",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/f11118a2b0cc73037e0e15fa1482c139b2565a87-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 93,
+     "context": "I want to tell you what happened next, and I want to tell it straight, because you were there for the end of it but not the middle, and the middle is the part I",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "battle, pistol raised, period shirt"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p46",
+     "n": 46,
+     "alignment": "left",
+     "alt": "danny in battle",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/9418885fa15e03fa2d469d493eb7f1ccb47e710b-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 192,
+     "context": "Something came up out of me on that hill that I had put away a long time ago. I don't have a clean name for it. In another life I had been a man who solved prob",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "battle, saber, forearm tattoos"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p47",
+     "n": 47,
+     "alignment": "right",
+     "alt": "daniel hiding",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/98a334358212189c3dc8fadc43182448e670002f-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 174,
+     "context": "Because you did not fight. I made sure of that. You don't know how to take a life, and you are not going to learn it from me, and you were eleven years old. Wha",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "hiding in foliage, wide-brim hat"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p48",
+     "n": 48,
+     "alignment": "left",
+     "alt": "the prosecutor",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/1364754dcaed9a972d45a3b73c72ee9abc0353e3-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 110,
+     "context": "In the Spanish trench at the crest of the hill, which we could now see above us, a large portly man in a Spanish uniform was struggling with what appeared to be",
+     "characters": {
+      "prosecutor": {
+       "role": "ok",
+       "note": "Cuba: fedora, clipboard, pinstripe, badge"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p49",
+     "n": 49,
+     "alignment": "right",
+     "alt": "the hater",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/2f4c4eda9cf65204a3ab0d5521d903499fb8fb72-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 98,
+     "context": "The man in the trench scrambled up. He was covered in Cuban red clay. He pulled out a clipboard and wrote something on it.",
+     "characters": {
+      "hater": {
+       "role": "ok",
+       "note": "Cuba: campaign hat, uniform bust"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p50",
+     "n": 50,
+     "alignment": "left",
+     "alt": "danny in the SHU",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/447a340add054c1d32c827097432ebc4396a5d45-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 121,
+     "context": "Somewhere in the middle of it, when we were low behind a boulder and the firing above us was close enough to feel rather than just hear, it found me.\nIt usually",
+     "characters": {
+      "danny": {
+       "role": "hero",
+       "note": "SHU, cross-legged, orange pants, full torso tattoos"
+      }
+     },
+     "places_objects": {
+      "prison": {
+       "role": "hero",
+       "note": "SHU"
+      }
+     }
+    },
+    {
+     "id": "S1-p51",
+     "n": 51,
+     "alignment": "right",
+     "alt": "teddy roosevelt",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/d130c66db7aed774696f89cd0004594581da6aeb-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 170,
+     "context": "I let that land. Then I moved forward.",
+     "characters": {
+      "teddy_roosevelt": {
+       "role": "ok",
+       "note": "mounted, bandolier"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p52",
+     "n": 52,
+     "alignment": "left",
+     "alt": "teddy roosevelt during battle",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/8358df38889d35f8d0432039b3759d86fb355292-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 112,
+     "context": "The man on the horse became fully visible as we neared the crest of Kettle Hill.\nHe was enormous. Not just physically, though he was that \u2014 a large man on a lar",
+     "characters": {
+      "teddy_roosevelt": {
+       "role": "ok",
+       "note": "charging, bloody saber"
+      }
+     },
+     "places_objects": {
+      "cuba_1898": {
+       "role": "ok",
+       "note": "battle"
+      }
+     }
+    },
+    {
+     "id": "S1-p53",
+     "n": 53,
+     "alignment": "right",
+     "alt": "spanish sniper",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/7d62ec3e39efc919c3608dcd7f05c55ebb7d3653-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 76,
+     "context": "Roosevelt reached the crest. He was up there with his saber raised, the most visible target on the entire battlefield. The Spanish positions were breaking. Men ",
+     "characters": {},
+     "places_objects": {
+      "cuba_1898": {
+       "role": "ok",
+       "note": "sniper in palms"
+      }
+     }
+    },
+    {
+     "id": "S1-p54",
+     "n": 54,
+     "alignment": "left",
+     "alt": "daniel saves teddy",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/f5763d30c49d9267903d964abb133c3162b13c8d-1024x1024.webp",
+     "render_mode": "white-cutout",
+     "words_since_prev_panel": 118,
+     "context": "The first shot came then, before I could move, before I could shout. It took Roosevelt's hat clean off his head, and he did not so much as flinch. He looked in ",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "flying tackle to save Teddy"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p55",
+     "n": 55,
+     "alignment": "right",
+     "alt": "daniel saves teddy",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/fa852feaf98ead6b9b5f7bd0221654b2aa298074-1024x1024.webp",
+     "render_mode": "white-cutout",
+     "words_since_prev_panel": 108,
+     "context": "An eleven-year-old at full speed is a particular thing. You at full speed were more particular than most \u2014 already the height of a grown man's chest, six years ",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "mid-air, debris"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p56",
+     "n": 56,
+     "alignment": "left",
+     "alt": "daniel laying in the dirt",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/086475baada989081b42209eb772cf453102ed82-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 94,
+     "context": "The shot went through the space where Roosevelt's head had been.\nThe hill was taken.",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "lying in dirt, hat"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p57",
+     "n": 57,
+     "alignment": "right",
+     "alt": "teddy roosevelt laying in the dirt",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/618192898da5dfdeed80c40accda0a1c64fd2582-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 67,
+     "context": "Roosevelt was on the ground. You were sitting on him.",
+     "characters": {
+      "teddy_roosevelt": {
+       "role": "ok",
+       "note": "on the ground, rifle"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p58",
+     "n": 58,
+     "alignment": "left",
+     "alt": "teddy roosevelt talking to daniel",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/92ed7dada6eb64a96903bc2d865781b98d5e12bc-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 117,
+     "context": "Roosevelt looked at you.",
+     "characters": {
+      "daniel": {
+       "role": "detail",
+       "note": "back view with Teddy"
+      },
+      "teddy_roosevelt": {
+       "role": "ok",
+       "note": "speaking to Daniel"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p59",
+     "n": 59,
+     "alignment": "right",
+     "alt": "daniel covered in dirt and sweat",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/43b80e6033ecf06b2cb489e5ce3436a3638de43d-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 73,
+     "context": "When he did speak, it was quiet, and it was not for the men, and I do not think he knew he was going to say it until it was already out.",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "close portrait, cap, dirt"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p60",
+     "n": 60,
+     "alignment": "left",
+     "alt": "danny helping teddy roosevelt up",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/e87ce54f63b68c180ce65b9fb4b568b9b0305f6d-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 161,
+     "context": "He said it slowly, like a man taking dictation from somewhere. Then he blinked, and came back, and looked at you like he'd misplaced something and found it sitt",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "helping Teddy up"
+      },
+      "teddy_roosevelt": {
+       "role": "ok",
+       "note": "being helped up by Danny"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p61",
+     "n": 61,
+     "alignment": "right",
+     "alt": "teddy roosevelt talking",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/579bbc550ef318764c53c534510fec000ee04558-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 143,
+     "context": "\"Daniel,\" you said. \"People call me The Bull.\"",
+     "characters": {
+      "teddy_roosevelt": {
+       "role": "hero",
+       "note": "tight portrait"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p62",
+     "n": 62,
+     "alignment": "left",
+     "alt": "daniel has to send a fax to the warden",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b516df0f4129d4342b986bee4ea352ef8f79caef-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 266,
+     "context": "\"You saved my life,\" he said. It was not a question, and it was not theatrical. It was a man stating a fact he intended to keep. He took my hand in both of his,",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "holding toilet-paper 'fax'"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p63",
+     "n": 63,
+     "alignment": "right",
+     "alt": "danny is embarrassed",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/49e8f468412f347524dbfa9b11a67454c5d9165a-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 61,
+     "context": "\"I need to use the bathroom,\" you said.",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "period shirt, hand over face (embarrassed)"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p64",
+     "n": 64,
+     "alignment": "left",
+     "alt": "the mysterious blind man",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/03dcf3ea7de054562f3f47fe448d2e70439bba64-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 64,
+     "context": "\"Visits,\" you said, and walked toward the tree line with absolute calm.\nSometime afterward, in the quiet that followed the charge, an old man was walking nearby",
+     "characters": {
+      "old_timer": {
+       "role": "hero",
+       "note": "Rough Rider costume, white eyes, beard"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p65",
+     "n": 65,
+     "alignment": "right",
+     "alt": "space and time",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/87c72840fdda3c93e5109e3ce06b1ed3847213c1-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 215,
+     "context": "It was his eyes that stopped me. They were a pale, clouded milk-white, both of them, the eyes of a man who should not have been able to find his own hands in fr",
+     "characters": {},
+     "places_objects": {
+      "space_time_continuum": {
+       "role": "hero",
+       "note": "spiral of clocks, grids, planets"
+      }
+     }
+    },
+    {
+     "id": "S1-p66",
+     "n": 66,
+     "alignment": "left",
+     "alt": "the sacred flame",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/f0a3bf4fce2ea2250fb6f5edb69c96ca70f34118-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 78,
+     "context": "\"Time moves in one direction only if you're standing still,\" he said. He was looking at the hill, or at where the hill would be if he could see it. \"On a hill l",
+     "characters": {},
+     "places_objects": {
+      "sacred_eternal_flame": {
+       "role": "hero",
+       "note": "ring of hooded keepers, standing stones"
+      }
+     }
+    },
+    {
+     "id": "S1-p67",
+     "n": 67,
+     "alignment": "right",
+     "alt": "teddy walks away",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/71cf1aabe908f7b4f656026bb8dd0d2c5ca754ff-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 105,
+     "context": "You watched where he'd gone. \"I don't know,\" you said. \"But he knew something.\"",
+     "characters": {
+      "teddy_roosevelt": {
+       "role": "ok",
+       "note": "walking away, saluting the sunrise"
+      }
+     },
+     "places_objects": {
+      "cuba_1898": {
+       "role": "ok",
+       "note": "sunrise salute"
+      }
+     }
+    },
+    {
+     "id": "S1-p68",
+     "n": 68,
+     "alignment": "left",
+     "alt": "daniel holding a shell casing",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/792afacae4e58adce1923592284856835295614a-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 157,
+     "context": "\"Goodbye, Bull,\" he said.",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "holding shell casing souvenir, hat"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p69",
+     "n": 69,
+     "alignment": "right",
+     "alt": "daniel eating the donuts to return home",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/ea21696556dd16ba8bc87fe1be9fff8491e7fb0b-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 111,
+     "context": "You bent down and picked a spent shell casing out of the grass. You held it for a moment, turning it in the light. Then you put it in your pocket without commen",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "on horse eating donut"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p70",
+     "n": 70,
+     "alignment": "left",
+     "alt": "daniel puts the plant back",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b2bdad6a2f73852a24cec24f4f459554a03f6da2-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 107,
+     "context": "\"I don't know yet.\"",
+     "characters": {
+      "daniel": {
+       "role": "detail",
+       "note": "back view at window with plant, black tee"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "kitchen window + plant"
+      },
+      "the_plant": {
+       "role": "hero",
+       "note": "Daniel returning it to the sill"
+      }
+     }
+    },
+    {
+     "id": "S1-p71",
+     "n": 71,
+     "alignment": "right",
+     "alt": "danny sitting on couch talking",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/a4f1dac07df520b73072c6e109688dcbe45a7cf0-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 123,
+     "context": "We were both whatever we were \u2014 slightly different from what we'd been that morning, in a way that didn't have language yet but was real. The mud from Cuba was ",
+     "characters": {
+      "danny": {
+       "role": "hero",
+       "note": "armchair, relaxed, forearm tattoos"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "armchair"
+      }
+     }
+    },
+    {
+     "id": "S1-p72",
+     "n": 72,
+     "alignment": "left",
+     "alt": "daniel sitting on the couch talking",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b2f3293907692f2f29e13e8693b4ee2f41acbf3a-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 79,
+     "context": "You thought about this. You ran your finger over where the cut had been and wasn't. \"He was going to get shot,\" you said. Like this explained everything. Like t",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "couch, hoodie + shorts, pensive"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "armchair"
+      }
+     }
+    },
+    {
+     "id": "S1-p73",
+     "n": 73,
+     "alignment": "right",
+     "alt": "daniel asleep",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/85b699538a0c01f95f8b62791a548779abcbf423-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 44,
+     "context": "\"Some,\" I said.",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "asleep in bed, hat flying"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S1-p74",
+     "n": 74,
+     "alignment": "left",
+     "alt": "danny writing in his journal",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/630c10e386d48230f0eaab864efcbfd99e98691b-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 133,
+     "context": "It happened gradually, the way it does \u2014 you were talking about something, and then your voice got slower, and then you were quiet, and when I looked over you h",
+     "characters": {
+      "danny": {
+       "role": "hero",
+       "note": "journal at desk, lamp - the 'last panel' template"
+      }
+     },
+     "places_objects": {
+      "journals": {
+       "role": "hero",
+       "note": "writing at the desk"
+      }
+     }
+    }
+   ],
+   "images": {
+    "coverImage": {
+     "alt": "Story 1 Cover Art Landscape",
+     "url": "https://cdn.sanity.io/images/d205mlci/production/914cc022b7e42ad93dcf6a88984d7994476e4810-1024x1024.webp"
+    },
+    "coverImagePortrait": {
+     "alt": "Story 1 Cover Art Portrait",
+     "url": "https://cdn.sanity.io/images/d205mlci/production/810f2d7a3dd1cf52628aa9b375c5c9551c324b62-1152x2048.webp"
+    },
+    "postcard": {
+     "alt": "Story 1 Postcard",
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b92e23b120a7c928b78a052d2425d97190306ed6-3840x2880.avif"
+    }
+   }
+  },
+  {
+   "story": 2,
+   "slug": "big-poppa",
+   "title": "B.I.G. Poppa",
+   "total_words": 8443,
+   "url": "https://www.adventureswiththebull.com/stories/big-poppa",
+   "panels": [
+    {
+     "id": "S2-p01",
+     "n": 1,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/adc11d6dcc09fd2eb522a8c92ba63e266dbb9f03-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 25,
+     "context": "The week between the first Saturday and the second Saturday was six days long and lasted about a year.",
+     "characters": {
+      "danny": {
+       "role": "hero",
+       "note": "couch, hands clasped, tattoos, wristwatch"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "couch"
+      }
+     }
+    },
+    {
+     "id": "S2-p02",
+     "n": 2,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/a79feaf41337b78075b1bd174af66977db789807-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 82,
+     "context": "I can tell you how I spent it. I spent it in accordance with the terms of my supervised release, which is a sentence I had to practice saying without irony. The",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "supervision-office armchair, side profile, skull tattoo"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p03",
+     "n": 3,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/4ecfc9d910097cd1706fe4499d9b3426600250ce-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 121,
+     "context": "Whether I had been associating with known felons. I told him no, no, and no, and every answer was true, and I sat there thinking about the fact that six days ea",
+     "characters": {
+      "danny": {
+       "role": "offmodel",
+       "note": "bib overalls at work job; costume-justified"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p04",
+     "n": 4,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/f211e4cf6fc3abadad6a1fbd861d150738b74e1a-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 69,
+     "context": "Grandpa came through on a job. A friend of his runs a small operation \u2014 hands-on work, honest hours, the kind of employment my paperwork smiles upon. It starts ",
+     "characters": {
+      "danny": {
+       "role": "hero",
+       "note": "grocery aisle, tee + jeans"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p05",
+     "n": 5,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/463ddc7bc22518b01b98ee695db890ec07ae3ef6-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 67,
+     "context": "You called Thursday night.",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "on phone, hoodie, couch"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p06",
+     "n": 6,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/14b47c11e06d09d55f357cefa5ccc1f720796ea3-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 62,
+     "context": "The call was mostly logistics, which is how we did phone calls that first stretch \u2014 your mom relaying, you taking the phone, the ordinary furniture of a week. Y",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "armchair, phone"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "armchair"
+      }
+     }
+    },
+    {
+     "id": "S2-p07",
+     "n": 7,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b29674846958db39123d117f3ce5693041ae9994-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 57,
+     "context": "I want the record to show that my eleven-year-old had achieved intimidation by subcontractor, and that I, a man with a federal conviction, chose to say nothing,",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "brown-belt gi, training"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p08",
+     "n": 8,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/936ee335a1d22967a09187fe53bcc29e5c1343b2-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 86,
+     "context": "At the end of the call, right before you handed the phone back, you said: \"Don't forget donuts.\"",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "kitchen, phone, donut box on counter"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "kitchen"
+      }
+     }
+    },
+    {
+     "id": "S2-p09",
+     "n": 9,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/330a9125ccb2b89d00cd8cab5d998cfe13e5244e-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 60,
+     "context": "I put the phone down. I didn't write anything that night. Some nights you don't have the words yet and the honest move is to wait for them.",
+     "characters": {},
+     "places_objects": {
+      "grandpas_house_exterior": {
+       "role": "hero",
+       "note": "street view with Audi"
+      },
+      "vehicles": {
+       "role": "hero",
+       "note": "blue Audi A7"
+      }
+     }
+    },
+    {
+     "id": "S2-p10",
+     "n": 10,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b5915b58d8f02479368c34e9980739ad28060d49-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 30,
+     "context": "The blue Audi A7 pulled up at ten on Saturday morning, same as before, and I want to tell you that I was calm about it, and I was not.",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "greeting Jen on sidewalk"
+      },
+      "jen": {
+       "role": "hero",
+       "note": "on the sidewalk with Danny, profile"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p11",
+     "n": 11,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/dea824f715107b81bf3ec95e0ab9344e7f525b0e-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 62,
+     "context": "Your mom got out. She looked good, the way she looks good \u2014 assembled, warm, running a checklist behind her eyes. We did the logistics. Back Sunday at five. Too",
+     "characters": {},
+     "places_objects": {
+      "grandpas_house_exterior": {
+       "role": "hero",
+       "note": "street view dusk"
+      },
+      "vehicles": {
+       "role": "ok",
+       "note": "Audi rear"
+      }
+     }
+    },
+    {
+     "id": "S2-p12",
+     "n": 12,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/cf31e1470165fc27ea6907b4a7f166e99b486376-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 62,
+     "context": "There was a moment where we both watched you come up the walk at the same time and the moment ran a beat too long, same as last week, and then it was over, same",
+     "characters": {
+      "daniel": {
+       "role": "detail",
+       "note": "back view walking to door, backpack"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_exterior": {
+       "role": "ok",
+       "note": "orange front door"
+      }
+     }
+    },
+    {
+     "id": "S2-p13",
+     "n": 13,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/e40137d575354de3349a8d7503a53b12e1c5a130-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 78,
+     "context": "Your phone.",
+     "characters": {},
+     "places_objects": {
+      "entenmanns_donuts": {
+       "role": "ok",
+       "note": "box + notebook + phone"
+      },
+      "donut_experiments_notebook": {
+       "role": "hero",
+       "note": "cover"
+      }
+     }
+    },
+    {
+     "id": "S2-p14",
+     "n": 14,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/400081560cfc33e1315381efbea788bc69ebc8a5-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 49,
+     "context": "A juice box. \"Electrolytes.\"",
+     "characters": {
+      "danny": {
+       "role": "hero",
+       "note": "doorway, full figure, tee + jeans"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "doorway"
+      }
+     }
+    },
+    {
+     "id": "S2-p15",
+     "n": 15,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/f558f9a093697bd01a9594337eb52cf732a6fc6b-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 84,
+     "context": "I looked at the notebook while you set up the tripod. You allowed this, with conditions. The conditions were that I not touch the pages with \"food hands.\"",
+     "characters": {},
+     "places_objects": {
+      "donut_experiments_notebook": {
+       "role": "hero",
+       "note": "hypothesis page"
+      }
+     }
+    },
+    {
+     "id": "S2-p16",
+     "n": 16,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/007e8c622c70844aea0a4e56615efbd30a45a171-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 32,
+     "context": "3 = yes",
+     "characters": {},
+     "places_objects": {
+      "donut_experiments_notebook": {
+       "role": "hero",
+       "note": "variables page"
+      }
+     }
+    },
+    {
+     "id": "S2-p17",
+     "n": 17,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/4a7e1df7b4cdc7cc2dd298939a00b056e9b5122a-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 44,
+     "context": "\"It was there last time,\" you said, adjusting the tripod. \"Everything that was there is a variable. That's science, Dad.\"",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "setting up camera rig, hoodie"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "Daniel's camera nook"
+      }
+     }
+    },
+    {
+     "id": "S2-p18",
+     "n": 18,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/17d671eda561170a304c23836f50e7ddebe79c89-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 71,
+     "context": "\"What you're about to see,\" you told the camera, \"cannot be explained by regular science.\"",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "eating donut to camera"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "kitchen table"
+      }
+     }
+    },
+    {
+     "id": "S2-p19",
+     "n": 19,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/52238509867ffce242f62f9a2a8ac00730241055-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 84,
+     "context": "You ate the first donut narrating a taste assessment for a tier list whose criteria you did not explain and clearly considered self-evident. You ate the second ",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "writing in notebook, donut"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "kitchen table"
+      },
+      "donut_experiments_notebook": {
+       "role": "ok",
+       "note": "in use"
+      }
+     }
+    },
+    {
+     "id": "S2-p20",
+     "n": 20,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/bbec0f07ae70cac9cefa937dbd6f535ed5ba760e-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 59,
+     "context": "It came as a note.",
+     "characters": {
+      "danny": {
+       "role": "ok",
+       "note": "radiating glow as the 'note' arrives"
+      }
+     },
+     "places_objects": {
+      "fart_and_shockwaves": {
+       "role": "hero",
+       "note": "S2 radiating note"
+      }
+     }
+    },
+    {
+     "id": "S2-p21",
+     "n": 21,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/716a3e105479fdffdb67418f28e09397e3cf5f82-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 174,
+     "context": "It was the way sound arrives at a party before you turn the corner and see the speakers. It was bass before there was equipment worthy of it. I would understand",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "eating donuts with drink"
+      }
+     },
+     "places_objects": {
+      "grandpas_house_interior": {
+       "role": "ok",
+       "note": "table"
+      }
+     }
+    },
+    {
+     "id": "S2-p22",
+     "n": 22,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b0dfcb6698d35e4673144d34dc0bfb65bfb66c2e-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 60,
+     "context": "The air around your waist went glossy. Structured. Last time it bent; this time it moved \u2014 a shimmer with a pattern in it, and the pattern repeated, and I stood",
+     "characters": {},
+     "places_objects": {
+      "fart_and_shockwaves": {
+       "role": "hero",
+       "note": "S2 plant in bass-wave rings"
+      },
+      "the_plant": {
+       "role": "hero",
+       "note": "bracing in bass-wave rings"
+      }
+     }
+    },
+    {
+     "id": "S2-p23",
+     "n": 23,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/2276db36a7ef4ee75677c1a47021ae497a5b169a-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 38,
+     "context": "The temperature dropped. My breath came out white. The plant \u2014 and I want this in the permanent record \u2014 held its pot. It had braced, and it held, and whatever ",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "glowing close-up, fire-light"
+      }
+     },
+     "places_objects": {
+      "fart_and_shockwaves": {
+       "role": "ok",
+       "note": "S2 Daniel in the burst"
+      }
+     }
+    },
+    {
+     "id": "S2-p24",
+     "n": 24,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/1b5866d80b01ddbb082dd5c2a066a556e54ef66a-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 46,
+     "context": "You were not looking at your stomach this time. You were looking directly into your own camera, and your face was not the face of a scientist observing a result",
+     "characters": {},
+     "places_objects": {
+      "space_time_continuum": {
+       "role": "hero",
+       "note": "lightning rift with hooded figures and flame"
+      },
+      "sacred_eternal_flame": {
+       "role": "hero",
+       "note": "flame spiraling in the rift, hooded keepers"
+      }
+     }
+    },
+    {
+     "id": "S2-p25",
+     "n": 25,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/f9f8b499f085463fb06ef4d091c577928c5dbcd1-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 75,
+     "context": "The sound arrived before the place did.",
+     "characters": {},
+     "places_objects": {
+      "brooklyn_1992": {
+       "role": "hero",
+       "note": "block party wide"
+      }
+     }
+    },
+    {
+     "id": "S2-p26",
+     "n": 26,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/4aada1762984d48915b579c6d8431389bb8c44bf-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 150,
+     "context": "Over that: a needle on a record, and a man's voice riding it. Over that: dominoes coming down on a folding card table with prejudice, an open fire hydrant roari",
+     "characters": {},
+     "places_objects": {
+      "brooklyn_1992": {
+       "role": "hero",
+       "note": "hydrant rainbow"
+      }
+     }
+    },
+    {
+     "id": "S2-p27",
+     "n": 27,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/a484d533aa62ab1457851e77026071035088e015-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 72,
+     "context": "The light was gold and it came down the street lengthwise, the way evening light does when a street runs the right direction, and it lit the brick fronts of the",
+     "characters": {},
+     "places_objects": {
+      "space_time_continuum": {
+       "role": "ok",
+       "note": "cracked Brooklyn pavement, pressure waves"
+      }
+     }
+    },
+    {
+     "id": "S2-p28",
+     "n": 28,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/0cd34c58866191a790aaf1a18ecac11973b65eb3-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 78,
+     "context": "The heat was not Cuba's heat. Cuba's heat pressed down. This heat came up \u2014 out of the blacktop, out of the brick, stored all day and given back at evening, the",
+     "characters": {},
+     "places_objects": {
+      "brooklyn_1992": {
+       "role": "ok",
+       "note": "fire escape + boombox"
+      }
+     }
+    },
+    {
+     "id": "S2-p29",
+     "n": 29,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/63789baa5c130de47c67e56350bbf86e98fbaa60-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 43,
+     "context": "Every window on the block was open. The block was not having a party. The block was a party, and had been one every Saturday it could get away with it since bef",
+     "characters": {
+      "danny": {
+       "role": "offmodel",
+       "note": "Brooklyn disguise: blue Champion sweatshirt - story-justified"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p30",
+     "n": 30,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/a53d56d338d1e150a79c84a1473f7c36e1bfa07f-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 51,
+     "context": "I looked down at myself. Blue Champion sweatshirt jeans, a pair of shell-toe sneakers I had never purchased in any decade. A big gold chain I had never purchase",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "Brooklyn: Starter jacket, Raiders cap, chain, full figure"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p31",
+     "n": 31,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/157ca13918dada670594f52a82d399dac3be3c18-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 76,
+     "context": "I don't know how you knew the angle. The hat knew, or you knew, or the fire dressed your instincts along with your body. I found it vaguely frightening and said",
+     "characters": {},
+     "places_objects": {
+      "brooklyn_1992": {
+       "role": "hero",
+       "note": "block party street"
+      }
+     }
+    },
+    {
+     "id": "S2-p32",
+     "n": 32,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/e62b69643fad6f2ca1a748237850e7499c04ebe9-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 78,
+     "context": "He was standing in the shade of a stoop awning, in black, in what had to be ninety degrees, unbothered by either fact.",
+     "characters": {
+      "johnny_cash": {
+       "role": "hero",
+       "note": "radiant halo, arms open, 'Johnny Cash: The Man in Black' sign"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p33",
+     "n": 33,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/506af4243cf9f1572e6ddea38e2d791709f15687-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 91,
+     "context": "\"Brooklyn,\" he said. \"1992. You hear that big man over there?\"",
+     "characters": {
+      "biggie": {
+       "role": "ok",
+       "note": "eating, maroon jacket, Bed-Stuy banner"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p34",
+     "n": 34,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b49ad67d9188062b73c2638a23f30251402df9a2-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 67,
+     "context": "I followed the nod. Halfway up the street, leaning against a stoop rail with the unhurried mass of a landmark, was a very large young man \u2014 twenty, maybe, and t",
+     "characters": {
+      "danny": {
+       "role": "detail",
+       "note": "back of head, with Cash and Daniel"
+      },
+      "daniel": {
+       "role": "detail",
+       "note": "back of cap, with Danny and Cash"
+      },
+      "johnny_cash": {
+       "role": "hero",
+       "note": "close, over Danny's shoulder, direct stare"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p35",
+     "n": 35,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/a16a4b34651d170735ffe7e60661091e08218ca8-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 70,
+     "context": "\"You're not here to save his life. You're here so the boy can be the boy.\" A pause. \"That'll do it.\"",
+     "characters": {},
+     "places_objects": {
+      "entenmanns_donuts": {
+       "role": "hero",
+       "note": "donuts spilling from a red bag, Brooklyn 1992"
+      }
+     }
+    },
+    {
+     "id": "S2-p36",
+     "n": 36,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/729a7067b7bf7a42a953bf702a500206416cc1a7-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 44,
+     "context": "\"Are you going to explain who you are this time?\"",
+     "characters": {
+      "johnny_cash": {
+       "role": "ok",
+       "note": "waving goodbye, dissolving, guitar case on the road"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p37",
+     "n": 37,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/cf303364a3f3a4bbfd19ce3beb7b7c186506bed1-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 74,
+     "context": "\"Okay,\" you said, and walked into the party.",
+     "characters": {},
+     "places_objects": {
+      "brooklyn_1992": {
+       "role": "ok",
+       "note": "food + DJ"
+      }
+     }
+    },
+    {
+     "id": "S2-p38",
+     "n": 38,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/7e262b1d27aae9261af57c08752f1285c5ab9d4d-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 152,
+     "context": "You were not too skinny. You were eleven years old and the size of a middle linebacker's nephew. She had decided, and her decision outranked the facts, and thir",
+     "characters": {
+      "daniel": {
+       "role": "ok",
+       "note": "serving food at block party, Raiders cap"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p39",
+     "n": 39,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/530410af0dca83534681e5156d04324536663580-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 126,
+     "context": "A negotiation between two stoops about whose radio would defer to the DJ, settled by wattage. A domino table where the slaps came down like verdicts. Men my age",
+     "characters": {},
+     "places_objects": {
+      "brooklyn_1992": {
+       "role": "ok",
+       "note": "the corner"
+      }
+     }
+    },
+    {
+     "id": "S2-p40",
+     "n": 40,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/4da59e7e3eeb6a03e49f521f897a5a03528d9a20-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 126,
+     "context": "I want to tell you about the big man, because you met him, and because the world knows a version of him, and I got to see the twenty-year-old standing in the do",
+     "characters": {
+      "biggie": {
+       "role": "hero",
+       "note": "rapping into mic, Coogi sweater"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p41",
+     "n": 41,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/85734c1f7a70bc668c9fd686aeba55cef826ee8f-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 203,
+     "context": "He rapped in the middle of eating. I mean that literally: he would take a bite of the patty and come in on the beat mid-chew and lose nothing off either activit",
+     "characters": {
+      "biggie": {
+       "role": "ok",
+       "note": "leaning at the rail, paper bag"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p42",
+     "n": 42,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/41e2457120e5dd8ead6cb9af7cd134c5594f09ed-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 127,
+     "context": "You saw the old man before I did. You were looking for him. I didn't know that yet \u2014 I learned it in the moment, from the way your whole body changed.",
+     "characters": {
+      "old_timer": {
+       "role": "ok",
+       "note": "1992 Brooklyn: playing dominoes, white goatee (candidate - eyes not milk-white here)"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p43",
+     "n": 43,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/e55b49d62d493c959b759176b7444bf96a54f5eb-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 142,
+     "context": "We passed close to the table. He didn't turn his head. He spoke the way he'd spoken on the hill in Cuba \u2014 no preamble, mid-conversation, as if the conversation ",
+     "characters": {
+      "old_timer": {
+       "role": "hero",
+       "note": "cosmic star-chart backdrop, glowing white eyes, gray beard"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p44",
+     "n": 44,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/4308f81ae74fead226b9438f51981d26f2728f44-1008x1008.tif",
+     "render_mode": "white-cutout",
+     "words_since_prev_panel": 260,
+     "context": "There's a part of this story you and I weren't there for, and I'm going to tell it anyway. I didn't know any of it that night. I know it now \u2014 the way I know a ",
+     "characters": {
+      "prosecutor": {
+       "role": "hero",
+       "note": "full-figure model sheet with title banner"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p45",
+     "n": 45,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/5fe124a7dce4fd317c4477ade62c7f37f1f63f04-1024x1024.tif",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 176,
+     "context": "That fifteen minutes is the whole engine of everything that has ever happened to those two men, and I'll introduce them to you now, because that Saturday in 199",
+     "characters": {
+      "prosecutor": {
+       "role": "hero",
+       "note": "bust, red background, pinstripe + red tie"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p46",
+     "n": 46,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/9e0a6fca49b0c3cb81fc31224d400d28c4bd8556-1008x1008.tif",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 233,
+     "context": "The junior man is thirty-five and is called the Hater. Portly. A lazy eye that gives every glare a margin of error. Acne holding territory it captured in adoles",
+     "characters": {
+      "hater": {
+       "role": "hero",
+       "note": "full-figure model sheet"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p47",
+     "n": 47,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/5f1cb0e44eed48e6e023011d76ddc396d4adabad-1008x1008.tif",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 173,
+     "context": "What followed, per the incident report the Prosecutor later filed in his own defense: crosstown gridlock. A detour ordered by the Prosecutor using a map that wa",
+     "characters": {
+      "hater": {
+       "role": "hero",
+       "note": "close portrait, scowl"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p48",
+     "n": 48,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/e0fd7a3816fa6fa2729d6e773c399e59d73264e6-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 180,
+     "context": "Somewhere in the gold hour, watching the second man from the corner walk away from the big man's stoop, it found me. It usually does at moments like this \u2014 the ",
+     "characters": {
+      "danny": {
+       "role": "offmodel",
+       "note": "flashback: suit, pre-prison executive life - NOT current canon look"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p49",
+     "n": 49,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/17c0b6b75105e05524595b7d281214ed89b51d9c-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 117,
+     "context": "Across the table, a chair that was empty because the man who sat in it was down the hall, not yet knowing what we knew. He was our chief operating officer. Olde",
+     "characters": {},
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p50",
+     "n": 50,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/f2f563582a04bdf5897545b79238cd735f53b0d1-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 99,
+     "context": "I didn't say the word.",
+     "characters": {},
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p51",
+     "n": 51,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1008,
+      1008
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/356b2e297d2add5b38ccdf16d37eee9d8a190664-1008x1008.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 276,
+     "context": "Years later it turned. When it was me in the chair, nobody let me resign. I'm not saying the mercy was owed to me. I'm saying I learned the difference between t",
+     "characters": {
+      "biggie": {
+       "role": "hero",
+       "note": "close-up with gold chain, patterned sweater"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p52",
+     "n": 52,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/43009f1d3e1bbbc06d9d3867dd50d4c7eb69d77b-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 63,
+     "context": "The DJ opened the floor as the light went from gold to bronze.",
+     "characters": {},
+     "places_objects": {
+      "brooklyn_1992": {
+       "role": "ok",
+       "note": "DJ at Summer Jam"
+      }
+     }
+    },
+    {
+     "id": "S2-p53",
+     "n": 53,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/16f4b59998c0e83c4d9006e5b4ecaf8a455cd244-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 146,
+     "context": "The big man came off the stoop at last, and the crowd's density changed when he did, the way water changes when something large moves through it. He took the in",
+     "characters": {
+      "biggie": {
+       "role": "ok",
+       "note": "sunglasses, mic, crowd"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p54",
+     "n": 54,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/4c01173f7f3f070a75a4961a77b6467babd01ea2-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 185,
+     "context": "And you \u2014 you were at the edge of it, holding your second plate above your head to keep it out of range of the hydrant, because two of the neighborhood kids had",
+     "characters": {
+      "daniel": {
+       "role": "hero",
+       "note": "smiling close-up, Raiders cap, gold chain"
+      }
+     },
+     "places_objects": {}
+    },
+    {
+     "id": "S2-p55",
+     "n": 55,
+     "alignment": "left",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/4875d66bd4e2b92bfd66ead3e1774eb24f7f24f6-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 69,
+     "context": "I'll tell you where it came from, because you didn't know then and might not know even now.",
+     "characters": {
+      "daniel": {
+       "role": "offmodel",
+       "note": "flashback: Daniel at prison visiting-room bench (age ~6-8)"
+      }
+     },
+     "places_objects": {
+      "prison": {
+       "role": "hero",
+       "note": "visiting room, Daniel on bench"
+      }
+     }
+    },
+    {
+     "id": "S2-p56",
+     "n": 56,
+     "alignment": "right",
+     "alt": "panel image",
+     "size": [
+      1024,
+      1024
+     ],
+     "url": "https://cdn.sanity.io/images/d205mlci/production/cebc07e7433ccddea224c27afe7dd3756cb09abe-1024x1024.webp",
+     "render_mode": "full-bleed",
+     "words_since_prev_panel": 214,
+     "context": "Fifteen feet away, mid-bar, the big man stopped.",
+     "characters": {
+      "biggie": {
+       "role": "ok",
+       "note": "holding 'Brooklyn's Finest MCs' bag"
+      }
+     },
+     "places_objects": {}
+    }
+   ],
+   "images": {
+    "coverImage": {
+     "alt": "cover art story 2 1x1",
+     "url": "https://cdn.sanity.io/images/d205mlci/production/b6ff45f317f9957ce896d841198de1b24ea01e83-1024x1024.webp"
+    },
+    "coverImagePortrait": {
+     "alt": "cover art story 2 9x16",
+     "url": "https://cdn.sanity.io/images/d205mlci/production/062ad51a9fd04137aaeac9a639be634fcfc20357-1152x2048.webp"
+    },
+    "postcard": {
+     "alt": "postcard from brooklyn",
+     "url": "https://cdn.sanity.io/images/d205mlci/production/7e97ca1c300b299ecb9788073d4d3729c0fa14be-4480x2998.png"
+    }
+   }
+  }
+ ]
+}
