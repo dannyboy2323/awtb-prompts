@@ -1,9 +1,9 @@
 {
-  "_comment": "Pin Replicate model versions here (model -> version hash) so renders are reproducible. AUTHOR: fill from each model's Versions tab. Empty = use latest.",
-  "dannyboy2323/character-daddanny23": "",
-  "dannyboy2323/character-danielbull23": "",
-  "dannyboy2323/character-hater": "",
-  "dannyboy2323/character-prosecutor": "",
-  "black-forest-labs/flux-2-pro": "",
-  "openai/gpt-image-2": ""
+  "_comment": "Replicate version pins (model -> version hash), captured 2026-11-18 from each model's latest version. Update deliberately; pinned runs are reproducible.",
+  "dannyboy2323/character-daddanny23": "a3ebf8dc2ea59a958f2da54f99af37960fdd6bc187814c3687a32c101621d3b4",
+  "dannyboy2323/character-danielbull23": "442ad5cecf5a63bebc0492fc1322bda27007c4c13d9a629e9eac9e4d8bdaa00b",
+  "dannyboy2323/character-hater": "6d65f7348bbcf226e3b74aa6e6be393dd31e7d33f909b72a8e0b8e8d5ac211be",
+  "dannyboy2323/character-prosecutor": "04bedfd5c1efe089d3e51f89a4682c08f59c5dfb127a0ffb03e1480dc9ecff96",
+  "black-forest-labs/flux-2-pro": "ccb5e33141097816e6fab8c895e702fe4c619e4e07500885b71214e9f6382a5c",
+  "openai/gpt-image-2": "17a055b6663e5935b20cc31f55630866ea0fc7b4269f39f9957e1f21384f66aa"
 }

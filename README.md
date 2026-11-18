@@ -34,3 +34,8 @@ mirror disagree, **this repo wins**.
 
 ## Open items (tracked in `docs/pipeline-corrections.md`)
 Prosecutor trigger spelling, Replicate version pins (`tools/replicate_versions.json`), canon calls (Danny beard tone, Jen's car, Hater hat, Prosecutor look), approved references for Grandpa / Jen / Johnny Cash / Old-Timer.
+
+## Status (2026-11-18)
+- Replicate versions pinned (`tools/replicate_versions.json`).
+- Candidate reference renders for Old-Timer, Jen, Grandpa and Jenni are in `references/generated-refs/` (log in `log.json`). Approve by copying to `references/approved/<name>-NN.webp`.
+- Johnny Cash candidate was blocked by Replicate's safety filter (E005); the filter is never disabled. Use the published Cash panels (S1-p37, S2-p32/34) as the reference set instead, or try a description without the real name.

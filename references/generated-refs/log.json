@@ -1,0 +1,88 @@
+[
+ {
+  "character": "old_timer",
+  "file": "references/generated-refs/old_timer/old_timer-cand1.webp",
+  "prediction": "https://replicate.com/p/txtwj4hntxrmr0d1y3dbywk8mw",
+  "version": "hidden",
+  "seed": 1000,
+  "prompt": "2D graphic novel illustration in the style of a Mike Mignola inked comic panel, bold heavy black ink linework, dramatic chiaroscuro, deep blacks with muted earth tones, desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper, the same ancient man as the references, deeply weathered face, milk-white clouded eyes that nonetheless seem to see everything, long white beard, a slight knowing amused smile, plain timeless wool coat, head and upper body portrait facing slightly three-quarter, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures",
+  "reference_images": [
+   "https://cdn.sanity.io/images/d205mlci/production/03dcf3ea7de054562f3f47fe448d2e70439bba64-1008x1008.webp",
+   "https://cdn.sanity.io/images/d205mlci/production/e55b49d62d493c959b759176b7444bf96a54f5eb-1008x1008.webp"
+  ]
+ },
+ {
+  "character": "old_timer",
+  "file": "references/generated-refs/old_timer/old_timer-cand2.webp",
+  "prediction": "https://replicate.com/p/a7s85g408srmy0d1y3d91b1zrc",
+  "version": "hidden",
+  "seed": 1001,
+  "prompt": "2D graphic novel illustration in the style of a Mike Mignola inked comic panel, bold heavy black ink linework, dramatic chiaroscuro, deep blacks with muted earth tones, desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper, the same ancient man as the references, deeply weathered face, milk-white clouded eyes that nonetheless seem to see everything, long white beard, a slight knowing amused smile, plain timeless wool coat, head and upper body portrait facing slightly three-quarter, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures",
+  "reference_images": [
+   "https://cdn.sanity.io/images/d205mlci/production/03dcf3ea7de054562f3f47fe448d2e70439bba64-1008x1008.webp",
+   "https://cdn.sanity.io/images/d205mlci/production/e55b49d62d493c959b759176b7444bf96a54f5eb-1008x1008.webp"
+  ]
+ },
+ {
+  "character": "jen",
+  "file": "references/generated-refs/jen/jen-cand1.webp",
+  "prediction": "https://replicate.com/p/9gdwk1695nrmt0d1y3da2dcgnc",
+  "version": "hidden",
+  "seed": 1000,
+  "prompt": "2D graphic novel illustration in the style of a Mike Mignola inked comic panel, bold heavy black ink linework, dramatic chiaroscuro, deep blacks with muted earth tones, desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper, the same woman as the reference, early forties, composed and warm, dark hair pulled back, clean strong facial structure, tired eyes that miss nothing, practical stylish clothing, head and upper body portrait facing slightly three-quarter, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures",
+  "reference_images": [
+   "https://cdn.sanity.io/images/d205mlci/production/b5915b58d8f02479368c34e9980739ad28060d49-1024x1024.webp"
+  ]
+ },
+ {
+  "character": "jen",
+  "file": "references/generated-refs/jen/jen-cand2.webp",
+  "prediction": "https://replicate.com/p/3cbqd77t7srmr0d1y3d8ynjky8",
+  "version": "hidden",
+  "seed": 1001,
+  "prompt": "2D graphic novel illustration in the style of a Mike Mignola inked comic panel, bold heavy black ink linework, dramatic chiaroscuro, deep blacks with muted earth tones, desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper, the same woman as the reference, early forties, composed and warm, dark hair pulled back, clean strong facial structure, tired eyes that miss nothing, practical stylish clothing, head and upper body portrait facing slightly three-quarter, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures",
+  "reference_images": [
+   "https://cdn.sanity.io/images/d205mlci/production/b5915b58d8f02479368c34e9980739ad28060d49-1024x1024.webp"
+  ]
+ },
+ {
+  "character": "grandpa",
+  "file": "references/generated-refs/grandpa/grandpa-cand1.webp",
+  "prediction": "https://replicate.com/p/y6f3pb9b4nrmt0d1y3dvah510r",
+  "version": "hidden",
+  "seed": 1000,
+  "prompt": "2D graphic novel illustration in the style of a Mike Mignola inked comic panel, bold heavy black ink linework, dramatic chiaroscuro, deep blacks with muted earth tones, desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper, the same man as the reference, seventies, lean and quiet, flannel shirt, reading glasses pushed up on his forehead, unbothered expression, head and upper body portrait facing slightly three-quarter, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures",
+  "reference_images": [
+   "https://cdn.sanity.io/images/d205mlci/production/c46a3e226aa49652246772791283001ced7d4a85-1024x1024.webp"
+  ]
+ },
+ {
+  "character": "grandpa",
+  "file": "references/generated-refs/grandpa/grandpa-cand2.webp",
+  "prediction": "https://replicate.com/p/9mtc1pk7ynrmy0d1y3dsdfqns4",
+  "version": "hidden",
+  "seed": 1001,
+  "prompt": "2D graphic novel illustration in the style of a Mike Mignola inked comic panel, bold heavy black ink linework, dramatic chiaroscuro, deep blacks with muted earth tones, desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper, the same man as the reference, seventies, lean and quiet, flannel shirt, reading glasses pushed up on his forehead, unbothered expression, head and upper body portrait facing slightly three-quarter, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures",
+  "reference_images": [
+   "https://cdn.sanity.io/images/d205mlci/production/c46a3e226aa49652246772791283001ced7d4a85-1024x1024.webp"
+  ]
+ },
+ {
+  "character": "jenni",
+  "file": "references/generated-refs/jenni/jenni-cand1.webp",
+  "prediction": "https://replicate.com/p/enw9324rshrmw0d1y3dt1y1w90",
+  "version": "hidden",
+  "seed": 1000,
+  "prompt": "2D graphic novel illustration in the style of a Mike Mignola inked comic panel, bold heavy black ink linework, dramatic chiaroscuro, deep blacks with muted earth tones, desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper, a beautiful woman in her late forties with understated natural beauty, no makeup, long natural wavy surfer blonde hair the color of dry hay worn loose and a little wild, fine-line botanical tattoos up one forearm, silver rings on most fingers, thrifted men's chambray shirt with rolled sleeves, warm open amused expression, head and upper body portrait facing slightly three-quarter, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures",
+  "reference_images": []
+ },
+ {
+  "character": "jenni",
+  "file": "references/generated-refs/jenni/jenni-cand2.webp",
+  "prediction": "https://replicate.com/p/90etb069ysrmy0d1y3dvwc8jz4",
+  "version": "hidden",
+  "seed": 1001,
+  "prompt": "2D graphic novel illustration in the style of a Mike Mignola inked comic panel, bold heavy black ink linework, dramatic chiaroscuro, deep blacks with muted earth tones, desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper, a beautiful woman in her late forties with understated natural beauty, no makeup, long natural wavy surfer blonde hair the color of dry hay worn loose and a little wild, fine-line botanical tattoos up one forearm, silver rings on most fingers, thrifted men's chambray shirt with rolled sleeves, warm open amused expression, head and upper body portrait facing slightly three-quarter, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures",
+  "reference_images": []
+ }
+]
