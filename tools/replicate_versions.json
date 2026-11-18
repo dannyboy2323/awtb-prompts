@@ -1,0 +1,9 @@
+{
+  "_comment": "Pin Replicate model versions here (model -> version hash) so renders are reproducible. AUTHOR: fill from each model's Versions tab. Empty = use latest.",
+  "dannyboy2323/character-daddanny23": "",
+  "dannyboy2323/character-danielbull23": "",
+  "dannyboy2323/character-hater": "",
+  "dannyboy2323/character-prosecutor": "",
+  "black-forest-labs/flux-2-pro": "",
+  "openai/gpt-image-2": ""
+}

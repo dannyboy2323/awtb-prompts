@@ -1,0 +1,900 @@
+{
+ "schema": 1,
+ "runs": [
+  {
+   "id": "z2hx3t5btxrmy0cymd39hjxfwc",
+   "model": "dannyboy2323/character-hater",
+   "prediction_url": "https://replicate.com/p/z2hx3t5btxrmy0cymd39hjxfwc",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, bold heavy black ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph, NOT realistic, NOT painted, NOT Hellboy, NOT Hellboy character, NO horns, NO stone fist, NO right hand of doom, NO red skin whatsoever, NO pink skin, NO supernatural features, NO demonic features, NO fictional character likeness, fully original human character, normal human pale peachy skin tone, normal caucasian skin color, NOT red skin NOT pink skin NOT grey skin, no extra limbs, no floating limbs, no disembodied body parts, no anatomical errors, clean figure rendering, plain solid white background, NO background, NO scenery, NO environment, NO textures behind figure, NO watermark, NO signature, NO text, NO logo, NO artist signature, NO bottom left text, NO bottom right text, nothing behind the figure, no props, no objects, no background elements, no floor, no ground shadow, no environment, plain white background only, CHARACTERHATER, THE HATER, fully human, normal human anatomy throughout, normal human head, no horns no growths no supernatural features anywhere on the body, short and extremely portly obese human male, broad flat nose, wide flaring nostrils, round fleshy face, both eyes fully visible with misaligned wandering gaze apparent, heavy jowls, thick fleshy neck with multiple chins cascading downward, pronounced buck teeth jutting forward from a slack partially open mouth, the protruding front teeth extending beyond the lip line, ruddy flushed uneven skin, rough blotchy complexion, greasy lank hair plastered flat against the round skull, normal human pale skin tone, wide squat body, short stubby arms and legs, slovenly disheveled posture, dark navy blue uniform shirt with FUN POLICE patch fully visible on left shoulder, official FBOP shield badge on chest fully visible, shirt untucked barely containing the round midsection, buttons pulling and straining across the belly, belt sitting low beneath the midsection, dark navy uniform trousers hiked too high, scuffed dirty boots, faint stain on shirt front, CHARACTERHATER standing holding a large glazed donut in one hand raising it toward his open mouth, expression of dull mindless contentment while eating, powdered sugar visible on his fingers, cinematic comic panel composition, plain white background, isolated single character, clean white background, NO signature, NO watermark, NO text overlay",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 1,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/zMeEBtxTTfu69EO8j8SiY22fTDBLETfISsLxrXNbKxt0eym1C/out-0.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "characterhater.md"
+  },
+  {
+   "id": "vye5dz86h5rmw0cyzgzv6e446c",
+   "model": "dannyboy2323/character-prosecutor",
+   "prediction_url": "https://replicate.com/p/vye5dz86h5rmw0cyzgzv6e446c",
+   "input": {
+    "model": "dev",
+    "prompt": "#CHARACTERPROSECUTOR a villain in a pinstripe suit in the style of GTA",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 1,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/npsp0ZRKyKI1DhcNz8wh9BEUHDhPfMx9M546yNm1C03VZRZLA/out-0.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "characterprosecutor.md"
+  },
+  {
+   "id": "wrwje7nthdrmt0cykre8cx1rm0",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/wrwje7nthdrmt0cykre8cx1rm0",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length brown beard, neck tattoos, black shirt, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 1,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/PnwJuZ8CiHYyLxo3H23GG7fhlfRrv3gtefxmVHgH29elwJk1C/out-0.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "dp9ymd2vnsrmt0cykrhaxywsh8",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/dp9ymd2vnsrmt0cykrhaxywsh8",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, black shirt, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, federal prison release scene, massive imposing concrete prison gate swinging open behind him, harsh morning backlight silhouetting the figure from behind casting a long dramatic shadow forward, figure walking forward toward viewer with slow deliberate weight, a single battered paper bag of belongings clutched in one fist, razor-wire fence receding into deep shadow on both sides, cold institutional grey concrete walls flanking the exit, faded black stenciled letters reading \"PROCESSING\" above the gate, a single guard tower looming in the upper background barely visible in shadow, cracked asphalt ground beneath worn boots, oppressive negative space above the figure, sparse desolate landscape beyond the gate, freedom and menace in equal measure, the quiet devastation of a man stepping back into a world that kept moving without him\n",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/0ex0fw6JXysoMUQ2X0KXzfp46vd4WHegfE2lztzXC9JLfUIrF/out-0.webp",
+    "https://replicate.delivery/xezq/GP5Yeny0Ic0RIiwKyTc9G0WlzYMpem4Je159tfrsBMdkPFyaB/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "x8j6x910y5rmt0cykrmbv4hxw0",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/x8j6x910y5rmt0cykrmbv4hxw0",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, black shirt, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, prison release exterior scene, figure standing just outside the prison gate with the massive concrete walls and razor wire receding behind him, a small crowd of waiting figures in the middle distance across a cracked asphalt lot, one small boy standing apart from the crowd slightly forward, roughly 12 years old, dark hair, looking directly at the released figure, neither moving yet, the weight of the moment suspended between them, warm amber backlight from low morning sun cutting across the lot and separating the boy from the crowd, long dramatic shadows stretching across the ground between father and son, emotional distance rendered as physical distance, the crowd blurred and de-emphasized in deep shadow, all focus pulled to the two figures and the charged empty space between them, cinematic wide shot panel, devastating quiet, the reunion not yet begun\n",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/KVaLgEdqmeReG0lvcpmMMyMYDYiaSw30faZzPhaD2CVmzCZtA/out-0.webp",
+    "https://replicate.delivery/xezq/lSqShvspsGImGJlLprPMVK8Xf1aV7KS8uY4Hwx6rkmg5sQWLA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "jkrv7sgkf5rmw0cykrmt3yesh4",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/jkrv7sgkf5rmw0cykrmt3yesh4",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, black shirt, athletic build, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, prison release exterior scene, figure standing just outside the prison gate with the massive concrete walls and razor wire receding behind him, a small crowd of waiting figures in the middle distance across a cracked asphalt lot, one small boy standing apart from the crowd slightly forward, roughly 12 years old, dark hair, looking directly at the released figure, neither moving yet, the weight of the moment suspended between them, warm amber backlight from low morning sun cutting across the lot and separating the boy from the crowd, long dramatic shadows stretching across the ground between father and son, emotional distance rendered as physical distance, the crowd blurred and de-emphasized in deep shadow, all focus pulled to the two figures and the charged empty space between them, cinematic wide shot panel, devastating quiet, the reunion not yet begun\n",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/wYMrnJqGYAoXOVOzSdbWUTB5pXTxZrSTFKfvHrz0vegvahsWA/out-0.webp",
+    "https://replicate.delivery/xezq/IYapfJptwPzKdKu2BZQ597nD5IZe2mSy9UezsAT9QNjeqFyaB/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "mjewd4f7bhrmw0cykrqsctvtwc",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/mjewd4f7bhrmw0cykrqsctvtwc",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, rear view from behind, shirtless, powerfully athletic muscular build, broad shoulders, defined back musculature, V-taper torso, entire back and torso covered in dense intricate traditional black tattoos, bold traditional tattoo linework layered across every inch of skin from neck down to waistline, large intricate back piece as centerpiece surrounded by dense traditional filler tattoos, sleeve tattoos extending from neck tattoos downward across shoulders and arms, tattoo designs featuring bold traditional motifs rendered in pure black ink, thick bold outlines with heavy black fill, the tattoo linework blending seamlessly with the Mignola ink illustration style, figure viewed straight from behind standing with weight and authority, beard visible from behind falling over the back of the neck onto upper back, the tattoo coverage telling a story of a life fully committed, dramatic side lighting carving deep shadow into the muscle definition and tattoo linework simultaneously, the back itself treated as a full composition within the panel, raw imposing physical presence\n",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/xmOeR3re8JgXZk7aEfpzeW1SMnvJoMtYjBXwWKG55rWBHGyaB/out-0.webp",
+    "https://replicate.delivery/xezq/OsOSeFqygbVbAqqFX4esOezBU0lsNcAgtVivaCinnHVgDDZtA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "eh40bhk4m5rmy0cykrw9cr7bvw",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/eh40bhk4m5rmy0cykrw9cr7bvw",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, figure lying on the ground just regaining consciousness, propped up on one elbow pushing himself up from the dirt, disoriented expression giving way to fierce awareness, dressed in authentic 1898 Rough Riders uniform, 1st US Volunteer Cavalry, tan campaign shirt, brown canvas trousers, leather cavalry boots, brown campaign hat with wide brim dented and dusty, canvas cartridge belt across the chest loaded with rifle rounds, canteen on hip, the uniform roughed up and dirt-caked as if just materialized from a temporal rift, a faint residual glow of spacetime energy still dissipating around the edges of his body, the crack in spacetime sealing itself shut in the background behind him with a jagged sliver of cosmic void barely visible as it closes, the ground beneath him is the red dirt and scrub grass of San Juan Hill Cuba 1898, the hill rising steeply behind him, Rough Riders soldiers charging up the hill in the middle distance through gun smoke and chaos, Spanish blockhouse fortifications visible at the crest of the hill, artillery smoke billowing in thick heavy ink clouds across the upper panel, distant muzzle flashes rendered as stark white bursts against deep shadow, American flag barely visible through the smoke carried by a charging soldier in the background, the sounds of battle implied through the visual chaos surrounding the dazed figure, other Rough Riders around him mid-charge paying him no attention consumed by the battle, tropical Cuban vegetation rendered in deep shadow flanking the hill, harsh midday sun beating down creating stark overhead shadows, the figure in the immediate foreground disoriented but already reading the situation with calculating intensity, one hand instinctively reaching for a weapon at his hip, the collision of a man unstuck from time landing in one of history's most famous battles, cinematic low angle shot looking up slightly emphasizing the hill charge behind him, gritty historical war illustration, pulp adventure energy meets cosmic horror",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/2b8k0nMmS0KWOBfQZigKosG99uerReCIDzBWPZrPbz92UDZtA/out-0.webp",
+    "https://replicate.delivery/xezq/hgjLLMXj4FqzOFHl8HBoMHmwcOo93LqkMZZ2NeH4pK2N1QWLA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "t466d88hfdrmt0cykrxabbf43g",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/t466d88hfdrmt0cykrxabbf43g",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, single figure only in foreground, exactly two arms exactly two legs, correct human anatomy, no extra limbs, no floating limbs, no disembodied body parts, no anatomical errors, clean figure rendering, figure lying on the ground just regaining consciousness, propped up on one elbow pushing himself up from the dirt, disoriented expression giving way to fierce awareness, dressed in authentic 1898 Rough Riders uniform, 1st US Volunteer Cavalry, tan campaign shirt, brown canvas trousers, leather cavalry boots, brown campaign hat with wide brim dented and dusty, canvas cartridge belt across the chest loaded with rifle rounds, canteen on hip, the uniform roughed up and dirt-caked as if just materialized from a temporal rift, a faint residual glow of spacetime energy still dissipating around the edges of his body, the crack in spacetime sealing itself shut in the background behind him with a jagged sliver of cosmic void barely visible as it closes, the ground beneath him is the red dirt and scrub grass of San Juan Hill Cuba 1898, the hill rising steeply behind him, Rough Riders soldiers charging up the hill in the middle distance through gun smoke and chaos kept small and distant in background, Spanish blockhouse fortifications visible at the crest of the hill, artillery smoke billowing in thick heavy ink clouds across the upper panel, distant muzzle flashes rendered as stark white bursts against deep shadow, American flag barely visible through the smoke carried by a charging soldier in the deep background, tropical Cuban vegetation rendered in deep shadow flanking the hill, harsh midday sun beating down creating stark overhead shadows, the figure in the immediate foreground disoriented but already reading the situation with calculating intensity, one hand instinctively reaching for a weapon at his hip, cinematic low angle shot looking up slightly emphasizing the hill charge behind him, gritty historical war illustration, pulp adventure energy meets cosmic horror, background figures kept small distant and minimally detailed to avoid anatomical confusion, negative space used deliberately around the foreground figure to isolate and clarify his silhouette, clean panel borders, no overlapping limbs between foreground and background figures\n",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/rDEe27e7yTsjKEQ2NjbGA7OCuvetprbbnsv5f5qijLnlwGyaB/out-0.webp",
+    "https://replicate.delivery/xezq/P6Qoy3kscCp2B5p0f8nxXZlW106U433jtTz7zr9tafsJshsWA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "025mxfvyz9rmw0cykrya8br1zc",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/025mxfvyz9rmw0cykrya8br1zc",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, single figure only in foreground, exactly two arms exactly two legs, correct human anatomy, no extra limbs, no floating limbs, no disembodied body parts, no anatomical errors, clean figure rendering, figure standing upright having just scrambled to his feet, body language of pure shock and disorientation, looking down at himself with wide eyes and expression of absolute bewildered panic, both hands held out in front of him staring at the 1898 Rough Riders uniform he is wearing, head snapping between looking down at his own clothes and looking around wildly at the battle chaos surrounding him, mouth open mid-exclamation, the brooding intensity replaced entirely by raw unfiltered shock and confusion, eyebrows raised high, the long dark beard adding to the wild disheveled energy of the moment, dressed in authentic 1898 Rough Riders uniform, 1st US Volunteer Cavalry, tan campaign shirt, brown canvas trousers, leather cavalry boots, brown campaign hat knocked askew on his bald head at a ridiculous angle, canvas cartridge belt across the chest, the incongruity of this very modern tattooed bald man in period military costume rendered with maximum comic and dramatic tension, neck tattoos visible above the period collar, San Juan Hill Cuba 1898 battle raging in the background, Rough Riders soldiers charging past him in the middle distance ignoring him completely, gun smoke and chaos everywhere, Spanish blockhouse fortifications at the crest of the hill, artillery smoke billowing in heavy ink clouds, muzzle flashes as stark white bursts in deep shadow, tropical Cuban vegetation in deep shadow flanking the scene, harsh midday overhead sun, background figures kept small distant and minimally detailed, negative space used deliberately around the foreground figure to isolate and clarify his silhouette, no overlapping limbs between foreground and background figures, cinematic medium shot framing the full figure, the campaign hat sitting comically crooked on the bald head as a visual punctuation mark of the absurdity of his situation, pure existential panic rendered in Mignola ink, the moment a man realizes he is catastrophically lost in time",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/YOh7ByzOCDp9E5LBTD7BOBhBQOnUGwAOXdoeezdd5efh6GyaB/out-0.webp",
+    "https://replicate.delivery/xezq/RktTEyoK4AZHFRt2vlH9KY1heRR7hJYIfn8aDkPcNX7ouhsWA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "sex5wt81wdrmw0cyks1sc57g84",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/sex5wt81wdrmw0cyks1sc57g84",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph.\nTEDDY ROOSEVELT mounted on a powerful charging warhorse, rendered as a bold singular heroic ink figure, NO OTHER HUMAN FIGURES IN THE FOREGROUND, Roosevelt in full 1898 Rough Riders commanding officer uniform, round wire-rimmed spectacles catching dramatic light, thick bristling mustache rendered in heavy ink strokes, wide-brimmed campaign hat pressed low and firm against the charging wind, military campaign jacket with officer insignia, leather riding gauntlets gripping the reins with iron authority, cavalry saber raised high overhead in one fist catching the Cuban sun in a dramatic glinting ink highlight, jaw set with absolute iron Roosevelt determination, the warhorse beneath him a massive muscular beast mid-full-gallop with all four hooves leaving the ground in a classic heroic cavalry charge pose, horse musculature rendered with bold Mignola geometric shadow shapes and heavy crosshatching conveying raw power and momentum, thick ink motion lines streaming backward from horse and rider conveying explosive forward velocity, Roosevelt leaning forward into the charge with total fearless momentum, EXAGGERATED heroic comic proportions, square jaw, barrel chest, commanding physical presence radiating authority and unstoppable force, dramatic chiaroscuro lighting with hard Cuban sun casting deep geometric shadow shapes across horse and rider from a sharp overhead angle, dust and earth clods kicked up by hooves rendered as bold ink splash shapes, the composition framing Roosevelt and horse as a single unified heroic silhouette of charging power, San Juan Hill rising in the far distant background rendered purely as flat dark ink shapes with no anatomical detail, faint gunsmoke crosshatched clouds on the horizon, tropical palm silhouettes flanking the edges, CINEMATIC LOW ANGLE shot looking up at horse and rider making them loom massive and heroic against the sky, legendary larger than life energy, the definitive Mignola ink portrait of American Rough Rider audacity.",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/2uteFTsbuJzjP6pk7VK117NksXM4OxHY9WRP2HNx3ZeV1hsWA/out-0.webp",
+    "https://replicate.delivery/xezq/f54MDnzUXKRFR6CdM0xLFCeVpA0MB78LLO8tNdnZEvSV1hsWA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "cvymc1cj6nrmr0cyks2t48peg8",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/cvymc1cj6nrmr0cyks2t48peg8",
+   "input": {
+    "model": "dev",
+    "prompt": "Here's the prompt — structuring the son from behind specifically to keep us well clear of any minor depiction concerns while still telling the story:\n\n2D graphic novel illustration, inked comic book art, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, single bald bearded tattooed figure in foreground exactly two arms exactly two legs, correct human anatomy, no extra limbs, no floating limbs, no disembodied body parts, no anatomical errors, clean figure rendering, three figure composition, CHARACTERDADDANNY23 standing on the left facing right toward Teddy Roosevelt, a small boy viewed entirely from behind standing between and slightly in front of them, boy roughly the size and build of a 12 year old, brown messy hair visible beneath an oversized 1898 Rough Riders campaign hat sitting too large on his small head, dressed in a miniature 1898 US infantry uniform slightly too big for his frame, the oversized uniform and hat communicating his youth and small stature purely through silhouette, boy viewed strictly from behind at all times his face never visible, Teddy Roosevelt standing on the right in full 1898 Rough Riders officer uniform, round wire rimmed spectacles, thick mustache, campaign hat, cavalry sword at hip, bandolier across chest, Roosevelt rendered with iconic recognizable features, barrel chested commanding posture, Roosevelt leaning slightly forward with animated enthusiastic expression mid-speech gesturing broadly with one hand toward CHARACTERDADDANNY23, Roosevelt's expression of boisterous delight and fascination at this strange bald tattooed man from another time, CHARACTERDADDANNY23 expression of bewildered disbelief staring back at Roosevelt, the long dark beard and neck tattoos wildly incongruous against the 1898 battlefield setting, the boy between them small and dwarfed by both adult figures his oversized hat and uniform doing all the storytelling work, San Juan Hill Cuba 1898 battle smoke and chaos receding into deep background, tropical vegetation in deep shadow, harsh midday sun overhead casting strong downward shadows on all three figures, background kept minimal and distant, negative space used deliberately around all three figures to isolate and clarify each silhouette, no overlapping limbs between any figures, cinematic medium shot framing all three figures in a single panel, the absurdity and wonder of a man from the future standing on a famous battlefield being enthusiastically addressed by one of history's most outsized personalities, Roosevelt's booming larger than life energy contrasted against the tattooed time traveler's stunned silence, pulp historical adventure meets cosmic displacement",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/fLhqXU554iSnWigwg2I9YvGL4H1fdrKeluTPleySSrVufOk1C/out-0.webp",
+    "https://replicate.delivery/xezq/NPQzfMmzlaWehEKieaRhyFFoUqOFeNcCLV5De353e9f097QWLA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "xtd15ne5w1rmr0cykssvpyz7vg",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/xtd15ne5w1rmr0cykssvpyz7vg",
+   "input": {
+    "model": "dev",
+    "prompt": "Mike Mignola art style, Hellboy comic art style, 2D graphic novel illustration, inked comic book art, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph, NOT realistic, NOT painted, styled exactly like a Mignola Hellboy comic panel, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, single figure only, exactly two arms exactly two legs, correct human anatomy, no extra limbs, no floating limbs, no disembodied body parts, no anatomical errors, clean figure rendering, figure seated alone at a heavy worn wooden desk deep in the night, hunched slightly forward over an open leather bound travel journal, right hand writing slowly with a pen across the open pages, left hand wrapped around a cracked coffee mug, expression of deep exhausted contemplative brooding, the look of a man who has seen too much and is trying to make sense of all of it, back in present day clothing, plain dark t-shirt, neck tattoos fully visible above the collar, the bald head catching the warm amber glow of a single desk lamp, the long dark beard resting against his chest as he leans forward, the 1898 Rough Riders campaign hat hanging on the corner of the chair behind him, a single desk lamp as the only light source casting a tight warm amber pool across the desk and his face, everything beyond the lamp radius dissolving into pure Mignola black, dramatic single source chiaroscuro lighting carving deep shadow across the bald head and beard, the open journal pages catching warm light, handwritten text rendered as loose illegible scrawl, small rough thumbnail sketches visible on the journal pages, scattered items across the desk, spent pen, loose crumpled papers, old pocket watch, the room beyond falling into total darkness, a window behind him showing the deep blue black of late night, cinematic medium close shot framing the figure from the waist up at the desk, quiet brooding introspection, the last panel of the graphic novel",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/o7CjRGwyxOIEGJ516GXmg6C39qAtdzDsBl0INMoTfv4nTRWLA/out-0.webp",
+    "https://replicate.delivery/xezq/9JhjoPMoho57IhizB37hWPUdccr1soRnxAEr1KcvWg6zpIrF/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "j301mmc5p5rmr0cz0tyrpb6e40",
+   "model": "dannyboy2323/character-daddanny23",
+   "prediction_url": "https://replicate.com/p/j301mmc5p5rmr0cz0tyrpb6e40",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, bold heavy black ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph, NOT realistic, NOT painted, strong facial likeness preserved, character face accuracy critical, facial features dominant, single figure only, exactly two arms exactly two legs, correct human anatomy, no extra limbs, no floating limbs, no disembodied body parts, no anatomical errors, clean figure rendering, CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, athletic build, laying in his prison cot with eyes open while the prison guard is walking by the doorway shining his flashlight doing count at 5AM",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 1,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/aveEb4dQ5MRrTqZrewkZcR0Amlme7KMtg99JMeBS5JEhG3MbB/out-0.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "daddanny23.md"
+  },
+  {
+   "id": "pr176v5nknrmt0cykr6sjmrkrw",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/pr176v5nknrmt0cykr6sjmrkrw",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph.\nriding a horse and eating a chocolate donut.",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 1,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/Wh2fsIXeyUhvWUeRn5q6Vy9UI11s3uHz3AT3Fi5iUAvO9BZtA/out-0.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "2rh3fps351rmy0cykr7tkqs9ng",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/2rh3fps351rmy0cykr7tkqs9ng",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph.\nriding a horse and eating a chocolate donut.",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 1,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/YDXml9FqRtK5ExyjJ1fzCOPOPS6HbnlLbuf2SATF7UEEAhsWA/out-0.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "mcekdk5pm9rmy0cykr7tykhbnc",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/mcekdk5pm9rmy0cykr7tykhbnc",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph.\nsneakily eating a chocolate donut.",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 1,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/vdUMIdRjKkoPL5OOkVvfQTnL6dTJFAQel1IJsdPVm2nqAhsWA/out-0.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "5x4x1f9am9rmw0cykrcthka9hr",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/5x4x1f9am9rmw0cykrcthka9hr",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph.\ncaught mid-bite on a massive Entenmann's chocolate-glazed donut, EXAGGERATED wide mischievous grin, squinted sly eyes, raised eyebrow, highly expressive comic face, cheeks puffed with donut, thick dark chocolate glaze smeared heavily across his lips, chin, and one cheek, dripping glaze streaks rendered in deep brown ink, both hands gripping the oversized donut with white-knuckle drama, a giant chunk bitten away revealing the soft doughy interior, dramatic crumbs and glaze droplets exploding outward, rendered with bold Mignola ink splatter and expressive shadow shapes.\n",
+    "go_fast": false,
+    "lora_scale": 1.1,
+    "megapixels": "1",
+    "num_outputs": 1,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/th5epvLq75StUqHJBq2pzCYf7CJEVhUj4AakymkFcDuuKhsWA/out-0.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "1cp7dz3m05rmr0cykrgvjj8gf4",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/1cp7dz3m05rmr0cykrgvjj8gf4",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph.\nEXAGGERATED comic reaction pose, eyes bulging wide in shock, mouth clenched tight in a grimace, body lurching forward from the force, legs stiffened straight, one hand gripping his stomach, chocolate glaze still smeared across his chin, as a MASSIVE catastrophic fart erupts behind him rendered as a towering nuclear mushroom cloud explosion in deep blacks and ochre yellows, the stem of the cloud billowing upward from directly behind his backside, shockwave rings radiating outward, debris and crumbs blasted forward, thick ink motion lines conveying earth-shattering force, the mushroom cloud rendered with dramatic Mignola shadow shapes and heavy crosshatching, equal parts apocalyptic and absurd, comedic disaster energy.\n",
+    "go_fast": false,
+    "lora_scale": 1.5,
+    "megapixels": "1",
+    "num_outputs": 1,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/NAkzAN48vMZ3DpFw5eLhMpUAMlyJsuu0PpCeKRq9KJeqlCZtA/out-0.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "8bt99mjxahrmw0cykrjbz3vhh0",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/8bt99mjxahrmw0cykrjbz3vhh0",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph.\nEXAGGERATED comic reaction pose, eyes bulging wide in shock, mouth clenched tight in a grimace, body lurching forward from the force, legs stiffened straight, one hand gripping his stomach, chocolate glaze still smeared across his chin, as a MASSIVE catastrophic fart erupts behind him rendered as a towering nuclear mushroom cloud explosion in deep blacks and ochre yellows, the stem of the cloud billowing upward from directly behind his backside, shockwave rings radiating outward, debris and crumbs blasted forward, thick ink motion lines conveying earth-shattering force, the mushroom cloud rendered with dramatic Mignola shadow shapes and heavy crosshatching, equal parts apocalyptic and absurd, comedic disaster energy.\n",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/jABrP415EFJRCRre31a9baDoSSx6cFse5hn71yyldDp7VhsWA/out-0.webp",
+    "https://replicate.delivery/xezq/QWyug8fOgMxsIysVDUAe2Q7Ed9gfba5OSyRYoXbGePEtXFyaB/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "yk5271pqmnrmt0cykrp9frbw70",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/yk5271pqmnrmt0cykrp9frbw70",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt orms, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph.\nCHARACTERDANIELBULL23 wedged and stuck inside a jagged crackling rift torn through the fabric of space and time, the crack rendered as a massive splintering fracture with razor sharp edges glowing in deep amber and ochre light, cosmic void visible through the tear filled with swirling galaxies stars and ancient celestial bodies, his body half-swallowed by the rift arms outstretched grasping desperately at the edges, EXAGGERATED expression of wide-eyed alarm and wild-haired chaos as temporal winds whip around him, ghostly afterimage silhouettes of dinosaurs medieval castles ancient Egypt pyramids and primitive cavemen visible in the swirling vortex behind him representing the rush into the past, bold ink motion lines streaming backward through the crack conveying violent time travel momentum, shockwave rings and temporal distortion ripples radiating outward from the fracture point, deep space blacks bleeding into warm earth tone nebula clouds, the crack itself crosshatched with heavy Mignola linework jagged and geometric, time debris including clocks hourglasses ancient coins and fossils tumbling through the void, CINEMATIC WIDE PANEL composition showing the full scale of the cosmic rift dwarfing the boy, brooding cosmic horror meets wide-eyed adventure energy.\n",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/y4kN37pZC4LtKRJSvIfr6iYgXHvmi1SojHFie2xfH12c9CZtA/out-0.webp",
+    "https://replicate.delivery/xezq/kVnDGcK8ezRf60SyfiF4j5l5dva62G8fWy5nuCTKMm976FyaB/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "s6pm7hvby5rmr0cykrssa1efy8",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/s6pm7hvby5rmr0cykrssa1efy8",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph.\na vast jagged crack split violently through the fabric of space and time dominating the center of the composition, the fracture rendered with razor sharp splintering edges and heavy Mignola crosshatching, cosmic void bleeding through the tear filled with swirling ancient galaxies dying stars and deep space blackness, temporal distortion ripples and shockwave rings radiating outward from the fracture in concentric geometric shapes, ghostly silhouettes of prehistoric creatures ancient civilizations and crumbling ruins visible inside the swirling vortex representing the pull into the deep past, time debris of shattered hourglasses fossilized bones ancient scrolls and crumbling stone tablets tumbling through the void, in the distant background THE SACRED FLAME OF LIFE burning as a towering roaring pillar of warm amber and ochre fire, the flame rendered with bold ink strokes radiating outward like a divine sun casting long dramatic shadow shapes across everything, the flame pulsing with ancient energy representing all happiness joy and life force of existence, encircling the sacred flame a ring of ANCIENT HOODED DRUIDS standing perfectly still in silent observation, their robes rendered in deep blacks and earth tones with heavy shadow folds, faces completely obscured within deep hood darkness, long gnarled staff in each hand, their silhouettes small against the immensity of both the flame and the crack conveying ancient wisdom and cosmic scale, dramatic chiaroscuro lighting with the sacred flame casting warm amber light battling against the cold deep black void light of the space time fracture creating a clash of warm and cold dramatic ink shadows across the entire composition, CINEMATIC WIDE PANEL establishing shot, cosmic horror meets ancient mysticism energy, reverent and apocalyptic simultaneously.\n",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/7W4OjpjfepmUpUzjpotDKFftRo9EeIkYegeqd2z6esBdryQWLA/out-0.webp",
+    "https://replicate.delivery/xezq/CR1ieUN0eYmAn0SllU5nunFRlgpUWzzjW5LAe8oP8n9sKDZtA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "3nr07m3701rmr0cykrxa3drcz0",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/3nr07m3701rmr0cykrxa3drcz0",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph.\nSINGLE SOLITARY BOY in the foreground, EXACTLY TWO ARMS EXACTLY TWO LEGS, clean isolated figure, CHARACTERDANIELBULL23 waking up flat on his back on sun-baked Cuban hillside dirt, eyes blinking open in groggy wide-eyed disorientation, propped up on one elbow squinting in confused alarm, dressed in full authentic 1898 Rough Riders uniform, tan khaki campaign shirt with brass buttons, wide-brimmed campaign hat knocked askew, canvas cartridge bandolier across his chest, leather cavalry boots, NO EXTRA LIMBS NO FLOATING BODY PARTS NO ADDITIONAL FIGURES TOUCHING THE FOREGROUND CHARACTER, the boy is completely spatially isolated in the immediate foreground with clear empty ground space surrounding him, background and foreground separated by dramatic chiaroscuro shadow band, distant background rendered exclusively as DARK SILHOUETTES AND INK SMOKE with no anatomical detail, Rough Riders soldiers visible only as flat black gestural silhouettes far up the hill, thick gunsmoke crosshatched ink clouds filling the midground creating a clear visual separation barrier between foreground boy and background battle, Spanish blockhouse at hilltop crest, tropical palm silhouettes, blazing Cuban sun casting hard geometric shadows, EXAGGERATED expression of total bewildered disorientation mouth agape eyes wide, CINEMATIC LOW ANGLE ground level shot, NOT photorealistic, NO EXTRA BODY PARTS, NO MERGED FIGURES, NO FLOATING LIMBS.",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/Bptmn5AUURYdAhfUMVK0Avxfzz2bljrmcU6CVuftHiWfxGyaB/out-0.webp",
+    "https://replicate.delivery/xezq/UJ4sxqAbrfS9EKtpkP3V8385y3st82TTNu3YP0feEKrfxGyaB/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "d5kyrehg1xrmy0cykry8j3f1hr",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/d5kyrehg1xrmy0cykry8j3f1hr",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph.\nSINGLE SOLITARY BOY in the foreground, EXACTLY TWO ARMS EXACTLY TWO LEGS, clean isolated figure, CHARACTERDANIELBULL23 standing upright in full panic realization, NO EXTRA LIMBS NO FLOATING BODY PARTS NO ADDITIONAL FIGURES TOUCHING THE FOREGROUND CHARACTER, completely spatially isolated in the immediate foreground with clear empty ground space surrounding him, background and foreground separated by dramatic chiaroscuro shadow band, dressed in full 1898 Rough Riders uniform now fully visible on his standing body, wide-brimmed campaign hat gripped in both hands and held out staring at it in horrified disbelief, head snapping downward looking at his own uniform with EXAGGERATED FULL BODY PANIC REACTION, eyes enormous white circles of pure shock, jaw dropped completely unhinged in a classic comic scream face, eyebrows shooting straight up off his forehead, body recoiling backward in a staggered stumble with one foot lifted mid-backstep, free hand splayed wide open in a full startle gesture, hair standing on end beneath where the hat was, the uniform itself suddenly registering to him rendered with visual emphasis arrows and comic ink speed lines pointing at the bandolier the boots and the campaign shirt as if his own eyes are noticing each piece simultaneously, MULTIPLE COMIC PANIC SWEAT DROPS flying off his face and head in classic manga style rendered in Mignola ink, in the background battle chaos continuing completely indifferent to his crisis, distant flat black silhouettes of Rough Riders charging, thick crosshatched gunsmoke ink clouds forming hard midground barrier, muzzle flash ink bursts at hilltop, tropical palm silhouettes, NO ANATOMICAL DETAIL IN BACKGROUND, all background figures remain pure flat gestural silhouettes, dramatic hard shadow band separating foreground from background, CINEMATIC MEDIUM SHOT framing full body from boots to hair showing complete panic pose, comedic existential horror energy, the specific panic of someone who just realized they are extremely lost in time.\n",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/OZqGLWCYWq7kNdoFyJFCfDQKGgplej3j3iW5s8fgakypcDZtA/out-0.webp",
+    "https://replicate.delivery/xezq/DXgf9HiU4ax1Uia1qoGq9rChiflJJusT3WKIPfTIR7ZocDZtA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "cysn02qtdxrmr0cyksavtcy77c",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/cysn02qtdxrmr0cyksavtcy77c",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, CHARACTERDANIELBULL23, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph.\nCHARACTERDANIELBULL23 CHARACTERDANIELBULL23, the face and likeness of CHARACTERDANIELBULL23 clearly preserved and dominant, young boy with specific brown hair and facial features of CHARACTERDANIELBULL23 fully intact and recognizable, SINGLE FIGURE ONLY, EXACTLY TWO ARMS EXACTLY TWO LEGS, NO EXTRA LIMBS NO FLOATING BODY PARTS, fully airborne diving lunge through open air, body stretched at a diagonal angle across the frame, arms reaching forward, legs trailing behind fully extended, Rough Riders campaign hat tumbling off behind him, face showing EXAGGERATED fierce determined grimace with clearly rendered recognizable facial features of CHARACTERDANIELBULL23, teeth clenched, eyes narrowed in focus, brown hair whipping backward, uniform jacket billowing behind him, bold ink motion lines streaming behind the figure, dramatic chiaroscuro shadow shapes across the body in Mignola geometry, CINEMATIC DUTCH ANGLE, pure kinetic energy, solid white background, the likeness and facial identity of CHARACTERDANIELBULL23 is the single most important element of this image above all else.",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/8LefMzSBeYVRUo5g9SPv8wNFfNI6YJObOOQezyHKO1YxFRk1C/out-0.webp",
+    "https://replicate.delivery/xezq/E0eANgU6WY1gJSQgGTv6MO6Nsx1VkXjjX4XpicQA8eluIisWA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "e2ns7e7dp9rmy0cyksgrahtt48",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/e2ns7e7dp9rmy0cyksgrahtt48",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, CHARACTERDANIELBULL23, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph.\nCHARACTERDANIELBULL23 CHARACTERDANIELBULL23, the face and likeness of CHARACTERDANIELBULL23 clearly preserved and fully dominant, young boy with specific brown hair and facial features of CHARACTERDANIELBULL23 fully intact and recognizable, EXTREME CLOSE UP on just the head and eyes of CHARACTERDANIELBULL23 peering over the top edge of a dense Cuban jungle bush, only the top half of his face visible from the nose upward cresting the bush line, wide-brimmed Rough Riders campaign hat pushed low and crooked on his head, eyes enormous and darting sideways in EXAGGERATED terrified hypervigilance, pupils tiny pinpoints of pure fear, eyebrows shooting up into the hat brim, forehead drenched in large comic ink sweat drops, knuckles of both hands visible gripping the top of the bush branches with white knuckle terror, the bush itself rendered in bold dark Mignola ink leaf shapes with heavy crosshatching and deep shadow folds, dense tropical Cuban jungle foliage texture surrounding him, in the background beyond the bush the full chaos of the Battle of San Juan Hill erupting, flat dark ink silhouettes of charging Rough Riders soldiers storming up the hill, Spanish blockhouse fortifications at the hilltop crest, muzzle flash ink burst explosions and thick crosshatched gunsmoke clouds rolling across the battlefield, the bush forming a hard foreground occlusion barrier between the hiding boy and the battle raging behind him, dramatic chiaroscuro lighting with hard Cuban sun casting deep geometric Mignola shadow shapes across his face from above, the contrast between his tiny hidden terrified face and the enormous battle chaos behind him establishing perfect comedic scale, CINEMATIC TIGHT CLOSE UP framing just the hat brim down to the bush line showing only eyes forehead and hands gripping the bush, the likeness and facial identity of CHARACTERDANIELBULL23 is the single most important element of this image above all else, pure comic cowardice meets total war chaos energy, the universal hiding face of someone who wants absolutely no part of what is happening on the other side of that bush.",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/cJgPj4SMrbpUO1nOkuKKeeUdLY1A1aOnV3AEBBPrTMP9UisWA/out-0.webp",
+    "https://replicate.delivery/xezq/sjwxkLd5sSIPNNkbCCXYBM5f7rZE4WC9KnpgRWnN5k8eUisWA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "shazt3jsvxrmt0cykstsktfe60",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/shazt3jsvxrmt0cykstsktfe60",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, CHARACTERDANIELBULL23, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph.\nCHARACTERDANIELBULL23 CHARACTERDANIELBULL23, the face and likeness of CHARACTERDANIELBULL23 clearly preserved and fully dominant, young boy with specific brown hair and facial features of CHARACTERDANIELBULL23 fully intact and recognizable, SINGLE FIGURE ONLY, NO EXTRA LIMBS NO FLOATING BODY PARTS, lying completely flat on his back in a boy's bedroom bed, deep in total exhausted unconscious sleep, eyes shut tight, face completely slack and peaceful in pure exhaustion, mouth barely open in a tiny snore, brown hair splayed out messily across the pillow in all directions, body completely buried under a thick rumpled blanket pulled up to his chin with only his head and a tuft of messy hair visible above the covers, the 1898 Rough Riders campaign hat hanging crookedly on the bedpost above his head as the single visual callback to the entire time travel adventure now concluded, the bedroom rendered in deep Mignola night blacks with only a single source of cool blue moonlight streaming through a partially open window casting one dramatic hard geometric shaft of pale light across the bed and his sleeping face, deep shadow filling every corner of the room with rich crosshatched darkness, a boy's bedroom details rendered as dark ink silhouettes, small bookshelf, cluttered desk, posters on the wall barely visible as dark shapes in the deep room shadows, dust motes floating in the moonlight shaft rendered as tiny ink dots, the overwhelming stillness and quiet of deep night rendered through heavy shadow and minimal detail, the campaign hat on the bedpost catching a sliver of moonlight as a deliberate compositional detail connecting this peaceful ending to the wild adventure, CINEMATIC LOW WIDE ANGLE shot from the foot of the bed looking up toward the pillow and window, the bed itself rendered in deep shadow with heavy crosshatched blanket folds, profound stillness and earned exhaustion energy, the deep dreamless sleep of a boy who has been through an absolutely ridiculous amount for one day, adventure concluded, safely home, completely and utterly done.",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/i0SkPEnZ7AImIB87xWGizU3IgwQld8frwbyZKyjCaPVbURWLA/out-0.webp",
+    "https://replicate.delivery/xezq/cdsI7aea0wUfxEUAMcW4dfoyaaBCShJEgZhAgdjYFA5tRFZtA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "za21jms0hnrmw0cyksx9g1tqwr",
+   "model": "dannyboy2323/character-danielbull23",
+   "prediction_url": "https://replicate.com/p/za21jms0hnrmw0cyksx9g1tqwr",
+   "input": {
+    "model": "dev",
+    "prompt": "2D graphic novel illustration, inked comic book art, CHARACTERDANIELBULL23, CHARACTERDANIELBULL23, CHARACTERDANIELBULL23, young boy, slim build, brown hair, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, warm amber tones, gritty pulp horror aesthetic, rough crosshatching, halftone grain texture, woodcut-like rendering, strong geometric shadow shapes, cinematic comic panel composition, dark fantasy illustration, weathered and battle-worn, brooding intensity, flat cel shading with rich earth tones, colored ink illustration, NOT photorealistic, NOT a photograph.\nCHARACTERDANIELBULL23 CHARACTERDANIELBULL23, the face and likeness of CHARACTERDANIELBULL23 clearly preserved and fully dominant, young boy with specific brown hair and facial features of CHARACTERDANIELBULL23 fully intact and recognizable, SINGLE FIGURE ONLY, EXACTLY TWO ARMS EXACTLY TWO LEGS, NO EXTRA LIMBS NO FLOATING BODY PARTS, completely clean and tidy with NO DIRT NO GRIME NO TOILET PAPER NO DEBRIS, wearing his regular everyday present day clothes, PLAIN BROWN T-SHIRT, modern jeans, clean regular sneakers, walking through the front door of an upscale suburban American home, relaxed and casual body language of a boy arriving home after being dropped off by dad, one hand on the door frame pushing the front door open mid-stride, backpack slung over one shoulder, slight tired but comfortable expression, the kind of low energy contentment of arriving home at the end of a long day, hair naturally messy in a normal everyday way, the setting is a beautiful upscale suburban home with a generous covered front porch, warm present day American suburban architecture rendered in Mignola ink style, wide covered porch with decorative columns rendered in bold geometric ink shapes, porch railing with clean geometric shadow lines, porch light casting a warm amber cone of light downward onto the front steps and entry, potted plants flanking the front door rendered as dark botanical ink shapes, clean welcome mat at the threshold, the front door itself a solid substantial present day residential door with sidelights rendered in deep ink shadow, warm amber interior house light spilling outward through the open door and sidelights into the cool evening air beyond, a well maintained suburban front yard visible beyond the porch in the cool evening darkness, manicured shrubs and a clean concrete path rendered as dark ink silhouettes, a car pulling away in the distant background rendered as a simple dark ink shape with retreating tail lights suggesting dad has just dropped him off, the warm porch light and interior glow creating rich chiaroscuro contrast against the cool blue evening darkness outside, dramatic Mignola geometric shadow shapes falling across the porch floor and boy from the overhead porch light, CINEMATIC MEDIUM SHOT from slightly inside the doorway looking outward catching him mid-stride through the threshold, the likeness and facial identity of CHARACTERDANIELBULL23 is the single most important element of this image above all else, warm suburban homecoming energy, the perfectly ordinary moment of a boy arriving home",
+    "go_fast": false,
+    "lora_scale": 1,
+    "megapixels": "1",
+    "num_outputs": 2,
+    "aspect_ratio": "1:1",
+    "output_format": "webp",
+    "guidance_scale": 3,
+    "output_quality": 80,
+    "prompt_strength": 0.8,
+    "extra_lora_scale": 1,
+    "num_inference_steps": 28
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/49gRvIkbed3xOSPJqfKyJaL2MkllvVtPNLe9edyGwsWetVk1C/out-0.webp",
+    "https://replicate.delivery/xezq/9KNQLr2iBpYLOt0hy5MFFapdqkyKl58AaRJtofDs7ys3WRWLA/out-1.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "danielbull23.md"
+  },
+  {
+   "id": "drk132mwx5rmt0cxp878wad6gc",
+   "model": "openai/gpt-image-2",
+   "prediction_url": "https://replicate.com/p/drk132mwx5rmt0cxp878wad6gc",
+   "input": {
+    "prompt": "A photo of a computer screen displaying a Spotify playlist in golden hour evening in a living room with lots of green plants in the background. The playlist says GPT-image-2. caption is \"this new image model from OpenAI is dope.\" and the artists are Replicate. the songs are themes about open source AI and Machine learning. the account name is Replicate. use the logo for replicate as the profile picture and artist image.",
+    "quality": "auto",
+    "background": "auto",
+    "moderation": "auto",
+    "aspect_ratio": "3:2",
+    "input_images": [
+     "https://replicate.delivery/pbxt/Oy2U6Sw4k3ZYEZ5cXeuVJMq8k45GQ17J2iKvt1HcHVUtVj5O/download.jpg"
+    ],
+    "output_format": "webp",
+    "number_of_images": 1,
+    "output_compression": 90
+   },
+   "outputs": [
+    "https://replicate.delivery/xezq/AjohJsKVZ26WEZ4tkXI7fKIun2rUbTZxct9EfRKQAPcEWadWA/tmp5ydq16cm.webp"
+   ],
+   "status": "logged",
+   "notes": "",
+   "source_doc": "misc001.md"
+  },
+  {
+   "id": "rwn48vjygdrma0ctqcgbrd06t4",
+   "model": "black-forest-labs/flux-2-pro",
+   "prediction_url": "https://replicate.com/p/rwn48vjygdrma0ctqcgbrd06t4",
+   "input": {
+    "prompt": "Glossy candy-colored 3D letters in hot pink, electric orange, and lime green on a sun-drenched poolside patio with bold terrazzo tiles and vintage lounge chairs in turquoise and yellow. Shot on Kodachrome film with a Hasselblad 500C, warm golden afternoon sunlight, dramatic lens flare, punchy oversaturated colors with that distinctive 70s yellow-orange cast, shallow depth of field with the text sharp in the foreground, tropical palms and a sparkling aquamarine pool behind that spells out \"Run FLUX.2 [pro] on Replicate!\"",
+    "resolution": "1 MP",
+    "aspect_ratio": "1:1",
+    "input_images": [],
+    "output_format": "webp",
+    "output_quality": 80,
+    "safety_tolerance": 2,
+    "prompt_upsampling": false
+   },
+   "outputs": "https://replicate.delivery/xezq/EXuyWm6qQuK9J19lUCtc9sbO4k2RyHwoOP6GoYMCpeyM4a2KA/tmpzd16m4x2.webp",
+   "status": "logged",
+   "notes": "",
+   "source_doc": "misc002.md"
+  },
+  {
+   "id": "4xa7gdmjj5rmc0ctqdksd7z4q4",
+   "model": "black-forest-labs/flux-2-pro",
+   "prediction_url": "https://replicate.com/p/4xa7gdmjj5rmc0ctqdksd7z4q4",
+   "input": {
+    "prompt": "The person from image 1 is petting the cat from image 2, the bird from image 3 is next to them",
+    "resolution": "1 MP",
+    "aspect_ratio": "match_input_image",
+    "input_images": [
+     "https://replicate.delivery/pbxt/O7kSsp5sasepfpL7XJm6lcALZEaFLxHYN6UrQONik4Z19QIM/woman-by-car.webp",
+     "https://replicate.delivery/pbxt/O7kSt7OV4b92EmiTyXsqN51O3aPTEyWTQfMha9kHNFaL4ylt/cat-at-window.webp",
+     "https://replicate.delivery/pbxt/O7kSscCDcTZNDbkIdDzXMIpw5rAufD3dpcXBBUGRBbc5ZnTo/bird.webp"
+    ],
+    "output_format": "jpg",
+    "output_quality": 80,
+    "safety_tolerance": 2,
+    "prompt_upsampling": false
+   },
+   "outputs": "https://replicate.delivery/xezq/rK8Zcn68IPIEMtGHj4fe6YZfWwcxz45zfb4DGvKDtLyhmbzWB/tmpec2opkym.jpg",
+   "status": "logged",
+   "notes": "",
+   "source_doc": "misc002.md"
+  },
+  {
+   "id": "errce0p8ssrma0ctqdv9efe794",
+   "model": "black-forest-labs/flux-2-pro",
+   "prediction_url": "https://replicate.com/p/errce0p8ssrma0ctqdv9efe794",
+   "input": {
+    "prompt": "change the car to blue",
+    "resolution": "1 MP",
+    "aspect_ratio": "match_input_image",
+    "input_images": [
+     "https://replicate.delivery/pbxt/O7kie6B4lIVLUi3ikTBWZCviUUzNeIVv2HLduINkdxlnNkPZ/woman-by-car.jpg"
+    ],
+    "output_format": "jpg",
+    "output_quality": 80,
+    "safety_tolerance": 2,
+    "prompt_upsampling": false
+   },
+   "outputs": "https://replicate.delivery/xezq/qwxw1mHmUGarO93xDG2NwAjeg8u9hNePulz8InznPGZ8I3sVA/tmpso5ny8db.jpg",
+   "status": "logged",
+   "notes": "",
+   "source_doc": "misc002.md"
+  },
+  {
+   "id": "pjh9wf0he1rma0ctqe6a1tgywm",
+   "model": "black-forest-labs/flux-2-pro",
+   "prediction_url": "https://replicate.com/p/pjh9wf0he1rma0ctqe6a1tgywm",
+   "input": {
+    "prompt": "Photorealistic infographic showing the complete Berlin TV Tower (Fernsehturm) from ground base to antenna tip, full vertical view with entire structure visible including concrete shaft, metallic sphere, and antenna spire. Slight upward perspective angle looking up toward the iconic sphere, perfectly centered on clean white background. Left side labels with thin horizontal connector lines: the text '368m' in extra large bold dark grey numerals (#2D3748) positioned at exactly the antenna tip with 'TOTAL HEIGHT' in small caps below. The text '207m' in extra large bold with 'TELECAFÉ' in small caps below, with connector line touching the sphere precisely at the window level. Right side label with horizontal connector line touching the sphere's equator: the text '32m' in extra large bold dark grey numerals with 'SPHERE DIAMETER' in small caps below. Bottom section arranged in three balanced columns: Left - Large text '986' in extra bold dark grey with 'STEPS' in caps below. Center - 'BERLIN TV TOWER' in bold caps with 'FERNSEHTURM' in lighter weight below. Right - 'INAUGURATED' in bold caps with 'OCTOBER 3, 1969' below. At the very bottom center, below the columns, add small italicized text 'Run Flux.2 on Replicate' in medium grey (#A0AEC0). All typography in modern sans-serif font (such as Inter or Helvetica), color #2D3748 unless specified, clean minimal technical diagram style. Horizontal connector lines are thin, precise, and clearly visible, touching the tower structure at exact corresponding measurement points. Professional architectural elevation drawing aesthetic with dynamic low angle perspective creating sense of height and grandeur, poster-ready infographic design with perfect visual hierarchy.",
+    "resolution": "1 MP",
+    "aspect_ratio": "9:16",
+    "input_images": [],
+    "output_format": "jpg",
+    "output_quality": 80,
+    "safety_tolerance": 2,
+    "prompt_upsampling": false
+   },
+   "outputs": "https://replicate.delivery/xezq/xGyq3mJeG0wlfUSw1LMSG94xfUGkwyYBLOlWpeHU8Qnw6dzWB/tmpy_bgo81_.jpg",
+   "status": "logged",
+   "notes": "",
+   "source_doc": "misc002.md"
+  },
+  {
+   "id": "hrf30ppv3nrm80ctqgxbsr7tvw",
+   "model": "black-forest-labs/flux-2-pro",
+   "prediction_url": "https://replicate.com/p/hrf30ppv3nrm80ctqgxbsr7tvw",
+   "input": {
+    "prompt": "{\n  \"scene\": \"Professional studio product photography setup with polished concrete surface\",\n  \"subjects\": [\n    {\n      \"description\": \"Minimalist ceramic coffee mug with steam rising from hot coffee inside. The mug has white text: Run Flux.2 [pro] on Replicate\",\n      \"pose\": \"Stationary on surface\",\n      \"position\": \"Center foreground on polished concrete surface\",\n      \"color_palette\": [\"goo colored ceramic with red, yellow, orange, purple\"]\n    }\n  ],\n  \"style\": \"Ultra-realistic product photography with commercial quality\",\n  \"color_palette\": [\"red\", \"yellow\", \"orange\", \"purple\", \"concrete gray\", \"soft white highlights\"],\n  \"lighting\": \"Three-point softbox setup creating soft, diffused highlights with no harsh shadows\",\n  \"mood\": \"Clean, professional, minimalist\",\n  \"background\": \"Polished concrete surface with studio backdrop\",\n  \"composition\": \"rule of thirds\",\n  \"camera\": {\n    \"angle\": \"high angle\",\n    \"distance\": \"medium shot\",\n    \"focus\": \"Sharp focus on steam rising from coffee and mug details\",\n    \"lens-mm\": 85,\n    \"f-number\": \"f/5.6\",\n    \"ISO\": 200\n  }\n}",
+    "resolution": "1 MP",
+    "aspect_ratio": "1:1",
+    "input_images": [],
+    "output_format": "jpg",
+    "output_quality": 80,
+    "safety_tolerance": 2,
+    "prompt_upsampling": false
+   },
+   "outputs": "https://replicate.delivery/xezq/A19fBcdcemvzL0qWisFe43KV3KBz2HV7n6fOLo6YGSEDHpzWB/tmpq3mpq5_m.jpg",
+   "status": "logged",
+   "notes": "",
+   "source_doc": "misc002.md"
+  },
+  {
+   "id": "y27283sg6srma0ctqh0tjtrzdw",
+   "model": "black-forest-labs/flux-2-pro",
+   "prediction_url": "https://replicate.com/p/y27283sg6srma0ctqh0tjtrzdw",
+   "input": {
+    "prompt": "this exact image but the couple next to the fire is replaced by the people in image 2 and 3",
+    "resolution": "1 MP",
+    "aspect_ratio": "3:4",
+    "input_images": [
+     "https://replicate.delivery/pbxt/O7o67ArxiVtSQL9PlXRUt6WkFyudWGi4ig7Ez6u9vRNTW6XH/campfire.jpg",
+     "https://replicate.delivery/pbxt/O7nxUlRnxGieBbqXqeFkTddC3xVJpvLPajC3Hlbczk3FW1sI/jay-soundo.jpg",
+     "https://replicate.delivery/pbxt/O7nxUrruI8z37aQjPd0tniQAdkp86jNKlmr7NMpU4oa5hHXc/woman-by-car.jpg"
+    ],
+    "output_format": "jpg",
+    "output_quality": 80,
+    "safety_tolerance": 2,
+    "prompt_upsampling": false
+   },
+   "outputs": "https://replicate.delivery/xezq/FUAAfqs53GVWT6l0aTgC9eeCYk1HK3kq9la7B5DN9u7kw0ZrA/tmpzpavqdgi.jpg",
+   "status": "logged",
+   "notes": "",
+   "source_doc": "misc002.md"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "_comment": "Cover title typography for the Pillow overlay pass. AUTHOR: replace font_path with the font used on the Story 1-2 covers, and adjust colors to match. Values below are the series default.",
+  "font_path": null,
+  "fill": "#D9A441",
+  "stroke": "#0A0A0A",
+  "stroke_width": 8,
+  "title_scale": 0.085,
+  "subtitle_scale": 0.42,
+  "subtitle_fill": "#EDE3CF",
+  "top_margin": 0.06,
+  "quality": 90
+}
