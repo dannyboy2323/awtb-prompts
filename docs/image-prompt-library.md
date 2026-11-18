@@ -97,7 +97,7 @@ CHARACTERPROSECUTOR, THE PROSECUTOR, tall thin man age 52, long pointy face, agg
 
 ### 3.5 CHARACTERS WITHOUT A TRAINED MODEL (route to `black-forest-labs/flux-2-pro` with reference images, or gpt-image-2)
 
-**Johnny Cash (the Guide):**
+**Johnny Cash (the Guide)** — _route `gptimage2` (flux-2-pro safety-flags this likeness; verified 2026-11-18)_:
 ```
 Johnny Cash as a translucent luminous holographic apparition, rendered semi-transparent with soft amber-white edge glow, dressed entirely in black, black coat and black shirt, dark swept-back hair, deeply lined weathered face, calm dry half-smile, standing or seated at ease, the background partially visible THROUGH his body, visible only to the two figures looking at him
 ```

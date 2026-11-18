@@ -51,6 +51,17 @@ CHARACTERS: dict[str, tuple[list[str], str]] = {
 }
 
 
+# Per-character render attempts, tried in order until one succeeds.  Only documented, per-request
+# knobs are used (flux-2-pro ``safety_tolerance``); the LoRA routes never relax any filter.
+ATTEMPTS: dict[str, list[dict]] = {
+    "johnny_cash": [
+        {"route": "flux2pro", "safety_tolerance": 4},
+        {"route": "gptimage2"},
+        {"route": "flux2pro", "safety_tolerance": 5, "no_refs": True},
+    ],
+}
+
+
 def panel_urls(manifest: dict) -> dict[str, str]:
     """Map panel id (e.g. ``S1-p37``) to its CDN URL."""
     out: dict[str, str] = {}
@@ -92,21 +103,32 @@ def main(argv: list[str] | None = None) -> int:
         spec = build_spec(n, urls)
         out_dir = ROOT / "references" / "generated-refs" / n
         for i in range(a.per):
-            if budget <= 0:
-                print("budget exhausted")
-                break
-            budget -= 1
-            inp = g.build_input(spec)
-            inp["seed"] = 1000 + i
-            try:
-                outs, pred, ver = client.predict(g.ROUTES["flux2pro"]["model"], inp)
-            except RuntimeError as e:  # e.g. safety filter: record it, never bypass it
-                print("FAILED", n, i + 1, str(e)[:160])
-                log.append({"character": n, "seed": inp["seed"], "error": str(e)[:300]})
+            outs = None
+            for att in ATTEMPTS.get(n, [{"route": "flux2pro"}]):
+                if budget <= 0:
+                    print("budget exhausted")
+                    break
+                budget -= 1
+                sp = build_spec(n, urls)
+                sp.route = att["route"]
+                if att.get("no_refs"):
+                    sp.reference_images = []
+                inp = g.build_input(sp)
+                inp["seed"] = 1000 + i
+                if "safety_tolerance" in att and sp.route == "flux2pro":
+                    inp["safety_tolerance"] = att["safety_tolerance"]
+                model = g.ROUTES[sp.route]["model"]
+                try:
+                    outs, pred, ver = client.predict(model, inp)
+                    break
+                except RuntimeError as e:  # record the failure and try the next attempt
+                    print("FAILED", n, i + 1, att, str(e)[:120])
+                    log.append({"character": n, "attempt": att, "error": str(e)[:300]})
+            if not outs:
                 break
             dest = client.download(outs[0], out_dir / f"{n}-cand{i + 1}.webp")
             log.append({"character": n, "file": str(dest.relative_to(ROOT)), "prediction": pred, "version": ver,
-                        "seed": inp["seed"], "prompt": spec.prompt, "reference_images": spec.reference_images})
+                        "seed": inp["seed"], "model": model, "attempt": att, "prompt": sp.prompt, "reference_images": sp.reference_images})
             print("wrote", dest.relative_to(ROOT))
     lp = ROOT / "references" / "generated-refs" / "log.json"
     prev = json.loads(lp.read_text()) if lp.exists() else []
