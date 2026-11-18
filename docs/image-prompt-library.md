@@ -54,14 +54,14 @@ Mike Mignola art style, Hellboy comic art style, 2D graphic novel illustration, 
 ### 3.1 DANNY — model `dannyboy2323/character-daddanny23` — trigger `CHARACTERDADDANNY23`
 
 ```
-CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, athletic build, plain dark t-shirt and jeans, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant
+CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length light brown beard, warm light brown beard color, NOT red, NOT orange, NOT grey, neck tattoos, athletic build, plain dark t-shirt and jeans, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant
 ```
 
 Notes:
 - `lora_scale` 1.0–1.1. Use 1.1 for face-critical panels.
 - The t-shirt is canon (series rule: jeans and a t-shirt, always). When Danny is in period costume, write the costume **over** the t-shirt: `wearing a [period garment] over a plain dark t-shirt, jeans visible beneath`.
 - Full-back tattoo coverage was proven in the shirtless rear-view example; use sparingly.
-- The beard color drift (toward grey/red) is the model's main failure; the triple beard-color phrasing above is the fix.
+- **Canon (author, 2026-11-18): Danny's beard is LIGHT BROWN.** Tested: the model follows "light brown" but drifts orange/ginger and grows the beard past the chest unless "NOT red, NOT orange, NOT grey" and "chest-length" are present (see `references/generated-refs/danny-light-beard-test/`).
 
 ### 3.2 DANIEL — model `dannyboy2323/character-danielbull23` — trigger `CHARACTERDANIELBULL23`
 
@@ -81,6 +81,8 @@ Notes:
 CHARACTERHATER, THE HATER, fully human, normal human anatomy throughout, normal human head, no horns no growths no supernatural features anywhere on the body, normal human pale peachy skin tone, short and extremely portly obese human male, broad flat nose, wide flaring nostrils, round fleshy face, both eyes fully visible with misaligned wandering gaze apparent, heavy jowls, thick fleshy neck with multiple chins, pronounced buck teeth, ruddy flushed uneven skin with acne, greasy lank hair plastered flat, wide squat body, short stubby arms and legs, slovenly disheveled posture, dark navy blue uniform shirt with FUN POLICE patch on left shoulder, official FBOP shield badge on chest, shirt untucked and straining across the belly, belt sitting low, dark navy uniform trousers hiked too high, uniform hat at the correct angle, scuffed dirty boots
 ```
 
+**Dress rule (author):** in period stories the Hater wears the era's costume tied into the story's scheme; in the modern day he wears a baseball cap bearing the "FBOP" Fun Police logo.
+
 **Mandatory Hater anti-drift block** (the Mignola style pulls this model toward Hellboy — always include):
 
 ```
@@ -89,7 +91,7 @@ NOT Hellboy, NOT Hellboy character, NO horns, NO stone fist, NO right hand of do
 
 ### 3.4 THE PROSECUTOR — model `dannyboy2323/character-prosecutor` — trigger `CHARACTERPROSECUTOR`
 
-> ⚠️ The only logged example used `#CHARACTERPROSECUTOR` (with a hash) and a GTA-style prompt, not the series style. **Trigger spelling and the working lora_scale must be confirmed by the author** before Story 3 panels are generated. Default below assumes no hash.
+> **Trigger confirmed 2026-11-18:** `CHARACTERPROSECUTOR` (no hash). Tested with and without the hash at the same seed: both render the on-model Prosecutor in the series style (`references/generated-refs/prosecutor-trigger-test/`), so the plain spelling is canon for consistency with the other models. `lora_scale` 1.0 worked. **Dress rule (author):** in period stories he wears the era's costume integrated into that story's hairbrained scheme; in the modern day he has slicked-back hair.
 
 ```
 CHARACTERPROSECUTOR, THE PROSECUTOR, tall thin man age 52, long pointy face, aggressively slicked-back dark hair, pinstripe suit one size too small across the shoulders, knockoff gold watch worn on the wrong wrist, cheap very shiny polished shoes, smug self-satisfied courtroom posture, one hand raised mid-objection, hollow vain expression
@@ -111,7 +113,7 @@ _The milk-white eyes are canon (Stories 2–3). Reference images: author to supp
 
 **Jen (the Mother):**
 ```
-an elegant woman in her early forties, composed and warm, dark hair pulled back, clean strong facial structure, tired eyes that miss nothing, practical stylish clothing, standing beside a green Jeep Wrangler
+an elegant woman in her early forties, composed and warm, dark hair pulled back, clean strong facial structure, tired eyes that miss nothing, practical stylish clothing, standing beside [HER CAR FOR THIS STORY — rotates every story; so far an army-green Jeep Wrangler (S1) and a blue Audi A7 (S2); pick something different next time]
 ```
 
 **Jenni (the Girlfriend — introduced Story 3):**
@@ -191,7 +193,7 @@ _Lesson from this prompt: covers describe Danny and Daniel by plain description 
 ### 7.2 Danny — journal panel (the "last panel" template; reuse every story)
 
 ```
-[STRENGTHENED STYLE BLOCK], CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, single figure only, exactly two arms exactly two legs, correct human anatomy, no extra limbs, no floating limbs, no disembodied body parts, no anatomical errors, clean figure rendering, figure seated alone at a heavy worn wooden desk deep in the night, hunched slightly forward over an open leather bound travel journal, right hand writing slowly with a pen across the open pages, left hand wrapped around a cracked coffee mug, expression of deep exhausted contemplative brooding, back in present day clothing, plain dark t-shirt, neck tattoos fully visible above the collar, the bald head catching the warm amber glow of a single desk lamp, the long dark beard resting against his chest as he leans forward, [THIS STORY'S SOUVENIR OR COSTUME PIECE] beside the journal, a single desk lamp as the only light source casting a tight warm amber pool across the desk and his face, everything beyond the lamp radius dissolving into pure Mignola black, dramatic single source chiaroscuro lighting, the open journal pages catching warm light, handwritten text rendered as loose illegible scrawl, a window behind him showing the deep blue black of late night, cinematic medium close shot framing the figure from the waist up at the desk, quiet brooding introspection, the last panel of the graphic novel
+[STRENGTHENED STYLE BLOCK], CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length light brown beard, warm light brown beard color, NOT red, NOT orange, NOT grey, neck tattoos, strong facial likeness preserved, character face accuracy critical, CHARACTERDADDANNY23 facial features dominant, single figure only, exactly two arms exactly two legs, correct human anatomy, no extra limbs, no floating limbs, no disembodied body parts, no anatomical errors, clean figure rendering, figure seated alone at a heavy worn wooden desk deep in the night, hunched slightly forward over an open leather bound travel journal, right hand writing slowly with a pen across the open pages, left hand wrapped around a cracked coffee mug, expression of deep exhausted contemplative brooding, back in present day clothing, plain dark t-shirt, neck tattoos fully visible above the collar, the bald head catching the warm amber glow of a single desk lamp, the long dark beard resting against his chest as he leans forward, [THIS STORY'S SOUVENIR OR COSTUME PIECE] beside the journal, a single desk lamp as the only light source casting a tight warm amber pool across the desk and his face, everything beyond the lamp radius dissolving into pure Mignola black, dramatic single source chiaroscuro lighting, the open journal pages catching warm light, handwritten text rendered as loose illegible scrawl, a window behind him showing the deep blue black of late night, cinematic medium close shot framing the figure from the waist up at the desk, quiet brooding introspection, the last panel of the graphic novel
 ```
 
 ### 7.3 Daniel — donut incident template
@@ -219,7 +221,7 @@ _Rule: the fart's visual register must match the manuscript's literary register 
 Primary model: Danny. `extra_lora: dannyboy2323/character-danielbull23`.
 
 ```
-[STYLE BLOCK], CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length dark brown beard, dark chocolate brown beard, deep espresso brown beard color, neck tattoos, CHARACTERDANIELBULL23, CHARACTERDANIELBULL23, young boy, slim build, tall for his age, messy brown hair, two figure composition, each figure spatially isolated with clear empty ground space between them, no overlapping limbs between the two figures, exactly two arms and two legs per figure, correct human anatomy throughout, CHARACTERDADDANNY23 on the left standing having just regained his footing, disoriented expression giving way to fierce awareness, wearing [PERIOD COSTUME] over a plain dark t-shirt and jeans, the beard and neck tattoos wildly incongruous against [THE SETTING], CHARACTERDANIELBULL23 on the right [DANIEL'S COSTUME AND REACTION], a faint residual glow of spacetime energy still dissipating around the edges of both bodies, the crack in spacetime sealing itself shut in the background behind them, [SETTING RENDERED IN DETAIL — ground, light, weather, period figures as distant silhouettes], background figures kept small distant and minimally detailed, cinematic medium shot framing both full figures, the collision of two people unstuck from time landing in [THE EVENT]
+[STYLE BLOCK], CHARACTERDADDANNY23, completely bald shaved head, very long thick chest-length light brown beard, warm light brown beard color, NOT red, NOT orange, NOT grey, neck tattoos, CHARACTERDANIELBULL23, CHARACTERDANIELBULL23, young boy, slim build, tall for his age, messy brown hair, two figure composition, each figure spatially isolated with clear empty ground space between them, no overlapping limbs between the two figures, exactly two arms and two legs per figure, correct human anatomy throughout, CHARACTERDADDANNY23 on the left standing having just regained his footing, disoriented expression giving way to fierce awareness, wearing [PERIOD COSTUME] over a plain dark t-shirt and jeans, the beard and neck tattoos wildly incongruous against [THE SETTING], CHARACTERDANIELBULL23 on the right [DANIEL'S COSTUME AND REACTION], a faint residual glow of spacetime energy still dissipating around the edges of both bodies, the crack in spacetime sealing itself shut in the background behind them, [SETTING RENDERED IN DETAIL — ground, light, weather, period figures as distant silhouettes], background figures kept small distant and minimally detailed, cinematic medium shot framing both full figures, the collision of two people unstuck from time landing in [THE EVENT]
 ```
 
 ### 7.7 Fun Police — Hater + Prosecutor (two-LoRA template)

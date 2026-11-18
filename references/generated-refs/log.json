@@ -133,5 +133,39 @@
    "no_refs": true
   },
   "error": "Replicate 429 creating prediction for black-forest-labs/flux-2-pro: {\"detail\":\"Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests while you have less than $5.0 in credit. Your rate limit resets in ~1s.\",\"status\":429,\"retry_a"
+ },
+ {
+  "character": "johnny_cash",
+  "file": "references/generated-refs/johnny_cash/johnny_cash-cand1.webp",
+  "prediction": "https://replicate.com/p/jzyv6v3bbxrmt0d1y3z8fw6vq0",
+  "version": "hidden",
+  "seed": 1000,
+  "model": "openai/gpt-image-2",
+  "attempt": {
+   "route": "gptimage2"
+  },
+  "prompt": "2D graphic novel illustration in the style of a Mike Mignola inked comic panel, bold heavy black ink linework, dramatic chiaroscuro, deep blacks with muted earth tones, desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper, Johnny Cash as the series' hologram exactly as in the reference panels: a full-length figure standing upright and floating just above the ground, slightly translucent, with a thin glowing cyan-white neon contour outlining the whole silhouette like a projected hologram, dressed entirely in black with a long black coat, black shirt and black trousers, dark swept-back hair, deeply lined weathered face, calm dry half-smile, arms relaxed at his sides, full-length figure centered, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures",
+  "reference_images": [
+   "https://cdn.sanity.io/images/d205mlci/production/f217ac5e433be08eabd0ded049ccaa5896c746e4-1008x1008.webp",
+   "https://cdn.sanity.io/images/d205mlci/production/e62b69643fad6f2ca1a748237850e7499c04ebe9-1024x1024.webp",
+   "https://cdn.sanity.io/images/d205mlci/production/b49ad67d9188062b73c2638a23f30251402df9a2-1024x1024.webp"
+  ]
+ },
+ {
+  "character": "johnny_cash",
+  "file": "references/generated-refs/johnny_cash/johnny_cash-cand1.webp",
+  "prediction": "https://replicate.com/p/kr7jaqzf09rmr0d1y3zvz4hsgm",
+  "version": "hidden",
+  "seed": 1000,
+  "model": "openai/gpt-image-2",
+  "attempt": {
+   "route": "gptimage2"
+  },
+  "prompt": "2D graphic novel illustration in the style of a Mike Mignola inked comic panel, bold heavy black ink linework, dramatic chiaroscuro, deep blacks with muted earth tones, desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper, Johnny Cash as the series' hologram exactly as in the reference panels: a full-length figure standing upright and floating just above the ground, slightly translucent, with a thin glowing cyan-white neon contour outlining the whole silhouette like a projected hologram, dressed entirely in black with a long black coat, black shirt and black trousers, dark swept-back hair, deeply lined weathered face, calm dry half-smile, arms relaxed at his sides, full-length figure centered, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures",
+  "reference_images": [
+   "https://cdn.sanity.io/images/d205mlci/production/f217ac5e433be08eabd0ded049ccaa5896c746e4-1008x1008.webp",
+   "https://cdn.sanity.io/images/d205mlci/production/e62b69643fad6f2ca1a748237850e7499c04ebe9-1024x1024.webp",
+   "https://cdn.sanity.io/images/d205mlci/production/b49ad67d9188062b73c2638a23f30251402df9a2-1024x1024.webp"
+  ]
  }
 ]

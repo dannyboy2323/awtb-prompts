@@ -1,0 +1,12 @@
+[
+ {
+  "variant": "plain",
+  "prediction": "https://replicate.com/p/yz7hecc7r5rmr0d1y3yt0hg9gc",
+  "prompt": "2D graphic novel illustration, inked comic book art, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, halftone grain texture, flat cel shading, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph, CHARACTERPROSECUTOR, tall lean man age 52, long narrow face, aggressively slicked-back dark hair, gray pinstripe suit, standing upright, cinematic medium shot framing the full figure"
+ },
+ {
+  "variant": "hash",
+  "prediction": "https://replicate.com/p/8514wm03axrmy0d1y3zbgkj6rr",
+  "prompt": "2D graphic novel illustration, inked comic book art, Mike Mignola art style, bold heavy ink linework, dramatic chiaroscuro shadows, deep blacks with muted earth-tone color, desaturated ochres and burnt reds, halftone grain texture, flat cel shading, colored ink illustration, against a solid white background, NOT photorealistic, NOT a photograph, #CHARACTERPROSECUTOR, tall lean man age 52, long narrow face, aggressively slicked-back dark hair, gray pinstripe suit, standing upright, cinematic medium shot framing the full figure"
+ }
+]

@@ -28,14 +28,16 @@ STYLE = g.STYLE_BLOCK_PREFIXES[2] + (
     "desaturated ochres and burnt reds, warm amber accents, rough crosshatching and halftone grain, "
     "woodcut-like rendering, strong geometric shadow shapes, flat cel shading, colored ink on paper"
 )
+TAILS = {"johnny_cash": "full-length figure centered, plain solid white background, clean uncluttered composition, plain panel with no lettering or signatures"}
 TAIL = ("head and upper body portrait facing slightly three-quarter, plain solid white background, "
         "clean uncluttered composition, plain panel with no lettering or signatures")
 
 # character -> (panel ids from the manifest used as visual references, description)
 CHARACTERS: dict[str, tuple[list[str], str]] = {
     "johnny_cash": (["S1-p37", "S2-p32", "S2-p34"],
-        "Johnny Cash as a translucent luminous holographic apparition, soft amber-white edge glow, "
-        "dressed entirely in black, black coat and black shirt, dark swept-back hair, deeply lined weathered face, calm dry half-smile"),
+        "Johnny Cash as the series' hologram exactly as in the reference panels: a full-length figure standing upright and floating just above the ground, "
+        "slightly translucent, with a thin glowing cyan-white neon contour outlining the whole silhouette like a projected hologram, "
+        "dressed entirely in black with a long black coat, black shirt and black trousers, dark swept-back hair, deeply lined weathered face, calm dry half-smile, arms relaxed at his sides"),
     "old_timer": (["S1-p64", "S2-p43"],
         "the same ancient man as the references, deeply weathered face, milk-white clouded eyes that nonetheless seem to see everything, "
         "long white beard, a slight knowing amused smile, plain timeless wool coat"),
@@ -54,11 +56,7 @@ CHARACTERS: dict[str, tuple[list[str], str]] = {
 # Per-character render attempts, tried in order until one succeeds.  Only documented, per-request
 # knobs are used (flux-2-pro ``safety_tolerance``); the LoRA routes never relax any filter.
 ATTEMPTS: dict[str, list[dict]] = {
-    "johnny_cash": [
-        {"route": "flux2pro", "safety_tolerance": 4},
-        {"route": "gptimage2"},
-        {"route": "flux2pro", "safety_tolerance": 5, "no_refs": True},
-    ],
+    "johnny_cash": [{"route": "gptimage2"}],  # flux-2-pro safety-flags this likeness
 }
 
 
@@ -76,7 +74,7 @@ def build_spec(name: str, urls: dict[str, str]) -> g.ImageSpec:
     ids, desc = CHARACTERS[name]
     refs = [urls[i] for i in ids if i in urls]
     return g.ImageSpec(id=f"ref-{name}", kind="panel", page=0, slot="A", aspect_ratio="1:1",
-                       route="flux2pro", prompt=f"{STYLE}, {desc}, {TAIL}", reference_images=refs)
+                       route="flux2pro", prompt=f"{STYLE}, {desc}, {TAILS.get(name, TAIL)}", reference_images=refs)
 
 
 def main(argv: list[str] | None = None) -> int:

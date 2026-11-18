@@ -33,9 +33,15 @@ mirror disagree, **this repo wins**.
 - Tests run in CI: `python -m pytest tools/tests -q`.
 
 ## Open items (tracked in `docs/pipeline-corrections.md`)
-Prosecutor trigger spelling, Replicate version pins (`tools/replicate_versions.json`), canon calls (Danny beard tone, Jen's car, Hater hat, Prosecutor look), approved references for Grandpa / Jen / Johnny Cash / Old-Timer.
+Approved references for Grandpa / Jen / Old-Timer / Jenni (candidates exist), and Jenni's character images from the author.
 
 ## Status (2026-11-18)
 - Replicate versions pinned (`tools/replicate_versions.json`).
 - Candidate reference renders for Old-Timer, Jen, Grandpa and Jenni are in `references/generated-refs/` (log in `log.json`). Approve by copying to `references/approved/<name>-NN.webp`.
 - Johnny Cash: flux-2-pro flags the render (E005) even at `safety_tolerance` 4, but **gpt-image-2 works** (candidate in `references/generated-refs/johnny_cash/`; route Cash through `gptimage2`). The Daniel/Danny LoRA routes never relax the safety checker. A second candidate was throttled (HTTP 429) and can be re-run: `python3 tools/generate_reference_candidates.py --only johnny_cash --per 2`.
+
+## Canon decisions (author, 2026-11-18)
+- Danny's beard: **light brown**. Jen's car **rotates each story** (Jeep Wrangler S1, Audi A7 S2, new next time). Jenni **always** drives a purple Jeep Wrangler.
+- Prosecutor trigger: `CHARACTERPROSECUTOR` (no hash). Fun Police dress for each story's period inside a hairbrained scheme; modern day = Prosecutor slicked-back hair, Hater in an FBOP baseball cap.
+- Johnny Cash is always the glowing-cyan-contour hologram seen in Stories 1–2 (`references/approved/johnny_cash-0N.webp`, made with gpt-image-2).
+- The repo and its images are intentionally public.

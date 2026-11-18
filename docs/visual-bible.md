@@ -35,7 +35,7 @@ Mike-Mignola-inflected inked comic art: heavy black ink, flat cel color, deep bl
 | **Old-Timer** | Ancient; **milk-white eyes**; white/gray beard; era costume | S1-p64, S2-p43 | none | S2-p42 (dominoes) is a candidate appearance without white eyes — confirm against manuscript |
 | **Teddy Roosevelt** | Pince-nez, big mustache, Rough Rider hat, neckerchief, bandolier | S1-p44/61 | none | historical figure |
 | **Biggie Smalls** | Coogi sweaters, gold chain, mic | S2-p40/51 | none | historical figure |
-| **The Prosecutor** | Tall, thin, pointy face, slicked hair, pinstripe, red tie | S2-p44/45 | `CHARACTERPROSECUTOR` ⚠ | S1-p48 reads more "noir fedora/badge" than model sheet |
+| **The Prosecutor** | Tall, thin, pointy face, slicked hair, pinstripe, red tie | S2-p44/45 | `CHARACTERPROSECUTOR` ✅ (confirmed, no hash) | S1-p48 reads more "noir fedora/badge" than model sheet |
 | **The Hater** | Short, portly, jowly, lazy eye, acne, navy Fun Police/FBOP uniform | S2-p46/47 | `CHARACTERHATER` | S1-p49 wears a campaign hat; S2 shows lank hair, no hat |
 
 **Off-model panels (do not use as likeness refs):** S1-p40 (Danny's beard reads grey), S1-p09 & S2-p55 (young Daniel flashbacks), S2-p03 (overalls), S2-p29 (Champion sweatshirt — story-justified), S2-p48 (executive suit flashback). Danny's *standing rule* is jeans + t-shirt; period costume goes over the tee.
@@ -44,7 +44,7 @@ Mike-Mignola-inflected inked comic art: heavy black ink, flat cel color, deep bl
 Grandpa's house (interior/exterior), Space-Time Continuum / the Crack, the Sacred Eternal Flame, the fart/shockwave registers, Entenmann's donuts, Danny's journals, the DONUT EXPERIMENTS notebook, the plant, vehicles, prison, Cuba 1898, Brooklyn 1992.
 
 Continuity flags found:
-- **Jen's car changes**: army-green Jeep Wrangler (S1) → blue Audi A7 (S2). Library/Story-3 outline assumes the green Jeep. Decide whether this is canon (new car) or a visual slip.
+- **Jen's car rotates every story (canon, author 2026-11-18).** So far: army-green Jeep Wrangler (S1), blue Audi A7 (S2); each new appearance gets a different interesting car. **Jenni** (Danny's girlfriend, first appears Story 3) is distinct and *always* drives a purple Jeep Wrangler. Author will supply Jenni character images for her reference sheet.
 - **Space-time crack has two registers**: fiery canyon fissure (S1) vs. lightning rift ringed by flame-keepers (S2). The cosmic Sacred Flame ring of hooded keepers + standing stones (S1-p66) is consistent across both.
 - **Fart register must be new each story** (S1 mushroom cloud; S2 bass-wave rings).
 
@@ -53,7 +53,7 @@ Retro comic-book trade dress: heavy ochre "ADVENTURES WITH THE BULL" masthead; i
 
 ## 6. Recommended additional work (prioritized)
 1. **Generate approved reference sets** for Grandpa, Jen, Jenni, Johnny Cash and the Old-Timer (3–4 white-background renders each) — the pipeline's `references/` requirement; only 1–5 published panels exist for each.
-2. **Decide canon**: Danny's beard tone; Jen's car; the Hater's hat; Prosecutor look (noir vs. model-sheet).
+2. **Canon decided (2026-11-18):** Danny's beard = light brown; Jen's car rotates per story; Jenni = purple Jeep Wrangler; Fun Police dress for the period of each story as part of a hairbrained scheme — in the modern day the Prosecutor has slicked-back hair and the Hater wears a baseball cap with the FBOP logo.
 3. **Lock panel density** (~1 per 100 words, alternating alignment, 1:1) — the old plan of "2 per page / 14 panels" would under-deliver ~5×.
 4. **Write real alt text** per panel (S2's are all "panel image").
 5. **Train additional LoRAs** once ≥25 panels exist (Danny and Daniel already trained; Grandpa/Jen won't reach that soon — use flux-2-pro refs).

@@ -11,7 +11,7 @@ Findings from the published Story 1–2 image sets (pipeline §9 blockers 1–3 
 | 5 | Panel format webp/1MP | Confirmed webp, **1024×1024 or 1008×1008** | Keep default model inputs |
 | 6 | Postcard not mentioned | Each story has a `postcard` (photo composite PNG ~4000px) | Add a postcard step (composite real photos + comic art) or mark as manual |
 | 7 | Alt text | S2 all "panel image" | Generate descriptive alt text per panel |
-| 8 | Jen "standing beside a green Jeep" | S2: blue Audi A7 | Resolve canon (see visual-bible §4) |
+| 8 | Jen "standing beside a green Jeep" | S2: blue Audi A7 | **Resolved:** Jen's car rotates per story; Jenni always drives a purple Jeep Wrangler |
 | 9 | Grandpa "flannel, glasses on forehead, mug of tea" | S1-p15: dark jacket, glasses on face, graying beard, driving a truck | Update the block after choosing canon |
-| 10 | Danny beard "dark chocolate brown" only | Published range dark brown → auburn → blond-brown | Choose canon; use warm-light auburn highlights as allowed variation |
+| 10 | Danny beard "dark chocolate brown" only | Published range dark brown → auburn → blond-brown | **Resolved: light brown** (`NOT red, NOT orange, NOT grey` in the prompt) |
 | 11 | Fun Police never share a panel with Danny/Daniel | Consistent with published panels (villains appear alone in both stories) | No change |
