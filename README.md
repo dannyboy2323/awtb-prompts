@@ -17,6 +17,11 @@ mirror disagree, **this repo wins**.
 | `docs/history/` | Hand-written historical prompts (e.g. Story 2 cover) |
 | `prompts/characters/` | Per-character prompt logs (older/newer LoRA versions) |
 | `prompts/registry.json` | Machine-readable registry of every logged run; `status`: logged → proven / rejected |
+| `WORKFLOW.md` | **Start here for generating a story** — concept → outline → manuscript → panels → Sanity draft → publish |
+| `AUDIT.md` | Coverage audit (automated) + known gaps |
+| `canon/` | series-bible, character-bible, world-guide, style-voice-guide, timeline-continuity-bible, theme-symbol-guide, project-instructions |
+| `assets/` | adventures, intros, phrases, prison sayings, story lessons, dad jokes (each used once per story) |
+| `characters/<name>/` | per-character `bible.md`, `image-guide.md`, `reference-sheet.jpg` (Jenni's v2.0 bible is hand-written: `characters/jenni/bible.md`) |
 | `references/characters, places-objects, covers, postcards, style` | Reference sheets built from published Stories 1–2 |
 | `references/published/story00N/` | The actual published webp files (panels `sN-pNN`, covers, postcards) — visual ground truth |
 | `references/training-sets/` | Contact sheets of the LoRA training images (Danny, Daniel, Hater, Prosecutor, Teddy) + album links |
@@ -33,11 +38,11 @@ mirror disagree, **this repo wins**.
 - Tests run in CI: `python -m pytest tools/tests -q`.
 
 ## Open items (tracked in `docs/pipeline-corrections.md`)
-Approved references for Grandpa / Jen / Old-Timer / Jenni (candidates exist), and Jenni's character images from the author.
+Approved references for Grandpa / Jen / Old-Timer (candidates exist). Jenni's reference set is approved (`references/approved/jenni/`).
 
 ## Status (2026-11-18)
 - Replicate versions pinned (`tools/replicate_versions.json`).
-- Candidate reference renders for Old-Timer, Jen, Grandpa and Jenni are in `references/generated-refs/` (log in `log.json`). Approve by copying to `references/approved/<name>-NN.webp`.
+- Candidate reference renders for Old-Timer, Jen and Grandpa are in `references/generated-refs/` (log in `log.json`). Approve by copying to `references/approved/<name>-NN.webp`.
 - Johnny Cash: flux-2-pro flags the render (E005) even at `safety_tolerance` 4, but **gpt-image-2 works** (candidate in `references/generated-refs/johnny_cash/`; route Cash through `gptimage2`). The Daniel/Danny LoRA routes never relax the safety checker. A second candidate was throttled (HTTP 429) and can be re-run: `python3 tools/generate_reference_candidates.py --only johnny_cash --per 2`.
 
 ## Canon decisions (author, 2026-11-18)
@@ -45,3 +50,4 @@ Approved references for Grandpa / Jen / Old-Timer / Jenni (candidates exist), an
 - Prosecutor trigger: `CHARACTERPROSECUTOR` (no hash). Fun Police dress for each story's period inside a hairbrained scheme; modern day = Prosecutor slicked-back hair, Hater in an FBOP baseball cap.
 - Johnny Cash is always the glowing-cyan-contour hologram seen in Stories 1–2 (`references/approved/johnny_cash-0N.webp`, made with gpt-image-2).
 - The repo and its images are intentionally public.
+- **Jenni** (Nov 18): full bible `characters/jenni/bible.md` (bohemian/hippy/gypsy; lead stylist at an exclusive D.C.-area salon; together with Danny during his incarceration, ultra-loyal ~5 yrs; purple Wrangler Delilah). Story 3: Danny's home confinement moves from Grandpa's house in Palmyra, VA to Jenni's apartment in Northern Virginia just outside D.C., 20 minutes from Daniel.

@@ -44,7 +44,7 @@ Mike-Mignola-inflected inked comic art: heavy black ink, flat cel color, deep bl
 Grandpa's house (interior/exterior), Space-Time Continuum / the Crack, the Sacred Eternal Flame, the fart/shockwave registers, Entenmann's donuts, Danny's journals, the DONUT EXPERIMENTS notebook, the plant, vehicles, prison, Cuba 1898, Brooklyn 1992.
 
 Continuity flags found:
-- **Jen's car rotates every story (canon, author 2026-11-18).** So far: army-green Jeep Wrangler (S1), blue Audi A7 (S2); each new appearance gets a different interesting car. **Jenni** (Danny's girlfriend, first appears Story 3) is distinct and *always* drives a purple Jeep Wrangler. Author will supply Jenni character images for her reference sheet.
+- **Jen's car rotates every story (canon, author 2026-11-18).** So far: army-green Jeep Wrangler (S1), blue Audi A7 (S2); each new appearance gets a different interesting car. **Jenni** (Danny's girlfriend, first appears Story 3) is distinct and *always* drives a purple Jeep Wrangler named Delilah. Her approved reference set (8 images, flux-2-max) lives in `references/approved/jenni/`; bible `characters/jenni/bible.md`; guide `characters/jenni/image-guide.md`.
 - **Space-time crack has two registers**: fiery canyon fissure (S1) vs. lightning rift ringed by flame-keepers (S2). The cosmic Sacred Flame ring of hooded keepers + standing stones (S1-p66) is consistent across both.
 - **Fart register must be new each story** (S1 mushroom cloud; S2 bass-wave rings).
 

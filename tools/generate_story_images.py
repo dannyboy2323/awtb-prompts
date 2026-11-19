@@ -100,6 +100,12 @@ ROUTES: dict[str, dict[str, Any]] = {
         "family": "flux-lora",
         "requires_marker": HATER_ANTI_DRIFT_MARKER,
     },
+    "flux2max": {
+        "model": "black-forest-labs/flux-2-max",
+        "extra_lora": None,
+        "triggers": [],
+        "family": "flux2pro",
+    },
     "flux2pro": {
         "model": "black-forest-labs/flux-2-pro",
         "extra_lora": None,

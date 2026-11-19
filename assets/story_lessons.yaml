@@ -1,0 +1,266 @@
+# ADVENTURES WITH THE BULL
+# Production Asset Library: Story Lessons
+# Version 1.1 — Nov 2026 revision
+#   - Lesson 3 rewritten for the Scotland / Turnbull origin story (Story 3 reassigned)
+#   - Great Molasses Flood lesson moved from #3 to #5
+#   - Stirling Bridge "patience" lesson parked in RESERVE for a future Wallace return
+#
+# USAGE INSTRUCTIONS FOR STORY GENERATION:
+#   - Assign ONE lesson per story — it is the thematic backbone, the thing
+#     Danny teaches Daniel at the story's end, earned by the events of
+#     that specific adventure
+#   - The lesson is NEVER announced or preached. It arrives through the
+#     story and Danny articulates it quietly, naturally, as something they
+#     both just lived rather than something he's lecturing about
+#   - Cross-reference with the Adventure Planning Bible to ensure the
+#     assigned lesson is the one that best fits the historical/fantasy
+#     setting of that story
+#   - Each lesson is used ONCE across the series — no repeats
+#
+# TONE GUIDE:
+#   Danny speaks in plain, direct sentences. He does not moralize.
+#   The lessons in this file are the seed — the writer's job is to let
+#   the story grow it naturally so the reader feels it before Danny says it.
+#   Danny often frames lessons as observations rather than instructions:
+#   not "you should X" but "I noticed X" or "the thing about X is..."
+#
+# SERIES THEMES (for selection guidance):
+#   REDEMPTION      — Forgiveness, second chances, carrying the past forward
+#   FATHERHOOD      — What it means to be present, to protect, to teach
+#   LOYALTY         — Who shows up. Blood. Chosen family. The code.
+#   PERMANENCE      — Love that does not end. Things that are real.
+#   PREPARATION     — Problems as training. Hardship as readiness.
+#   ADVENTURE       — Wonder, curiosity, the courage to explore
+#   VALUES          — Code over money. Character over reputation.
+#   RESILIENCE      — Getting back up. Enduring. Not being broken.
+#   TRUTH           — Honesty. Seeing clearly. Knowing the full story.
+#
+# CONSUMPTION STATUS:  1 ✅ used (Story 1)   2 ✅ used (Story 2)   3 📝 assigned (Story 3 outline)
+#
+# Total lessons: 100 (one per story for the first 100 stories)
+# Additional lessons for Stories 101-1500 to be developed in subsequent volumes.
+# -----------------------------------------------------------------------------
+
+story_lessons:
+  # ACT ONE: THE RETURN (Stories 1-25)
+  # Danny is newly out. Trust is being rebuilt from zero.
+  # Lessons are about courage, presence, and showing up.
+  # The emotional register: cautious hope.
+
+  1: "Courage is not the absence of fear — it is deciding the thing in front of you matters more than the fear. [THEME: RESILIENCE | Battle of San Juan Hill]"
+
+  2: "The words you say casually are sometimes the ones that change everything. You never know which ones will land. Choose them like they matter — because they always do. [THEME: VALUES | Biggie Smalls 1992]"
+
+  3: "You come from people who stepped in front of the thing. That is the whole inheritance — not the name, the step. Names get handed out afterward, by whoever is still standing there when the writing starts. The step is yours. Nobody can give it to you and nobody can take it. [THEME: LOYALTY / PERMANENCE | Ettrick Forest 1297 — Wallace, Bruce, the white bull, the Turnbull origin]"
+
+  4: "The most important thing is not being safe from failure — it is being in the arena. Face marred by dust and blood, still moving. The critic does not count. The man in the arena does. [THEME: RESILIENCE | Man in the Arena 1910]"
+
+  5: "When you see something wrong, act on what you know. The people who do nothing usually had enough information to do something. [THEME: TRUTH | Great Molasses Flood 1919]"
+
+  6: "The most powerful person in any room is the one who does not need anything from it. People can feel authenticity instantly. They can feel its absence faster. [THEME: VALUES | Cleopatra 48 BC]"
+
+  7: "The beautiful things happen in the gaps — in the unplanned moments, the improvised seconds, the things nobody put in the setlist. Follow the light when you see it, even when nobody knows why. [THEME: ADVENTURE | Jimi Hendrix Woodstock 1969]"
+
+  8: "Class is a story the world tells about itself. When the water rises, it rises to the same level for everyone. Remember who was put at the bottom, and who helped them out. [THEME: TRUTH | RMS Titanic 1912]"
+
+  9: "Not knowing the rules costs you the fight even when you are the stronger one. Learn how things actually work before you step into them. [THEME: PREPARATION | Saint Valentine's Day Massacre 1929]"
+
+  10: "The summit is not the point. Getting back down is the point. Most people fail after they think they have already won. Do not let up when you think it is over. [THEME: RESILIENCE | Everest Summit 1953]"
+
+  11: "Nobody believed them. They did it anyway — with no money, no credentials, and no permission. The world is full of people who will tell you it cannot be done. The only answer to that is to do it. [THEME: PREPARATION | Wright Brothers 1903]"
+
+  12: "Every impossible thing was done by people who kept going past the moment when stopping was reasonable. Past the error, Bull. Always past the error. [THEME: RESILIENCE | Apollo 11 Mission Control 1969]"
+
+  13: "Courage is the decision to keep going after fear has made its full argument. The bravest people are afraid and they go anyway — every single day, they go anyway. [THEME: REDEMPTION | Dr. Martin Luther King Jr. Memphis 1968]"
+
+  14: "The people who got rich in the Gold Rush sold shovels. While everyone chased the thing, the smart ones sold what you need to find it. Always look one step back from where everyone is running. [THEME: PREPARATION | California Gold Rush 1848]"
+
+  15: "When systems fail, other people step up or they do not. That is the whole story. Which one do you want to be? [THEME: VALUES | Hurricane Katrina 2005]"
+
+  16: "Document everything. The journal is the proof you were there. If nobody writes it down, it did not happen — not the way it deserves to happen. Write your own story or someone else will write it wrong. [THEME: FATHERHOOD | Lewis and Clark 1804]"
+
+  17: "The impossible things people do are not done in spite of the risk — they are done because the thing matters more than the fear. Build the road to what you want. In the dark, if you have to. [THEME: ADVENTURE | Philippe Petit Twin Towers 1974]"
+
+  18: "Sometimes you know a thing is going to matter before anyone tells you it does. The world goes quiet. Pay attention when it does. [THEME: ADVENTURE | Elvis on Ed Sullivan 1956]"
+
+  19: "Curiosity is not a personality trait — it is a survival tool. The smartest people in every room are still playing. Never stop playing. [THEME: ADVENTURE | Richard Feynman Los Alamos 1943]"
+
+  20: "History does not always happen the way it is supposed to. Sometimes the most important things are accidents. Pay attention to what breaks unexpectedly — it is usually breaking in your favor. [THEME: TRUTH | Fall of the Berlin Wall 1989]"
+
+  21: "When your conscience speaks, listen to it even when the cost is everything. The people history remembers clearly were not always the ones who won. They were the ones who were right. [THEME: VALUES | Muhammad Ali draft refusal 1967]"
+
+  22: "One person, one moment, one vote. The whole world can turn on a single decision made by someone who decides to listen to the right voice. [THEME: VALUES | Women's Suffrage / Harry Burn 1920]"
+
+  23: "Do not mistake luck for genius. The house always wins until it does not. When it stops winning, find out why before you sit back down at the table. [THEME: TRUTH | Black Tuesday 1929]"
+
+  24: "The people at the top do not always pay for their failures. The people at the bottom do. Know who built what you are standing on. Know what it cost them. [THEME: TRUTH | Johnstown Flood 1889]"
+
+  25: "The most powerful words ever written were scratched out in a jail cell. What you carry inside you cannot be taken away by where you are. [THEME: REDEMPTION | Letter from Birmingham Jail 1963]"
+
+  # ACT ONE DEEPENING (Stories 26-50)
+  # The adventures have rhythm now. Daniel senses something bigger is happening.
+  # Danny starts to open up. Lessons become more specific and personal.
+
+  26: "The most qualified person in the room should fly the rocket. Know where you stand. Make the case. Do not let anyone convince you that your credentials need explaining. [THEME: VALUES | Sally Ride]"
+
+  27: "Genius often looks like madness until it saves the world. Be patient with the people who see things others cannot. One of them is usually right. [THEME: TRUTH | Alan Turing 1944]"
+
+  28: "You do not need everything ready to start. But you need to keep training to finish. The gap between starting and finishing is where most people quit. Get to the gap. Cross it. [THEME: PREPARATION | First Boston Marathon 1897]"
+
+  29: "Not knowing the rules will cost you the fight — even when you are winning. Learn the rules of every room you enter. Even the ones that do not seem fair. [THEME: PREPARATION | Dempsey-Tunney Long Count 1927]"
+
+  30: "The world will make you wait. Waiting does not mean stopped. The question is not how long you waited — it is what you became while you were doing it. [THEME: RESILIENCE | Einstein in Bern 1905]"
+
+  31: "History is written by the living. Make sure the right people are in it. Ask their names. Say them out loud. [THEME: TRUTH | Boston Massacre / Crispus Attucks 1770]"
+
+  32: "Know the full story before you decide who the heroes and villains are. The simple version is almost always wrong about something important. [THEME: TRUTH | Jesse Owens at Hitler's Olympics 1936]"
+
+  33: "Sometimes the bravest moment is the one you prepared for. Practice does not make it less real — it makes it possible. [THEME: PREPARATION | Rosa Parks 1955]"
+
+  34: "Some things in life are just joy — pure and unearned and right. Let them be that. You do not have to find a lesson every time something good happens. [THEME: ADVENTURE | 1960 World Series Game 7]"
+
+  35: "Real leadership means being prepared to take the fall — not looking for someone else when things go wrong. The letter in the pocket is who you really are. [THEME: VALUES | D-Day / Eisenhower's unsent letter 1944]"
+
+  36: "Ask whose sacrifice built what you are standing on. Then honor it by not wasting it. [THEME: TRUTH | Great Mississippi Flood 1927]"
+
+  37: "Behind every famous sentence is often a person history forgot. Say that person's name. That is the whole lesson. [THEME: TRUTH | First Telegraph / Annie Ellsworth 1844]"
+
+  38: "The story is always in the people others walk past. Stop. Look. Ask. [THEME: TRUTH | Steinbeck and the Dust Bowl migrants 1939]"
+
+  39: "Finish the thing. The clock does not change what it is worth — it only changes how much time you have to do it right. [THEME: RESILIENCE | Rachel Carson writing Silent Spring 1962]"
+
+  40: "Sometimes the bravest thing is to walk toward the thing that will hurt you because what's on the other side matters more than the pain of getting there. That is not recklessness. That is faith. [THEME: RESILIENCE | Selma / Edmund Pettus Bridge 1965]"
+
+  41: "Speak your future into existence. Say the thing you intend to become. Say it out loud. Then go become it. [THEME: PREPARATION | Cassius Clay vs. Sonny Liston 1964]"
+
+  42: "Some moments are worth being completely still for. Nothing to fix, nothing to save. Just witness. Let the thing be what it is. [THEME: FATHERHOOD | Moon Landing Night 1969]"
+
+  43: "The people who survived acted on information, not fear alone. Fear is not nothing. But it is not a plan. [THEME: PREPARATION | Black Death arrives in Sicily 1347]"
+
+  44: "The stories we tell about disasters are often lies invented after the fact. Find the truth. It is usually more complicated and more instructive than the legend. [THEME: TRUTH | Great Chicago Fire 1871]"
+
+  45: "You do not need permission to be what you are. You never did. You just need to start. [THEME: VALUES | Langston Hughes in Harlem 1920]"
+
+  46: "Never assume you and the other person are having the same conversation. The gap between what you mean and what they hear is where most tragedies begin. [THEME: TRUTH | Cortes and Moctezuma 1519]"
+
+  47: "Sometimes you are called to give everything for a single moment. When that moment comes — you will know. The question is whether you will move. [THEME: RESILIENCE | Pheidippides at Marathon 490 BC]"
+
+  48: "The rules that keep you safe were written in other people's blood. Know where they came from. Respect them. Fight to keep them. [THEME: TRUTH | Triangle Shirtwaist Factory fire 1911]"
+
+  49: "History's greatest monsters were not mysterious — they were obvious. The danger is when people stop laughing at the right things and start listening to the wrong ones. [THEME: TRUTH | Early Hitler rally Munich 1934]"
+
+  50: "Sometimes an adventure is just two people and a booth and ice cream and a jukebox. That is enough. That is more than enough. The ordinary moments are the ones you miss most when they're gone. [THEME: FATHERHOOD | Milestone Story 50]"
+
+  # ACT TWO BEGINS (Stories 51-75)
+  # Daniel is older. Trust is deeper. Lessons are harder.
+  # Danny's voice gets more direct. Some of these sting.
+
+  51: "Trusting someone means letting them make mistakes. You do not have to watch them make every one. But you have to be there after. That is the whole job. [THEME: FATHERHOOD | Challenger crew 1986]"
+
+  52: "One door, one day, millions of stories passing through. Every person you walk past is carrying something enormous. Act accordingly. [THEME: VALUES | Ellis Island 1907]"
+
+  53: "The things people say in public are often performances. The truth is in the private moments — what they do when nobody is watching. Know the difference. [THEME: TRUTH | Neil Armstrong what he really thought 1969]"
+
+  54: "The people who show up when there is everything to lose — those are the ones worth knowing. Remember their names. Tell their stories. [THEME: LOYALTY | Marsha P. Johnson and Stonewall 1969]"
+
+  55: "The myth and the man are never the same person. Study both. Respect the man. Apply the lesson. Leave the myth where it belongs. [THEME: TRUTH | Vince Lombardi / First Super Bowl 1967]"
+
+  56: "Most of the complicated things in history were done by people with complicated reasons. Black and white is for cartoons. Real life happens in the gray. Know the gray. [THEME: TRUTH | The Alamo 1836]"
+
+  57: "Writing the truth about yourself — even the parts that cost you something — is an act of courage most people never attempt. [THEME: REDEMPTION | Frederick Douglass autobiography 1845]"
+
+  58: "The plan always falls apart. What you do when the plan fails is what defines you. Shackleton's ship sank. Not one man died. That is leadership. [THEME: PREPARATION | Shackleton Endurance expedition 1914]"
+
+  59: "Sometimes you have to walk away from the thing you built because it is going to be used to destroy what you love. Knowing when to leave your own work is a form of wisdom most people never reach. [THEME: VALUES | Einstein leaves Germany 1933]"
+
+  60: "The things you work hardest for often do not taste the way you expected. That does not mean they were not worth it. It means you were working toward the work, not just the finish line. [THEME: ADVENTURE | First Kentucky Derby 1875]"
+
+  61: "The most creative people in history were often the most difficult to be around. They were difficult because they cared about the thing more than the approval. Do not confuse those two things. [THEME: VALUES | Frank Lloyd Wright / Fallingwater 1935]"
+
+  62: "The ones who move in darkness, asking nothing, carrying others — they do not get statues. They get to sleep knowing what they did. That is better. [THEME: VALUES | Harriet Tubman]"
+
+  63: "When something terrible happens, ask who knew and what they did about it. The answer is always more complicated and more damning than the official story. [THEME: TRUTH | Sinking of the Lusitania 1915]"
+
+  64: "The people who threw things at Jackie Robinson were afraid of exactly what happened: that he was better than they needed him not to be. Hatred is just fear that gave up hiding. [THEME: TRUTH | Jackie Robinson 1947]"
+
+  65: "The villain in every story about progress is usually the person who had the most to lose if things got better. Know who benefits from things staying the same. [THEME: TRUTH | Tesla vs. Edison 1890s]"
+
+  66: "The most valuable things are sometimes the ones nobody sees — the ones done quietly, without recognition, that held everything together from the inside. [THEME: LOYALTY | Navajo Code Talkers WWII]"
+
+  67: "The most important messages are often the shortest. And they usually go almost nowhere first. Everything begins smaller than you think it will. [THEME: PREPARATION | First internet message UCLA 1969]"
+
+  68: "The biggest disasters in history often began with the smallest accidents. A wrong turn. A misread map. Pay attention to the small things. History lives in the margins. [THEME: TRUTH | Assassination of Franz Ferdinand 1914]"
+
+  69: "The most important things you will ever discover are things you were not looking for. You were looking for something else and you paid attention to what was actually there. That is how science works. That is how life works. [THEME: ADVENTURE | Darwin on the Galapagos 1835]"
+
+  70: "The enemy that kills the most people is usually the one nobody takes seriously. Ask what everyone is assuming is fine. That is where the danger is. [THEME: PREPARATION | Panama Canal Yellow Fever 1900s]"
+
+  71: "Some stories do not have clean endings. Some questions do not get answered. The honest thing is to sit with that — not to invent an answer that fits. [THEME: TRUTH | Amelia Earhart 1937]"
+
+  72: "You and I are the latest link in a chain that has been going since the beginning. Everything alive right now survived something that should have ended it. You come from survivors. Act like it. [THEME: RESILIENCE | The Ice Age 12000 BC]"
+
+  73: "The things that look boring from the outside — the slow, patient, meticulous things — are often the ones that change everything. Nobody watched Mendel count his peas and thought they were watching history. [THEME: PREPARATION | Gregor Mendel 1856]"
+
+  74: "The right person for a terrible moment is not always the most comfortable person to be around. They are the one who is right when right is the only thing that matters. [THEME: VALUES | Churchill 1940]"
+
+  75: "The greatest work of any life is usually produced under circumstances that should have made it impossible. Rent was due for Shakespeare too. The circumstances are never going to be perfect. Write the thing. [THEME: RESILIENCE | Shakespeare writing Hamlet 1600]"
+
+  # THE FANTASY TURN AND ACT TWO DEEPENING (Stories 76-100)
+  # Root beer realm stories and late-act-two emotional intensification.
+  # Lessons become internal, personal, direct — between Danny and Daniel.
+
+  76: "Every system eventually begins to serve itself instead of the people it was built for. When that happens, the best move is to ask for the form you need to get the form. [THEME: TRUTH | The Kingdom / Bureaucracy Realm]"
+
+  77: "Joy is not decoration. It is infrastructure. The cities that run on it are the ones worth living in. [THEME: ADVENTURE | The Grid / Joy-powered city]"
+
+  78: "The most dangerous places are sometimes the most polite ones. Watch what people do, not what they say — especially when they are very, very polite about everything. [THEME: VALUES | The Deep / Underwater kingdom]"
+
+  79: "A library is not a building. It is a door. Every book you read is a place you go. You have been going since before you knew you were going. Keep going. [THEME: ADVENTURE | The Library / Books as doors]"
+
+  80: "Some things do not need a lesson. Some things you just win because you showed up, you trained hard, and you were better. Enjoy it. You earned it. [THEME: RESILIENCE | The Tournament]"
+
+  81: "The most efficient things are usually the least alive. Do not optimize yourself into something that does not feel anything. [THEME: VALUES | The Clockwork / Steampunk city]"
+
+  82: "A life without difficulty is not a life — it is a display case. The mess is what is real. The struggle is the thing. [THEME: RESILIENCE | The Road / 1950s parody realm]"
+
+  83: "Let it go. Whatever you have been carrying that the other person forgot they were holding. Let it go. It was never worth it. [THEME: REDEMPTION | The Island / Two old men]"
+
+  84: "Sometimes the person who needs to trust the other one is the father. I trust you. That is the whole sentence. [THEME: FATHERHOOD | The Game / Inside the video game]"
+
+  85: "Boredom in paradise means you need something to do — not that paradise was not real. The restlessness is a gift. Follow it somewhere. [THEME: ADVENTURE | The Garden]"
+
+  86: "Time is not what the clock says. It is what you notice. The years you were present are longer than the years you were gone — in every way that matters. [THEME: PERMANENCE | The Clock Realm]"
+
+  87: "There are things you know that I do not. I stopped pretending otherwise a long time ago. You are the teacher now. I am listening. [THEME: FATHERHOOD | The School / Wisdom tests]"
+
+  88: "Sometimes the storm is not the thing to survive. Sometimes it is the thing to sit with — until it tells you what it needs. [THEME: RESILIENCE | The Storm / Sentient storm]"
+
+  89: "Everything alive is connected to something it does not know it is connected to. Pull the wrong thread and everything shifts. Be careful what you pull. Be braver about what you do anyway. [THEME: TRUTH | The city that is a living creature]"
+
+  90: "The trees that remember the most are the ones that stood in one place the longest. Rootedness is not weakness. It is wisdom made physical. [THEME: PERMANENCE | The Forest / Memory trees]"
+
+  91: "Leadership is not a title. It is what you do when everyone is looking at you to figure out what to do. You have been doing it your whole life. [THEME: VALUES | Kingdom run by children]"
+
+  92: "The things that were never written, never said, never finished — they are not lost. They exist in the space between what was said and what was meant. That space is enormous. That space is full. [THEME: PERMANENCE | The anti-library]"
+
+  93: "I would go anywhere to find you. Every version of anywhere. That is not a promise. That is just what I would do. [THEME: FATHERHOOD | Time breaks — Danny searches across eras]"
+
+  94: "The ordinary things are the ones you will remember. Not the battles or the famous dead or the cracked sky — the salt on the table. The way you laughed at something that was not even that funny. [THEME: FATHERHOOD | The last ordinary place]"
+
+  95: "One right thing, said at the right moment, ends an argument that centuries could not. You have always known the right thing. You were just waiting to need it. [THEME: TRUTH | Sacred Fire vs. Fun Police courtroom realm]"
+
+  96: "The unfinished things are not failures. They are proof that something was started — which is harder than people think. Finish what you can. Honor what you cannot. [THEME: RESILIENCE | The realm of unfinished things]"
+
+  97: "There are things I carry in dreams that I have not told you yet. If you ever find me somewhere dark and far away — call my name. I will always come back to your voice. [THEME: FATHERHOOD | Danny's dream]"
+
+  98: "Every place we have been is still there, somewhere, in the way we talk to each other. The map is us. We are the map. [THEME: PERMANENCE | The map of every adventure]"
+
+  99: "The hardest days of your life will not be the ones that break you. They will be the ones that almost break you and do not. Those are the ones that change what you are made of. [THEME: RESILIENCE | Story 99 — the darkest early entry]"
+
+  100: "I am not in your future. That is not something to be afraid of — it is something to understand. You carry me forward. The journal is the proof. Whatever comes after, you already have what you need. You have always had what you need. [THEME: PERMANENCE | Story 100 — they see the future. Danny is not there.]"
+
+# -----------------------------------------------------------------------------
+# RESERVE LESSONS — unassigned; parked for rescheduled adventures (see adventures.md RESERVE)
+# -----------------------------------------------------------------------------
+reserve_lessons:
+  RESERVE-A: "Patience at the right moment is more powerful than strength at the wrong one. The hardest skill is not acting — it is knowing when not to. [THEME: PREPARATION | formerly #5, Battle of Stirling Bridge 1297 — hold for a Wallace return (Falkirk 1298 recommended), Stories 101-300]"

@@ -1,0 +1,157 @@
+# ADVENTURES WITH THE BULL
+# Production Asset Library: Dad Jokes (Element 14)
+# Version 1.1 — Nov 2026: author's 50-joke roundup folded in (each used once);
+#   four internal near-duplicates from v1.0 removed; jokes matched to story hooks.
+#
+# WHAT THIS IS:
+#   Starting with Story 3, every story contains exactly ONE corny dad joke told by
+#   Danny in the present-day frame (the kitchen, the car, the driveway — never
+#   inside the historical adventure unless the outline designates otherwise).
+#   The dad joke is Element 14 of the story architecture. It is the one place in
+#   the series where Danny is allowed to be deliberately, catastrophically
+#   unfunny on purpose — and the series treats this as a sacred ritual.
+#
+# ORIGIN (canon, established Story 3):
+#   The first joke came through a vent in the SHU — a man two cells down told it
+#   to Danny in Year 2, and Danny waited five years for a kitchen to tell it in.
+#   He will now tell one every Saturday for the rest of his life. Daniel will
+#   suffer. That is the point.
+#
+# DELIVERY RULES:
+#   - Danny tells the joke with the exact gravity he uses to quote a federal
+#     sentencing guideline. He never smiles first. He pauses before the punchline.
+#   - Daniel's reaction escalates across the series:
+#       Stories 3-25:    "Dad." / "What." / "Don't."  — flat, pained, loyal
+#       Stories 26-100:  Daniel starts rating them (out of ten). Most get a 2.
+#       Stories 101-300: Daniel pre-empts them ("if you say 'grew on me' I'm leaving")
+#       Stories 301-600: Daniel groans but repeats them to friends; is caught doing so
+#       Stories 601+:    Daniel tells one back. Danny goes quiet. The journal notes it.
+#   - Jenni laughs. Every time. The real laugh. This is one of the things Danny
+#     will never be able to explain about her and never tries to.
+#   - Jen, when present, closes her eyes the way Danny does for the prison jokes.
+#   - Grandpa claims to have told Danny every one of them first. He has not.
+#   - The joke is referenced ONCE in the journal entry, usually in a single clause,
+#     and Danny never explains why he tells them. The reader works it out: a man
+#     who lost five years of being annoying to his kid is making up the time.
+#
+# USAGE:
+#   - One joke per story, by story number. No repeats across the series — not the
+#     joke, and not the punchline either (no second "a stick", no second
+#     "can't put it down").
+#   - If the author supplies a joke in the story prompt, it overrides the indexed
+#     entry; the indexed entry rolls forward to the next unassigned story and the
+#     Dad Joke Deployment Log in timeline-continuity-bible.md is updated.
+#   - Wording may be lightly tailored to Danny's mouth (e.g. #006 and #083 say
+#     "my wife" — Danny says "a guy I knew" or hangs it on Jenni; the joke stays).
+#     Prefer jokes that hook into something physically present in the scene.
+#   - Designated exception stories (e.g. Story 13 / MLK) still contain the joke,
+#     but it lives entirely in the pre-donut frame and is not mentioned again.
+#   - The same jokes are printed in adventures.md under each story's
+#     "The Dad Joke" field; this file is the index of record.
+#
+# CONSUMPTION STATUS:
+#   003 📝 assigned (Story 3 outline — the facial-hair joke, author-supplied)
+#   004-102 assigned by story number (planned, not yet written)
+# -----------------------------------------------------------------------------
+
+dad_jokes:
+  3: "I used to hate facial hair... but then it grew on me."
+  4: "What do you call a person who tells dad jokes but has no kids? A faux pa."
+  5: "What's brown and sticky? A stick."
+  6: "I told my wife she was drawing her eyebrows too high. She looked surprised."
+  7: "I used to play piano by ear. Now I use my hands."
+  8: "What did the ocean say to the beach? Nothing. It just waved."
+  9: "Why did the coffee file a police report? It got mugged."
+  10: "Why can't a nose be twelve inches long? Then it would be a foot."
+  11: "Why did the bicycle fall over? It was two-tired."
+  12: "Why did the math book look sad? It had too many problems."
+  13: "Why did the scarecrow win an award? He was outstanding in his field."
+  14: "I used to be a banker, but I lost interest."
+  15: "Why did the orange stop rolling? It ran out of juice."
+  16: "I stayed up all night wondering where the sun went. Then it dawned on me."
+  17: "I'm reading a book about anti-gravity. It's impossible to put down."
+  18: "What's the most musical part of a chicken? The drumstick."
+  19: "Why can't you trust atoms? They make up everything."
+  20: "What did one wall say to the other? I'll meet you at the corner."
+  21: "Why did the picture go to jail? It was framed."
+  22: "When does a joke become a dad joke? When the punchline becomes apparent."
+  23: "I'm afraid for the calendar. Its days are numbered."
+  24: "What's the fastest liquid on earth? Milk. It's pasteurized before you even see it."
+  25: "I don't trust people who dislike pastries. I donut like them."
+  26: "Did you hear about the claustrophobic astronaut? He just needed a little space."
+  27: "What's Forrest Gump's Gmail password? 1forrest1."
+  28: "Ever tried to eat a clock? It's very time-consuming."
+  29: "Why was six afraid of seven? Because seven eight nine."
+  30: "Time flies like an arrow. Fruit flies like a banana."
+  31: "What do you call cheese that isn't yours? Nacho cheese."
+  32: "What do you call a lazy kangaroo? Pouch potato."
+  33: "How long does it take to make butter? An echurnity."
+  34: "Why did the stadium get hot after the game? All the fans left."
+  35: "I only know 25 letters of the alphabet. I don't know y."
+  36: "When's the best time to go to the dentist? Tooth-hurty."
+  37: "How do billboards talk to each other? Sign language."
+  38: "I sold my vacuum cleaner. It was just collecting dust."
+  39: "Why did the mushroom get invited to every party? He's a fun-gi."
+  40: "I have a fear of speed bumps. But I'm slowly getting over it."
+  41: "Why do bees have sticky hair? They use honeycombs."
+  42: "Did you hear about the restaurant on the moon? Great food, no atmosphere."
+  43: "What did the left eye say to the right eye? Between us, something smells."
+  44: "I made a pencil with two erasers. It was pointless."
+  45: "The invention of the broom really swept the nation."
+  46: "How do you make a tissue dance? Put a little boogie in it."
+  47: "I tried to walk into Target, but I missed."
+  48: "What do you call a can opener that doesn't work? A can't opener."
+  49: "What do you call a fake noodle? An impasta."
+  50: "What do you call a sleeping bull? A bulldozer."
+  51: "Did you hear about the guy who invented Lifesavers? He made a mint."
+  52: "Why don't eggs tell jokes? They'd crack each other up."
+  53: "I ordered a chicken and an egg from Amazon. I'll let you know."
+  54: "I don't trust stairs. They're always up to something."
+  55: "Why did the golfer bring two pairs of pants? In case he got a hole in one."
+  56: "Did you hear about the kidnapping at the playground? He woke up."
+  57: "Most comedians are trustworthy. They're a bunch of stand-up guys."
+  58: "How does a penguin build its house? Igloos it together."
+  59: "I have a joke about chemistry, but I don't think it'll get a reaction."
+  60: "Why do cows wear bells? Their horns don't work."
+  61: "I told the doctor I broke my arm in two places. He said stop going to those places."
+  62: "What do you call a dog that does magic tricks? A labracadabrador."
+  63: "I told my suitcase there'd be no vacation this year. Now I'm dealing with emotional baggage."
+  64: "I wondered why the baseball was getting bigger. Then it hit me."
+  65: "What's the difference between a hippo and a Zippo? One's really heavy and the other's a little lighter."
+  66: "I asked my dog what two minus two is. He said nothing."
+  67: "What did the computer do at lunchtime? Had a byte."
+  68: "What do you call a dinosaur that crashes his car? Tyrannosaurus wrecks."
+  69: "What do you call a bear with no teeth? A gummy bear."
+  70: "I had a dream I was a muffler. I woke up exhausted."
+  71: "Why did the invisible man turn down the job? He couldn't see himself doing it."
+  72: "What do you call a sleeping dinosaur? A dino-snore."
+  73: "Why did the tomato turn red? It saw the salad dressing."
+  74: "Why don't skeletons fight each other? They don't have the guts."
+  75: "This graveyard looks crowded. People must be dying to get in."
+  76: "I know a lot of jokes about unemployed people. None of them work."
+  77: "Why are elevator jokes so good? They work on so many levels."
+  78: "Why don't oysters share? They're shellfish."
+  79: "I asked the librarian if they had books on paranoia. She whispered, 'They're right behind you.'"
+  80: "What do you call a knight who's afraid to fight? Sir Render."
+  81: "What do you call a belt made of watches? A waist of time."
+  82: "Singing in the shower is fun until you get soap in your mouth. Then it's a soap opera."
+  83: "My wife says I never listen. Funny way to start a conversation."
+  84: "What did one toilet say to the other? You look flushed."
+  85: "Why do trees seem suspicious on sunny days? They're a little shady."
+  86: "Why don't clocks ever get hungry? They go back four seconds."
+  87: "Why did the clock get kicked out of class? It tocked too much."
+  88: "What do clouds wear under their clothes? Thunderwear."
+  89: "What kind of music do mummies listen to? Wrap."
+  90: "Why did the cookie go to the doctor? It was feeling crummy."
+  91: "What do you call a king who's only twelve inches tall? A ruler."
+  92: "What do you call a factory that makes okay products? A satisfactory."
+  93: "I was going to tell a time-travel joke, but you didn't like it."
+  94: "What's the best thing about Switzerland? I don't know, but the flag is a big plus."
+  95: "Why did the judge take the stand? He wanted his day in court."
+  96: "I'd tell you a construction joke, but I'm still working on it."
+  97: "I'm so good at sleeping I can do it with my eyes closed."
+  98: "Why don't maps ever get lost? They've got their own legend."
+  99: "What did the drummer name his twin daughters? Anna One, Anna Two."
+  100: "Where does the future live? Right next door. It just hasn't moved in yet."
+  101: "I used to run a dating service for chickens. I was struggling to make hens meet."
+  102: "What did the father say to the time traveler? Nothing. He already had."

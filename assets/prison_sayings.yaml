@@ -1,0 +1,750 @@
+# ADVENTURES WITH THE BULL
+# Production Asset Library: Prison Sayings
+# Version 1.0 — Final
+#
+# USAGE INSTRUCTIONS FOR STORY GENERATION:
+#   - Select ONE saying per story for Daniel's "Prison Joke" moment
+#   - Each saying is used ONCE across the 1,500-story series — no repeats
+#   - Mark used sayings in the pipeline tracker as consumed
+#   - Daniel deploys each saying with total innocence, at the most
+#     inappropriate possible moment, in front of the most ill-suited audience
+#   - The humor comes from the collision of context: ancient Egypt, a Civil
+#     War battlefield, the Moon landing, Teddy Roosevelt — and then Daniel,
+#     completely calm, dropping federal slang like it's normal
+#
+# STORY 1 ALREADY USES: "send a fax to the warden"
+#
+# FORMAT: "saying"  # definition | comedic deployment note
+#
+# CATEGORIES (for ease of selection):
+#   [BATHROOM]    — bodily function / toilet euphemisms (highest comedic yield)
+#   [FOOD]        — commissary, meals, prison cuisine
+#   [MOVEMENT]    — coming, going, transfers, release
+#   [STATUS]      — reputation, rank, standing
+#   [CONFLICT]    — fights, tension, violence (use carefully — keep it Daniel-innocent)
+#   [INFORMANTS]  — snitching culture
+#   [GUARDS]      — correctional officers
+#   [SURVIVAL]    — doing time, getting by, staying safe
+#   [HUMOR]       — widely known, culturally famous prison jokes
+#   [GENERAL]     — everyday prison life and vocabulary
+# ─────────────────────────────────────────────────────────────────────────────
+
+prison_sayings:
+
+  # ── BATHROOM ─────────────────────────────────────────────────────────────
+  # Highest comedic yield. Daniel deploying bathroom humor at a state dinner,
+  # on a battlefield, in the Oval Office, at the Vatican = pure gold.
+
+  - "send a fax to the warden"
+    # USED IN STORY 1. Meaning: need to use the toilet / have a bowel movement.
+    # Origin: federal BOP slang. The "warden" receives your "report."
+
+  - "time to feed the warden"
+    # Meaning: need to use the toilet. Variation of the above — different enough
+    # to deploy independently. Context: "Hold on, Colonel, I gotta go feed the warden."
+
+  - "drop the kids off at the pool"
+    # Meaning: have a bowel movement. Widely understood but lands perfectly when
+    # Daniel says it to, e.g., Abraham Lincoln mid-speech.
+
+  - "visit the reading room"
+    # Meaning: go to the bathroom. In prison, the toilet is the only place with any
+    # privacy or silence. Daniel: "One sec, I gotta visit the reading room."
+
+  - "conference call"
+    # Meaning: pushing water out of the toilet bowl to shout through the pipes to
+    # inmates in other cells. In a story context: Daniel suggesting a "conference call"
+    # when a character needs to communicate secretly. Absurdly plausible-sounding.
+
+  - "courtesy flush"
+    # Meaning: flushing repeatedly while using the toilet to minimize smell for your
+    # cellmate. A prison act of basic decency. Daniel explaining this concept to,
+    # say, Napoleon or Julius Caesar is comedic gold.
+
+  - "porcelain termite"
+    # Meaning: an inmate who destroys the toilet/sink in his cell when upset.
+    # Daniel: "My dad knew a porcelain termite once. Dude was thorough."
+
+  - "birdbath"
+    # Meaning: a quick sink wash instead of a full shower. Deployed when Daniel
+    # declines a Roman bath or a Revolutionary War creek: "It's fine, I'll just birdbath."
+
+  - "squat and cough"
+    # Meaning: the standard strip-search protocol — guards make inmates squat and
+    # cough to dislodge hidden contraband. In any formal setting, devastating timing.
+
+  - "permanent pocket"
+    # Meaning: the rectum, used for hiding contraband. Daniel casually referring to
+    # someone's "permanent pocket" in a period-appropriate context.
+
+  - "keister"
+    # Meaning: to hide contraband in one's anal cavity. Used as a verb. Daniel
+    # suggesting that a historical figure "keister" something for safekeeping.
+
+  - "suitcasing"
+    # Meaning: same as keistering — smuggling items via body cavity. Another word
+    # for the same activity. Daniel using it as if it's a normal travel term.
+
+  - "prison purse"
+    # Meaning: same as keistering — smuggling items via body cavity. Another word
+    # for the same activity. Ex: "just put it in your prison purse, they'll never find it."Daniel using it as if it's a normal travel term.
+
+  # ── FOOD & COMMISSARY ────────────────────────────────────────────────────
+  # Enormous comedic potential — especially when Daniel evaluates historically
+  # famous meals against federal commissary standards and finds them lacking.
+
+  - "jack mack"
+    # Meaning: canned mackerel — the high-value commissary protein, often used as
+    # prison currency. Daniel offering jack mack as payment to a historical figure.
+
+  - "spread" or "the boat"
+    # Meaning: a homemade commissary meal — ramen, chips, summer sausage, rice,
+    # hot sauce, whatever is available, mixed in a bag or on a tray. The prison
+    # equivalent of a home-cooked meal. Daniel evaluating any historical feast:
+    # "It's alright, but it's no spread."
+
+  - "mofongo"
+    # Meaning: federal prison's specific version of a spread — ramen, instant rice,
+    # mackerel, chips, sausage, seasoning, all mixed together. A beloved jailhouse
+    # meal. Daniel comparing any famous historical dish to mofongo.
+
+  - "cadillac"
+    # Meaning: (1) coffee with cream and sugar — a luxury in prison.
+    # (2) an inmate's bunk — the most comfortable spot in the cell.
+    # (3) a desirable, cushy work assignment.
+    # Triple meaning = rich comedic potential depending on context.
+
+  - "cadillac job"
+    # Meaning: a coveted, easy work assignment. Daniel complimenting any historical
+    # figure's occupation: "That's a cadillac job right there."
+
+  - "three hots and a cot"
+    # Meaning: basic prison existence — three meals and a bed. Daniel using it to
+    # evaluate any historical living situation, including castles, palaces, or space stations.
+
+  - "chow hall"
+    # Meaning: the prison dining room. Daniel calling any historical dining space
+    # a "chow hall" — the Versailles banquet hall, a Viking longhouse, the Last Supper.
+
+  - "choke sandwich"
+    # Meaning: a peanut butter sandwich with no jelly. The minimum. Daniel offering
+    # this description when evaluating any meager historical ration.
+
+  - "store day"
+    # Meaning: commissary delivery day — the best day of the week in federal prison.
+    # Daniel excitedly recognizing parallels: "Wait, is today store day?!"
+
+  - "on the books"
+    # Meaning: money held in an inmate's prison trust account. Daniel referencing
+    # whether someone has "anything on the books" when discussing trade or payment.
+
+  - "stamps"
+    # Meaning: books of postage stamps, used as currency inside federal prison.
+    # Daniel attempting to pay for something in stamps. In any era. Always wrong.
+
+  - "hooch" or "pruno"
+    # Meaning: homemade prison alcohol fermented from fruit, sugar, and bread.
+    # Daniel evaluating any historical wine or beverage and finding it comparable.
+
+  - "honey bear"
+    # Meaning: grain alcohol sold in small plastic bottles in federal prison.
+    # A contraband luxury item. Comes up when Daniel encounters any historical alcohol.
+
+  - "dirty"
+    # Meaning: homemade prison wine (i.e. before it is "shined" into liquor).
+    # A contraband luxury item. Comes up when Daniel encounters any historical wine.
+
+  - "missile"
+    # Meaning: a summer sausage — a commissary staple and also informal weapon.
+    # Daniel referring to any long cylindrical food item as a "missile."
+
+  - "coffee-shot"
+    # Meaning: a single serving of coffee sold by an inmate trying to earn commissary.
+    # The federal prison version of a coffee cart. Daniel asking if anyone's got a coffee-shot.
+
+  # ── MOVEMENT & TIME ──────────────────────────────────────────────────────
+  # Great for time-travel context — arrivals, departures, transfers.
+  # Daniel narrating their time-travel using these terms is inherently funny.
+
+  - "10 days and a wake-up"
+    # Meaning: ten days until release — you count the nights, plus the morning you leave.
+    # The most hopeful phrase in federal prison. Daniel doing the math on anything.
+
+  - "catch a chain"
+    # Meaning: get transferred to another federal facility. Daniel describing their
+    # time-travel arrivals/departures as "catching a chain."
+
+  - "diesel therapy"
+    # Meaning: being deliberately bussed from prison to prison as punishment — just
+    # as your commissary money arrives or your property gets returned, you're moved
+    # again. A form of bureaucratic torture. Daniel recognizing any historical
+    # involuntary journey as "diesel therapy."
+
+  - "roll it up"
+    # Meaning: pack your belongings and move — either leaving a cell or being transferred.
+    # Also used casually to mean "let's go." Danny uses this constantly; Daniel absorbed it.
+
+  - "back on the bricks"
+    # Meaning: being released, returning to the outside world. Any historical figure
+    # returning from exile, war, or captivity is "back on the bricks."
+
+  - "hit the bricks"
+    # Meaning: get out of prison; return to free society. Closely related to above.
+    # Different enough to deploy in a separate story.
+
+  - "short timer"
+    # Meaning: an inmate close to release. Anyone nearing the end of anything.
+    # Daniel to a king about to be deposed: "Don't worry, you're a short timer."
+
+  - "riding gate"
+    # Meaning: anxiously waiting for yard time or for release. Daniel recognizing the
+    # feeling in any historical figure pacing and waiting.
+
+  - "catching out"
+    # Meaning: completing your sentence; leaving. Daniel's version of "this is our stop."
+
+  - "bullet"
+    # Meaning: a one-year sentence. Daniel doing time math: "That's only a bullet."
+
+  - "dime"
+    # Meaning: a ten-year sentence. The flip side of the bullet.
+
+  - "bid"
+    # Meaning: your prison sentence in general. "Doing my bid." Daniel applying this
+    # to any duration of hardship a historical figure is enduring.
+
+  - "gate money"
+    # Meaning: the small amount of cash given to inmates upon release — usually
+    # $50 in federal system. Daniel referencing this when discussing any meager
+    # compensation or reward: "That's gate money."
+
+  - "the chain bus"
+    # Meaning: the transport bus used to move inmates between federal facilities.
+    # Daniel applying this to any historical vehicle or mode of transport.
+
+  - "buck rogers time"
+    # Meaning: a parole date so far in the future it seems like science fiction.
+    # Daniel evaluating any long wait or distant deadline.
+
+  # ── STATUS & REPUTATION ──────────────────────────────────────────────────
+  # Rich material for Daniel commenting on historical power structures,
+  # hierarchies, kings, generals, and anyone who thinks they're important.
+  - "chain gang sissy"
+    # Meaning: usually used when guys are ribbing each other. Like calling someone a "pussy".
+    # Daniel talking smack to his Dad saying "Don't be a chain gang sissy, Dad".
+
+  - "shot caller"
+    # Meaning: the most powerful person in a group — makes decisions, keeps order.
+    # Daniel identifying who the shot caller is in any historical situation.
+
+  - "has the keys"
+    # Meaning: controls the group; is the shot caller. "Who has the keys here?"
+    # Daniel asking this of any historical power structure.
+
+  - "O.G."
+    # Meaning: Original Gangster — a term of deep respect for a long-timer who has
+    # earned their standing through survival and service. Daniel bestowing this honor
+    # on George Washington, Einstein, Harriet Tubman, etc.
+
+  - "convict vs. inmate"
+    # Meaning: in prison culture, "convict" is a term of respect — someone who follows
+    # the code, handles their business, doesn't snitch. "Inmate" is a slur — weak,
+    # compliant, can't be trusted. Daniel explaining this distinction to anyone.
+
+  - "all day"
+    # Meaning: serving a life sentence. Also used admiringly: "He's been doing this
+    # all day." Daniel applying it to anyone with extraordinary endurance.
+
+  - "square john"
+    # Meaning: someone naive to prison culture; someone who follows all the rules.
+    # Daniel gently using this on well-meaning but oblivious historical figures.
+
+  - "car"
+    # Meaning: your group, crew, or allies in prison — based on race, geography, gang,
+    # or mutual loyalty. Daniel asking anyone "what car are you in?" in any setting.
+
+  - "in your car"
+    # Meaning: part of your group; having your back. Daniel reassuring any historical
+    # figure: "Don't worry, you're in our car."
+
+  - "wolf tickets"
+    # Meaning: talking tough with zero intention of backing it up. "Selling wolf tickets."
+    # Daniel calling out any historical blowhard: "He's just selling wolf tickets."
+
+  - "yard dog"
+    # Meaning: the inmate who controls or heavily influences the prison yard.
+    # Daniel identifying the "yard dog" in any historical power situation.
+
+  - "trustee"
+    # Meaning: an inmate given extra privileges for good behavior — often runs errands,
+    # has more freedom. Daniel recognizing any historically privileged servant or aide.
+
+  - "J-cat"
+    # Meaning: a crazy or mentally unstable person. Daniel, with great affection,
+    # applying this to any visionary or eccentric historical figure.
+
+  - "5150"
+    # Meaning: prison slang for crazy (from the California mental health hold code).
+    # Daniel diagnosing historical figures: "That guy is full 5150."
+
+  - "cellblock soldier"
+    # Meaning: someone who's tough when locked behind a door but a coward in person.
+    # Daniel identifying this type in any historical context.
+
+  - "cell warrior"
+    # Meaning: same as cellblock soldier — talks big, acts small.
+    # Slightly different phrasing, deployable separately.
+
+  - "paper tiger"
+    # Meaning: appears tough on paper or in reputation, doesn't deliver in person.
+    # Daniel evaluating any intimidating historical figure he's not impressed by.
+
+  - "lone wolf"
+    # Meaning: an inmate who doesn't affiliate with any gang or group. Operates solo.
+    # Daniel recognizing any historical independent: "Total lone wolf."
+
+  # ── GUARDS & AUTHORITY ───────────────────────────────────────────────────
+  # Golden material whenever Danny and Daniel encounter authority figures —
+  # which is every single story.
+
+  - "turn key"
+    # Meaning: a guard or corrections officer. Daniel referring to any historical
+    # authority figure — soldier, knight, palace guard — as "that turn key."
+
+  - "hack"
+    # Meaning: slang for a correctional officer. Daniel calling any uniformed
+    # authority figure a "hack" with complete innocence.
+
+  - "boss"
+    # Meaning: what federal inmates call guards to their face. Polite but coded.
+    # Daniel addressing any historical authority as "boss."
+
+  - "duck"
+    # Meaning: a guard who is gullible, easily manipulated, or can be bribed to
+    # bring in contraband. Daniel quietly clocking which historical figure is the duck.
+
+  - "cowboy"
+    # Meaning: a brand new correctional officer who doesn't know the culture yet.
+    # Daniel identifying any inexperienced authority figure: "Total cowboy."
+
+  - "hug-a-thug"
+    # Meaning: a corrections officer who treats prisoners with dignity and respect —
+    # considered weak by other guards. Daniel complimenting a kind historical authority.
+
+  - "ticketmaster"
+    # Meaning: a guard known for writing up inmates constantly.
+    # Daniel recognizing any historically strict overseer as a "ticketmaster."
+
+  - "khaki cop"
+    # Meaning: an inmate who enforces rules and bosses other inmates around as if
+    # they work for the guards. Usually assumed to be a snitch. Daniel identifying
+    # the khaki cop in any group dynamic.
+
+  - "cop duces"
+    # Meaning: calling for guards to intervene / save yourself. Considered deeply
+    # shameful. Daniel threatening to "cop duces" in any historical conflict.
+
+  # ── INFORMANTS & LOYALTY ─────────────────────────────────────────────────
+  # The federal prison code around snitching is sacred. This is Danny's world.
+  # Daniel absorbed all of it. These land hard in historical contexts of betrayal.
+
+  - "snitches get stitches"
+    # Meaning: informants face violent retribution. The most famous prison saying
+    # in popular culture. Daniel deploying it whenever a historical figure considers
+    # betrayal: to Brutus about Caesar, to a colonial loyalist, etc.
+
+  - "paperwork rules the feds"
+    # Meaning: in federal prison, your legal documents can be demanded — if your
+    # paperwork shows you cooperated, you don't walk the yard safely.
+    # Daniel asking any suspicious historical figure to "run their paperwork."
+
+  - "dry snitching"
+    # Meaning: informing on someone by talking loudly about their wrongdoing in
+    # front of guards without directly naming them. The coward's snitch.
+    # Daniel calling out any historical weasel: "That's just dry snitching."
+
+  - "dropping dimes"
+    # Meaning: informing on others. Daniel warning anyone: "Don't be dropping dimes."
+
+  - "run your paperwork"
+    # Meaning: prove you're not a snitch by producing your legal documents.
+    # Daniel demanding this of any historically suspicious character.
+
+  - "stay solid"
+    # Meaning: remain loyal; don't snitch or crack under pressure.
+    # Daniel coaching any historical figure before a pivotal moment.
+
+  - "keep your mud"
+    # Meaning: maintain your dignity; don't reveal private information under pressure.
+    # A code of honor. Daniel reminding Danny or a historical figure of this rule.
+
+  - "hold your mud"
+    # Meaning: keep your composure; don't show weakness. Closely related to above.
+    # Different enough to deploy separately.
+
+  - "snake in the grass"
+    # Meaning: a hidden snitch or backstabber. Daniel identifying one in any
+    # historical court, army, or crew: "I see a snake in the grass."
+
+  - "ear hustling"
+    # Meaning: eavesdropping on a conversation you weren't meant to hear.
+    # Daniel explaining to any historical figure that he's been ear hustling.
+
+  - "keep it 100"
+    # Meaning: be honest and authentic in your dealings. Like "keeping it real."
+    # Daniel encouraging anyone to "keep it 100."
+
+  # ── CONFLICT & CONFRONTATION ─────────────────────────────────────────────
+  # Use carefully — Daniel's innocence is the comedy. He's not threatening anyone.
+  # He's just describing things the way he learned to describe them.
+
+  - "called to the yard"
+    # Meaning: when two rival groups (races, gangs) summon each other to the yard
+    # to resolve a dispute before resorting to violence. A formal process.
+    # Daniel narrating any historical negotiation as "they got called to the yard."
+
+  - "go behind the back wall"
+    # Meaning: settle a dispute by fighting out of sight of guards — behind the wall
+    # where cameras can't see. Daniel suggesting this as dispute resolution.
+
+  - "green light"
+    # Meaning: official authorization to assault someone.
+    # Daniel casually noting that someone "has a green light" on them.
+
+  - "hoe check"
+    # Meaning: a group beating given to test whether a prisoner will stand up for
+    # himself. Daniel observing that any historical test of character was "basically a hoe check."
+
+  - "catch a fade"
+    # Meaning: to get into a fight. Quick and casual. Daniel suggesting two
+    # historical figures "catch a fade" to settle it.
+
+  - "pop off"
+    # Meaning: suddenly start a fight or create chaos. Daniel narrating any
+    # historical battle opening: "And then it just popped off."
+
+  - "molly-whopped"
+    # Meaning: to badly beat someone or be badly beaten. Extremely expressive.
+    # Daniel describing any historical military defeat.
+
+  - "brace up"
+    # Meaning: prepare yourself mentally and physically for confrontation.
+    # Daniel telling any historical figure to brace up before something hard.
+
+  - "one in the chamber"
+    # Meaning: tension is at its peak; someone is about to snap. Daniel reading
+    # the room in any historically volatile moment: "He's got one in the chamber."
+
+  - "rock and roll"
+    # Meaning: the moment everything breaks loose. Daniel's signal that it's time.
+
+  - "fire in the wire"
+    # Meaning: electrical tension in the air; violence is imminent.
+    # Daniel sensing this in any historical moment of escalating tension.
+
+  # ── SURVIVAL & DOING TIME ────────────────────────────────────────────────
+  # The philosophy of getting through hard things. Enormous thematic resonance
+  # with the series' core themes. These often become the story's lesson.
+
+  - "embrace the suck"
+    # Meaning: accept that conditions are miserable and adapt — complaining won't help.
+    # One of Danny's survival principles, absorbed by Daniel.
+
+  - "hard timing"
+    # Meaning: doing your sentence with constant stress, conflict, and difficulty.
+    # vs. "easy time." Daniel evaluating any historical hardship: "That's hard timing."
+
+  - "ride your beef"
+    # Meaning: serve your sentence without complaint; own what you did.
+    # Daniel coaching anyone facing consequences.
+
+  - "dead time"
+    # Meaning: time with no programming, no movement, no progress. Just waiting.
+    # Daniel recognizing any historical stalemate or pause as "dead time."
+
+  - "rack time"
+    # Meaning: time spent lying on your bunk. Rest. The small luxury of doing nothing.
+    # Daniel suggesting any historical figure get some rack time.
+
+  - "stir crazy"
+    # Meaning: losing your mind from isolation or monotony. Universal human condition.
+    # Daniel diagnosing it in any historically confined figure.
+
+  - "lost in the system"
+    # Meaning: stuck in bureaucratic limbo — no progress on your case, no movement,
+    # no answers. Daniel identifying this in any historical bureaucratic nightmare.
+
+  - "on the bubble"
+    # Meaning: at risk; under close watch; could go either way.
+    # Daniel giving a tactical assessment in any historical situation.
+
+  - "own your beef"
+    # Meaning: accept responsibility for what you did. A code of honor.
+    # Daniel telling any historical figure to own their beef.
+
+  - "took it to the chin"
+    # Meaning: absorbed punishment or loss without complaint.
+    # Daniel commending any historical figure who endured without breaking.
+
+  - "road dogs"
+    # Meaning: two inmates so close they do their time together; inseparable.
+    # Daniel using this for any great historical partnership or duo.
+
+  - "nobody rides for free"
+    # Meaning: everything in prison has a price — favors, protection, information.
+    # Daniel observing the transactional nature of any historical alliance.
+
+  - "ride or die"
+    # Meaning: absolute loyalty — you stay with someone through anything.
+    # Daniel describing any legendary historical partnership.
+
+  - "paying rent"
+    # Meaning: being forced to give up commissary for protection; tribute.
+    # Daniel recognizing any historical taxation or tribute as "paying rent."
+
+  - "heart check"
+    # Meaning: a test of someone's bravery or loyalty. Daniel framing any historical
+    # trial or moment of truth as "basically a heart check."
+
+  - "punk test"
+    # Meaning: seeing whether someone will stand up for themselves or fold under pressure.
+    # Daniel narrating any historical act of cowardice or courage.
+
+  - "stand-up count"
+    # Meaning: the federal prison count at 4pm and 9pm — all inmates must stand
+    # in their cells to be counted. Daniel insisting on a stand-up count in any
+    # historical group situation that needs organization.
+
+  - "on paper"
+    # Meaning: on probation or parole — technically free but still under supervision.
+    # Daniel explaining Danny's status to any historical figure who asks.
+
+  - "free world"
+    # Meaning: outside society; not behind bars. Daniel referring to any historical
+    # civilization as "the free world" with great solemnity.
+
+  - "3 hots and a cot"
+    # Meaning: the bare minimum of prison existence. Daniel evaluating any historical
+    # living situation against this baseline.
+
+  - "doing the dutch"
+    # Meaning: committing suicide in prison.
+    # Handle with care — only use in clearly comedic misunderstanding contexts.
+
+  # ── THE SHU & ISOLATION ──────────────────────────────────────────────────
+  # The darkest part of Danny's story. Daniel knows these terms from visits.
+  # The comedy here comes from the absurd formality Daniel applies.
+
+  - "the SHU"
+    # Meaning: the Special Housing Unit — federal prison's solitary confinement.
+    # The place that broke the most men. Daniel referencing it with the weight
+    # it deserves, in any historical context of isolation.
+
+  - "the hole"
+    # Meaning: solitary confinement. Same as the SHU, different name.
+    # Daniel identifying any historically isolated location as "the hole."
+
+  - "double deuce"
+    # Meaning: 22-23 hours a day in a cell, only 1-2 hours out.
+    # Daniel quantifying any historical captivity in "double deuce" terms.
+
+  - "on ice"
+    # Meaning: in segregation or in limbo — no progress, no movement.
+    # Daniel recognizing this condition in any historical prisoner or exile.
+
+  - "in the blind"
+    # Meaning: no visitors, no letters, no contact with the outside.
+    # Daniel describing any historically isolated figure.
+
+  # ── HUSTLE & ECONOMY ─────────────────────────────────────────────────────
+  # Daniel is entrepreneurial. He recognizes a hustle anywhere in history.
+
+  - "store-man"
+    # Meaning: an inmate who runs an unofficial store from his commissary —
+    # loans items at 50% interest until next store day. The prison loan shark.
+    # Daniel identifying the store-man in any historical marketplace or court.
+
+  - "swipe"
+    # Meaning: to trade or loan commissary items, often at interest.
+    # Daniel offering to "swipe" with any historical character.
+
+  - "storing out"
+    # Meaning: lending commissary at 50% interest until the next delivery.
+    # Daniel explaining compound interest to any historical figure.
+
+  - "hit a lick"
+    # Meaning: successfully pull off a hustle or scheme.
+    # Daniel celebrating any historical success: "They hit a lick."
+
+  - "hustling the guards"
+    # Meaning: manipulating or conning corrections officers.
+    # Daniel admiringly noting when any historical figure works the authority above them.
+
+  - "grievance hustle"
+    # Meaning: filing constant complaints to manipulate the institutional system.
+    # Daniel identifying this tactic in any historical bureaucratic manipulator.
+
+  - "two-for-one"
+    # Meaning: a deal in which you lend something and get double back.
+    # Daniel proposing this as terms for any historical exchange.
+
+  - "kite"
+    # Meaning: a secret note passed between inmates, or a formal written request
+    # to prison staff. Daniel referring to any secret historical communication as a "kite."
+
+  - "fishing line"
+    # Meaning: string or improvised line used to pass items between cells.
+    # Daniel proposing "fishing line" as a solution to any historical communication problem.
+
+  # ── HUMOR & WIDELY-KNOWN PRISON CULTURE ─────────────────────────────────
+  # These are the ones that exist in popular culture. Every reader knows them.
+  # The comedy is in Daniel deploying them with total sincerity and no irony.
+
+  - "don't drop the soap"
+    # The most famous prison joke in existence. Widely understood.
+    # Daniel offering this as genuine safety advice to any historical figure
+    # who mentions bathing. In Rome. In ancient Greece. On the Titanic.
+
+  - "yard time"
+    # Meaning: outdoor recreation period. A daily highlight.
+    # Daniel asking about yard time in any historical setting that has an outdoor space.
+
+  - "doing time"
+    # Meaning: serving a prison sentence. But Daniel applies it to any extended
+    # hardship. A pharaoh building a pyramid is "doing time."
+
+  - "Club Fed"
+    # Meaning: a minimum-security federal camp — the nicest, most comfortable version
+    # of federal prison. Often said mockingly. Daniel evaluating any historical
+    # luxury or comfort: "This is basically Club Fed."
+
+  - "government vacation"
+    # Meaning: doing a prison sentence — a bitter, ironic euphemism.
+    # Daniel referring to Danny's time as "the government vacation."
+
+  - "the big house"
+    # Meaning: prison itself. The most old-school term for the facility.
+    # Daniel calling any historically imposing building "the big house."
+
+  - "booking"
+    # Meaning: being processed into prison — photographed, fingerprinted, assigned.
+    # Daniel suggesting any historical enrollment or registration process is basically a booking.
+
+  - "shakedown"
+    # Meaning: a cell search for contraband by guards.
+    # Daniel recognizing any historical search or inspection as "a shakedown."
+
+  - "lockdown"
+    # Meaning: all inmates locked in cells — can last days, weeks, or months.
+    # Daniel identifying any historical quarantine, siege, or curfew as a lockdown.
+
+  - "fresh fish"
+    # Meaning: a new arrival who has never been incarcerated before.
+    # Daniel applying this to any historically naive newcomer.
+
+  - "back door parole"
+    # Meaning: dying in prison — leaving in a body bag rather than through the front gate.
+    # Dark, but Daniel deploys it with matter-of-fact innocence about any historical death.
+
+  - "dime bag"
+    # Meaning: originally $10 worth of drugs; in prison context, any small valuable thing.
+    # Daniel evaluating any historically modest treasure.
+
+  - "all day and a night"
+    # Meaning: a life-plus sentence — no possibility of ever leaving.
+    # Daniel applying this to any historically infinite or impossible task.
+
+  - "you have two ears, two eyes, and one mouth for a reason"
+    # Meaning: watch and listen far more than you talk. A fundamental survival rule.
+    # One of Danny's core principles. Daniel delivering it to any historically verbose figure.
+
+  - "I'll pull your yard card"
+    # Meaning: teasing threat — usually between friends when someone hasn't been seen.
+    # Daniel saying this to anyone who disappears temporarily in any historical adventure.
+
+  - "nobody asked you for your opinion — this ain't a democracy"
+    # Meaning: prison hierarchy is not up for debate. Daniel delivering this line
+    # to any historical figure who tries to vote on something.
+
+  - "soft time"
+    # Meaning: an easy sentence at a comfortable facility with minimal stress.
+    # Daniel evaluating any historically cushy position: "He's doing soft time."
+
+  - "catching Z's in the hole"
+    # Meaning: sleeping through solitary confinement — the only escape from it.
+    # Daniel applying this to any historically forced period of inactivity.
+
+  - "diesel"
+    # Meaning: prison-brewed coffee so strong it's basically motor oil.
+    # Daniel calling any historically strong beverage "diesel."
+
+  # ── BONUS: PHRASES WITH HIGH COMEDIC YIELD ───────────────────────────────
+  # These are the ones that sound the most absurd dropped into historical settings
+  # and should be saved for particularly high-stakes or formal story moments.
+
+  - "man down"
+    # Meaning: medical emergency; someone has been seriously hurt.
+    # Daniel shouting this in any historical battle or crisis.
+
+  - "on the mainline"
+    # Meaning: in general population — not in isolation or protective custody.
+    # Daniel describing any historical figure who moves freely among people.
+
+  - "running the yard"
+    # Meaning: controlling what happens in a space; being the dominant force.
+    # Daniel observing who "runs the yard" in any historical setting.
+
+  - "bought and paid for"
+    # Meaning: someone who has been bribed or is fully under another's control.
+    # Daniel identifying this in any historically corrupt relationship.
+
+  - "keep it one hundred"
+    # Meaning: be completely honest; don't exaggerate or lie.
+    # Daniel demanding this of any historically diplomatic or evasive figure.
+
+  - "that ain't gonna fly on the yard"
+    # Meaning: what you're suggesting would not be acceptable in prison culture.
+    # Daniel vetoing any historically absurd proposition with this phrase.
+
+  - "the warden runs this"
+    # Meaning: ultimate authority belongs to whoever is in charge.
+    # Daniel acknowledging power structures in any historical situation.
+
+  - "doing it the hard way"
+    # Meaning: serving time without any deals, reduced sentences, or cooperation —
+    # the honorable but brutal route. Daniel recognizing this in any historical figure
+    # who refuses to take an easy way out.
+
+  - "lights out"
+    # Meaning: mandatory lights-off time in federal prison — the day is over.
+    # Daniel calling an end to anything with great finality: "Lights out."
+
+  - "first-time down"
+    # Meaning: someone serving their very first prison sentence.
+    # Daniel clocking any historically naive character as "first-time down."
+
+  - "stand your ground"
+    # Meaning: in prison, refusing to back down from a confrontation is survival.
+    # In a story, this carries the double weight of being both prison code
+    # and genuine life advice Danny has given Daniel.
+
+  - "never let them see you sweat"
+    # Meaning: show no fear, no weakness, ever — it will be exploited.
+    # Danny's most fundamental survival lesson. Daniel has internalized it completely.
+
+  - "politics"
+    # Meaning: the complex unspoken rules, alliances, and power dynamics of prison life.
+    # Daniel observing that any historical power struggle is "just politics."
+
+  - "doing my bid"
+    # Meaning: serving my sentence; getting through what I have to get through.
+    # Daniel applying this to any extended difficult experience.
+
+  - "went to school in here"
+    # Meaning: someone who received their real education inside prison — learned
+    # everything they know from incarceration. Danny literally did. Daniel knows this.
+    # Daniel telling any historical scholar: "My dad went to school in here."
+
+  - "this is a test"
+    # Meaning: in prison, everything is a test of character. Someone is always watching.
+    # Daniel offering this frame to any historically confused or challenged figure.

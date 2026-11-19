@@ -116,10 +116,11 @@ _The milk-white eyes are canon (Stories 2–3). Reference images: author to supp
 an elegant woman in her early forties, composed and warm, dark hair pulled back, clean strong facial structure, tired eyes that miss nothing, practical stylish clothing, standing beside [HER CAR FOR THIS STORY — rotates every story; so far an army-green Jeep Wrangler (S1) and a blue Audi A7 (S2); pick something different next time]
 ```
 
-**Jenni (the Girlfriend — introduced Story 3):**
+**Jenni (the Girlfriend — introduced Story 3)** — _APPROVED reference set exists: `references/approved/jenni/` (8 images). Route `flux2max` (black-forest-labs/flux-2-max) with 3–6 of those images as `input_images`. Full guide: `characters/jenni/image-guide.md`; bible: `characters/jenni/bible.md`._
 ```
-a beautiful woman in her late forties with an understated natural beauty, no makeup, long natural wavy California-surfer blonde hair the color of dry hay worn loose and a little wild, bohemian fine-line botanical tattoos up one forearm, a small crescent moon tattoo behind one ear, silver rings on most fingers, thrifted men's chambray shirt with rolled sleeves, warm open amused expression, laid-back earthy new-age hippy energy, youthful spirit, standing beside a purple Jeep Wrangler
+the same woman as the reference images, 47-year-old pretty woman who reads younger, slender 5'5" 110 lbs, natural curly blond hair with a red flower tucked in, thin gold forehead band with a small turquoise stone, bright blue eyes, light freckles, big happy open smile, turquoise drop earrings, bohemian mandala and botanical tattoos on both arms, silver rings, faded vintage black Nirvana rock t-shirt, black leggings, barefoot (or checkered black-and-white vintage Vans), light happy hippy-bohemian-gypsy energy
 ```
+_Prior (pre-reference) block, retired:_ chambray / one-forearm botanical tattoos — superseded by the author's approved renders (2026-11-18). Chambray remains a valid alternate outfit.
 
 **Grandpa (Danny's father):**
 ```
